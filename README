@@ -1,0 +1,12 @@
+GameLV - Adventure Game in Post Soviet Environment
+--------------------------------------------------
+
+Ubuntu:
+-------
+
+sudo apt-get install libglu-dev libsdl1.2-dev libsdl-mixer1.2-dev \
+     	     	     libsdl-image1.2-dev libsmpeg-dev g++ binutils
+
+make -C source/
+cd data
+./run.sh
