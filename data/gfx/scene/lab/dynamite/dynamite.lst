@@ -1,0 +1,60 @@
+animation_transform
+SPLINE_TRANSFORMATION
+250
+3
+5
+0
+0
+-205
+0
+-410
+135
+end_animation_transform
+
+animation_block
+# x un y ofseti
+-20
+-20
+# total frames & speed
+32
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\dynamite\dynamite0000.png"
+"gfx\scene\lab\dynamite\dynamite0001.png"
+"gfx\scene\lab\dynamite\dynamite0002.png"
+"gfx\scene\lab\dynamite\dynamite0003.png"
+"gfx\scene\lab\dynamite\dynamite0004.png"
+"gfx\scene\lab\dynamite\dynamite0005.png"
+"gfx\scene\lab\dynamite\dynamite0006.png"
+"gfx\scene\lab\dynamite\dynamite0007.png"
+"gfx\scene\lab\dynamite\dynamite0008.png"
+"gfx\scene\lab\dynamite\dynamite0009.png"
+"gfx\scene\lab\dynamite\dynamite0010.png"
+"gfx\scene\lab\dynamite\dynamite0011.png"
+"gfx\scene\lab\dynamite\dynamite0012.png"
+"gfx\scene\lab\dynamite\dynamite0013.png"
+"gfx\scene\lab\dynamite\dynamite0014.png"
+"gfx\scene\lab\dynamite\dynamite0015.png"
+"gfx\scene\lab\dynamite\dynamite0016.png"
+"gfx\scene\lab\dynamite\dynamite0017.png"
+"gfx\scene\lab\dynamite\dynamite0018.png"
+"gfx\scene\lab\dynamite\dynamite0019.png"
+"gfx\scene\lab\dynamite\dynamite0020.png"
+"gfx\scene\lab\dynamite\dynamite0021.png"
+"gfx\scene\lab\dynamite\dynamite0022.png"
+"gfx\scene\lab\dynamite\dynamite0023.png"
+"gfx\scene\lab\dynamite\dynamite0024.png"
+"gfx\scene\lab\dynamite\dynamite0025.png"
+"gfx\scene\lab\dynamite\dynamite0026.png"
+"gfx\scene\lab\dynamite\dynamite0027.png"
+"gfx\scene\lab\dynamite\dynamite0028.png"
+"gfx\scene\lab\dynamite\dynamite0029.png"
+"gfx\scene\lab\dynamite\dynamite0030.png"
+"gfx\scene\lab\dynamite\dynamite0031.png"
+end_animation_block

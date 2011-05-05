@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_DEGUSTEETAVA_STANGAS
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  458
+  329
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\degusteetava\stangas mask.png"
+  ""
+  "Pliers"
+ end_hotspot_animation
+
+end_hotspot

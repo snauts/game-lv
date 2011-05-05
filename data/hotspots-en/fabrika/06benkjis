@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKA_BENKJIS
+ 103
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  1027
+  341
+  1
+  "gfx\scene\fabrika\benkjis.lst"
+  "gfx\scene\fabrika\benkjis mask.png"
+  ""
+  "Broken bench"
+ end_hotspot_animation
+end_hotspot

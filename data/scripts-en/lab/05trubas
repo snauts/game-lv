@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_TRUBAS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_TRUBAS
+
+ action 
+  ACTION_SAY_TEXT
+  "These pipes lead to the open sewage that I saw earlier."
+ end_action
+
+end_script

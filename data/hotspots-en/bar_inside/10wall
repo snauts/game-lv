@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_WALL
+ 262
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  382
+  0
+  1
+  "gfx\scene\bar_inside\wall.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Wall"
+ end_hotspot_animation
+end_hotspot

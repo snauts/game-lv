@@ -1,0 +1,13 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_PUDELES
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_PUDELES
+
+ action 
+  ACTION_SAY_TEXT
+  "I wish I had a banana picker!"
+ end_action
+
+end_script

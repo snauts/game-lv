@@ -1,0 +1,71 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+3
+4
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\sea_scape\tail0016.png"
+"gfx\scene\sea_scape\tail0000.png"
+"gfx\scene\sea_scape\tail0001.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\sea_scape\tail0002.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+3
+4
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\sea_scape\tail0001.png"
+"gfx\scene\sea_scape\tail0000.png"
+"gfx\scene\sea_scape\tail0016.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\sea_scape\tail0017.png"
+end_animation_block

@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_PLAAKSNE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_PLAAKSNE
+
+ action 
+  ACTION_SAY_TEXT
+  "The plaque reads \"Gos. mjas. kom.\"."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_PUMPIS
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  469 
+  76  
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_inside\pump mask.png"
+  ""
+  "Beer pump"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_LOGS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  77
+  160
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\fabrikas_ieeja\logs mask.png"
+  ""
+  "Window"
+ end_hotspot_animation
+end_hotspot

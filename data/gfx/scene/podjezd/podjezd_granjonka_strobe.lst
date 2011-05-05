@@ -1,0 +1,19 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+4
+50
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\podjezd_granjonka.png"
+"gfx\scene\podjezd\podjezd_granjonka_light.png"
+"gfx\scene\podjezd\podjezd_granjonka.png"
+"gfx\scene\podjezd\podjezd_granjonka_light.png"
+end_animation_block

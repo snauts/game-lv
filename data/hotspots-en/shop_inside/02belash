@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_BELASH
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  62
+  254 
+  1
+  "gfx\scene\shop_inside\shop_belashi.lst"
+  "gfx\scene\shop_inside\shop_belashi_mask.png"
+  ""
+  "Belash pile"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FOREST_MUSHROOM
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  570
+  310
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\forest\mushrooms.png"
+  ""
+  "Mushrooms"
+ end_hotspot_animation
+end_hotspot

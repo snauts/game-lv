@@ -1,0 +1,16 @@
+animation_block
+# x un y ofseti
+-32	
+-32
+# total frames & speed
+1
+100
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+-1
+# image files
+"gfx\char\char_shadow.png"
+end_animation_block

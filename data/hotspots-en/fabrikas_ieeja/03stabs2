@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_STABS2
+ 92
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  451
+  232
+  1
+  "gfx\scene\fabrikas_ieeja\stabs2.lst"
+  "gfx\scene\fabrikas_ieeja\stabs2 mask.png"
+  ""
+  "Pillar"
+ end_hotspot_animation
+end_hotspot

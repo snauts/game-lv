@@ -1,0 +1,241 @@
+walkmask
+ "gfx\scene\lab\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   76
+   323
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   258
+   293
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   391
+   303
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   489
+   356
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   506
+   362
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   540
+   442
+   -1
+   graph_node_lines
+    4
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   106
+   441
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   7
+   155
+   354
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

@@ -1,0 +1,308 @@
+script
+ SCRIPT_WINE_CELLAR_DRINK
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_VIINS
+
+ action
+  ACTION_MOVE_CHARACTER
+  414
+  465
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_LOW_DRINK_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_135_LOW_DRINK_3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_VIINS
+  1
+ end_action
+
+ action 
+  ACTION_WAIT_TIME
+  400
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  0
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  490
+  475
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_XXX_DRUNK
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_VIINS
+  0
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "A few moments later..."
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  2
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_SNORT
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  0
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "After a while..."
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  414
+  465
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_135_LOW_DRINK_3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_VIINS
+  1
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  2
+ end_action
+
+ action 
+  ACTION_WAIT_TIME
+  400
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  0
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  490
+  475
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_XXX_DRUNK
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_TALK
+  CHARACTER_XXX_DRUNK
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_VIINS
+  0
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "After a long while..."
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  2
+ end_action
+
+ action 
+  ACTION_SAY_TEXT	
+  "Mom, can I skip school today?"
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  0
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "Later that day..."
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  414
+  465
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_TALK
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  2
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "And now one for the road."
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_LOW_DRINK_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_135_LOW_DRINK_3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_VIINS
+  1
+ end_action
+
+ action 
+  ACTION_WAIT_TIME
+  160
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_VIINS
+  0
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_LOW_DRINK_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Please don't make me do this again!"
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

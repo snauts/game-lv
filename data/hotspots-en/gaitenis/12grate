@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_GRATE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  218
+  239
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\gaitenis\grate mask.png"
+  ""
+  "Ventilation shaft"
+ end_hotspot_animation
+
+end_hotspot

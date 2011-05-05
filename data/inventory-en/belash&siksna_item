@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_BELASH&SIKSNA
+ "Belash on leash"
+ "Poor substitute for a dog"
+ "gfx\inventory\belash+siksna.lst"
+ "gfx\inventory\belash+siksna_light.lst"
+end_inventory_item

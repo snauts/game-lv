@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SEA_SCAPE_TAIL
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  480
+  255
+  1
+  "gfx\scene\sea_scape\tail.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Tail"
+ end_hotspot_animation
+end_hotspot

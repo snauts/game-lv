@@ -1,0 +1,63 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_TANTUKS
+ 465
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  118
+  158
+  1
+  "gfx\scene\shop_inside\tantuks\tantuks1.lst"
+  "gfx\scene\shop_inside\tantuks\mask.png"
+  ""
+  "Shopkeeper"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  118
+  158
+  1
+  "gfx\scene\shop_inside\tantuks\talk.lst"
+  "gfx\scene\shop_inside\tantuks\mask.png"
+  ""
+  "Shopkeeper"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  118
+  158
+  1
+  "gfx\scene\shop_inside\tantuks\tantuks2.lst"
+  "gfx\scene\shop_inside\tantuks\mask.png"
+  ""
+  "Seller"
+ end_hotspot_animation
+
+ hotspot_animation
+  3
+  118
+  158
+  1
+  "gfx\scene\shop_inside\tantuks\tantuks3.lst"
+  "gfx\scene\shop_inside\tantuks\mask.png"
+  ""
+  "Shopkeeper"
+ end_hotspot_animation
+
+ hotspot_animation
+  4
+  118
+  158
+  1
+  "gfx\scene\shop_inside\tantuks\tantuks4.lst"
+  "gfx\scene\shop_inside\tantuks\mask.png"
+  ""
+  "Shopkeeper"
+ end_hotspot_animation
+
+end_hotspot

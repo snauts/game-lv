@@ -1,0 +1,60 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_IZEJA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_IZEJA
+
+ action
+  ACTION_MOVE_CHARACTER
+  20
+  293
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_VILLA
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  288
+  406
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  800
+  460
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+
+
+end_script

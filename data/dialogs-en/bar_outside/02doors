@@ -1,0 +1,73 @@
+dialog
+ DIALOG_BAR_OUTSIDE_DOORS
+ 1
+
+ dialog_question
+  1
+  -1
+  -1
+  0
+  "(Silence)"
+  ""
+  dialog_answer
+   6
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer  
+ end_dialog_question
+
+ dialog_question
+  6
+  -1
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   3
+   SCRIPT_BAR_OUTSIDE_KNOCK
+   -1
+   0
+   "Knock! Knock!"
+   "sound\bar_outside\01knock.wav"
+  end_dialog_answer
+  dialog_answer
+   2
+   -1
+   -1
+   0
+   "Nevermind.##There's no answer."
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  2
+  -1
+  -1
+  0
+  ""
+  ""
+ end_dialog_question
+
+ dialog_question
+  3
+  SCRIPT_BAR_OUTSIDE_UNKNOCK
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer  
+ end_dialog_question
+
+end_dialog

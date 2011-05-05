@@ -1,0 +1,29 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+20
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\water\water0.png"
+"gfx\scene\fabrika\water\water1.png"
+"gfx\scene\fabrika\water\water2.png"
+"gfx\scene\fabrika\water\water3.png"
+"gfx\scene\fabrika\water\water4.png"
+"gfx\scene\fabrika\water\water5.png"
+"gfx\scene\fabrika\water\water6.png"
+"gfx\scene\fabrika\water\water7.png"
+"gfx\scene\fabrika\water\water6.png"
+"gfx\scene\fabrika\water\water5.png"
+"gfx\scene\fabrika\water\water4.png"
+"gfx\scene\fabrika\water\water3.png"
+"gfx\scene\fabrika\water\water2.png"
+"gfx\scene\fabrika\water\water1.png"
+end_animation_block

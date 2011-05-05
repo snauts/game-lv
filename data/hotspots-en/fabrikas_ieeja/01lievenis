@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_LIEVENIS
+ 147
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  330
+  307
+  1
+  "gfx\scene\fabrikas_ieeja\lievenis.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Porch"
+ end_hotspot_animation
+end_hotspot

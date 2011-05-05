@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKA_POSTER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  920
+  0
+  1
+  "gfx\scene\fabrika\poster\poster.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Sign"
+ end_hotspot_animation
+end_hotspot

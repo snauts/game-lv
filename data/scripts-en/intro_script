@@ -1,0 +1,234 @@
+script 
+ SCRIPT_INTRO
+ 1     
+ SIMPLE_SCRIPT
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_STREET
+  1
+ end_action       
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES                               
+  613
+  304             
+ end_action       
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+ 
+ action
+  ACTION_MOVE_CHARACTER
+  511
+  310
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+ 
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+ 
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+ 
+ action
+  ACTION_SAY_TEXT
+  "Fudge, Fudge!"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Come here, boy!"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  300
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  313
+  384
+ end_action
+ 
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+ 
+ action
+  ACTION_SAY_TEXT
+  "If you don't come here right now, you'll spend the next month on a leash!"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+ 
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "And with a muzzle as well!"
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  300
+ end_action
+ 
+ action
+  ACTION_SAY_TEXT
+  "Fudge?"
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  300
+ end_action
+ 
+ action
+  ACTION_SAY_TEXT
+  "Hmm...."
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  13
+  464
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_KRESTS
+  1
+ end_action       
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES                               
+  624
+  312             
+ end_action       
+
+ action
+  ACTION_MOVE_CHARACTER
+  304
+  378
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+ 
+ action
+  ACTION_SAY_TEXT
+  "That's weird."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I can't find him anywhere."
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  200
+ end_action
+ 
+ action
+  ACTION_PLAY_MUSIC
+  MUSIC_STREET
+  DO_NOT_INTERUPT_MUSIC
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script 

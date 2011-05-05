@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_PUDELES
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  59
+  38
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\cellar_entrance\pudeles mask.png"
+  ""
+  "Bottles"
+ end_hotspot_animation
+end_hotspot

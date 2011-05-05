@@ -1,0 +1,18 @@
+script
+ SCRIPT_WINE_CELLAR_KREESLS2
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_KREESLS2
+
+ action 
+  ACTION_SAY_TEXT
+  "An old chair."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Termites have been working hard on it."
+ end_action
+
+end_script

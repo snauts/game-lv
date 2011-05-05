@@ -1,0 +1,285 @@
+script
+ SCRIPT_LAB_SKAPIS
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_SKAPIS
+
+ action
+  ACTION_MOVE_CHARACTER
+  438
+  300
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+## Key #######################################################################
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_HIGH_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_TAKE
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_HIGH_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "A key! Useless..."
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_THROW_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_000_THROW_3
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_LAB_KEY
+  1
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_KEY
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_THROW_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+## Dynamite ###################################################################
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_HIGH_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_TAKE
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_HIGH_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "A dynamite stick! Don't need it."
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_THROW_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_000_THROW_3
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_LAB_DYNAMITE
+  1
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_THROW_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_BOOM
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_LAB_EXPLOSION
+  1
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_PRIEKSHTELPA1
+ end_action
+
+ action
+  ACTION_HIDE_CHARACTER
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_TALK
+  1
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") Damn it! Did the gas pipe blow up again?"
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_TALK
+  0
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_OTHER
+  1
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_EEP
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_OTHER
+  2
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\'s" brother) That's not our..."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_OTHER
+  1
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_EEP
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_OTHER
+  2
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\'s" brother) ...problem."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_OTHER
+  0
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_LAB
+ end_action
+
+ action
+  ACTION_SHOW_CHARACTER
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+## Sulfur #####################################################################
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_HIGH_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_TAKE
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_HIGH_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_SULFUR
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "A piece of sulfur! Hm, that may come in handy."
+ end_action
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_GAITENIS_EXPLOSION
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

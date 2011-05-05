@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_ZIVS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  77
+  238
+  1
+  "gfx\scene\atpuutas_telpa\zivs\zivs.lst"
+  "gfx\scene\atpuutas_telpa\aqua mask.png"
+  ""
+  "Fish tank"
+ end_hotspot_animation
+end_hotspot

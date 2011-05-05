@@ -1,0 +1,17 @@
+script
+ SCRIPT_FOREST_BIG
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FOREST_BIG
+
+ action 
+  ACTION_SAY_TEXT
+  "After years of laborious research, Estonian scientists agree:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "You need to have at least two trees to get lost in the woods!"
+ end_action
+end_script

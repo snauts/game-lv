@@ -1,0 +1,18 @@
+script
+ SCRIPT_VILLA_ROZES3
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_ROZES3
+
+ action 
+  ACTION_SAY_TEXT
+  "A rose is a rose is a rose..."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Now I'm confused."
+ end_action
+
+end_script

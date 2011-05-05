@@ -1,0 +1,8 @@
+sound
+ SOUND_DABL_BARK
+ 0
+ 100
+ 1
+ 1
+ "sound\script\dabl-bark.wav"
+end_sound

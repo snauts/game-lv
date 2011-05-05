@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_LEAVE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  460
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\wine_cellar\leave mask.png"
+  ""
+  "To the front side of cellar"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,8 @@
+sound
+ SOUND_TAKE_FROM_NAIL
+ 0
+ 127
+ 1
+ 1
+ "sound\cellar_entrance\01take_from_nail.wav"
+end_sound

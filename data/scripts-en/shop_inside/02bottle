@@ -1,0 +1,31 @@
+script
+ SCRIPT_SHOP_INSIDE_BOTTLE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_INSIDE_BOTTLES
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "To drink or not to drink? That is the question."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Until I find Fudge - not."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "After that - why not!"
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

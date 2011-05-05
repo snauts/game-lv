@@ -1,0 +1,27 @@
+script
+ SCRIPT_PODJEZD_ELECTRIC
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PODJEZD_ELECTRIC
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "The Ministry of Public Health reminds us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Electricity is not a toy."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

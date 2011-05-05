@@ -1,0 +1,21 @@
+script
+ SCRIPT_BAR_INSIDE_PUDELES
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_INSIDE_PUDELES
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Strong booze makes me sick and hung over."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_HAMMER
+ "Hammer"
+ "thing hammering things"
+ "gfx\inventory\hammer.lst"
+ "gfx\inventory\hammer_light.lst"
+end_inventory_item

@@ -1,0 +1,40 @@
+script
+ SCRIPT_VILLA_FENCE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_FENCE_OTHER
+
+ action 
+  ACTION_SAY_TEXT
+  "Let me say this once more:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I don't do sports."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I'm dodging the army's draft."
+ end_action
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  NO
+  1
+  "got_dog?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I've got a dog with me."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I'm not going to climb over the spiky fence."
+ end_action
+
+end_script

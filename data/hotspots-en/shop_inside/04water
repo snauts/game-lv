@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_WATER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  550 
+  428
+  1
+  "gfx\scene\shop_inside\shop_water.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Water"
+ end_hotspot_animation
+end_hotspot

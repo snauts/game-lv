@@ -1,0 +1,25 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+10
+5
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\135_middle_mouse_0000.png"
+"gfx\char\135_middle_mouse_0001.png"
+"gfx\char\135_middle_mouse_0002.png"
+"gfx\char\135_middle_mouse_0003.png"
+"gfx\char\135_middle_mouse_0004.png"
+"gfx\char\135_middle_mouse_0005.png"
+"gfx\char\135_middle_mouse_0006.png"
+"gfx\char\135_middle_mouse_0007.png"
+"gfx\char\135_middle_mouse_0008.png"
+"gfx\char\135_middle_mouse_0009.png"
+end_animation_block

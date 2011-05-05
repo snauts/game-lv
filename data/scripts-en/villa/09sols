@@ -1,0 +1,13 @@
+script
+ SCRIPT_VILLA_SOLS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_SOLS
+
+ action 
+  ACTION_SAY_TEXT
+  "I'd love to, but there's no time."
+ end_action
+
+end_script

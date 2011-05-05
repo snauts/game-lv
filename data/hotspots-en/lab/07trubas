@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_TRUBAS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  68
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\lab\trubas mask.png"
+  ""
+  "Pipes"
+ end_hotspot_animation
+end_hotspot

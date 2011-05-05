@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_FOLIJA
+ "Tinfoil"
+ "Piece of tinfoil"
+ "gfx\inventory\folija.lst"
+ "gfx\inventory\folija_light.lst"
+end_inventory_item

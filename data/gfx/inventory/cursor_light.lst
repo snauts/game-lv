@@ -1,0 +1,22 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+7
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\cursor\cursor0000.png"
+"gfx\inventory\cursor\cursor0001.png"
+"gfx\inventory\cursor\cursor0002.png"
+"gfx\inventory\cursor\cursor0003.png"
+"gfx\inventory\cursor\cursor0004.png"
+"gfx\inventory\cursor\cursor0005.png"
+"gfx\inventory\cursor\cursor0006.png"
+end_animation_block

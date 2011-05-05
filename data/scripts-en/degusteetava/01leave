@@ -1,0 +1,54 @@
+script
+ SCRIPT_DEGUSTEETAVA_LEAVE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_DEGUSTEETAVA_LEAVE
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  479
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_GAITENIS
+ end_action       
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  451
+  311
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  421
+  311
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

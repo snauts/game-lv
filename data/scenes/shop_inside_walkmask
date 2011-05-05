@@ -1,0 +1,9 @@
+walkmask
+ "gfx\scene\shop_inside\shop_inside_mask.png"
+ "0.75"
+ "0.0"
+ graph
+
+
+ end_graph
+end_walkmask

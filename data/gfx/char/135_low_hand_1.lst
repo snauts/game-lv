@@ -1,0 +1,31 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+16
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\135_low_hand_0000.png"
+"gfx\char\135_low_hand_0001.png"
+"gfx\char\135_low_hand_0002.png"
+"gfx\char\135_low_hand_0003.png"
+"gfx\char\135_low_hand_0004.png"
+"gfx\char\135_low_hand_0005.png"
+"gfx\char\135_low_hand_0006.png"
+"gfx\char\135_low_hand_0007.png"
+"gfx\char\135_low_hand_0008.png"
+"gfx\char\135_low_hand_0009.png"
+"gfx\char\135_low_hand_0010.png"
+"gfx\char\135_low_hand_0011.png"
+"gfx\char\135_low_hand_0012.png"
+"gfx\char\135_low_hand_0013.png"
+"gfx\char\135_low_hand_0014.png"
+"gfx\char\135_low_hand_0015.png"
+end_animation_block

@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_KOLBA
+ "Flask"
+ "Empty flask"
+ "gfx\inventory\kolba.lst"
+ "gfx\inventory\kolba_light.lst"
+end_inventory_item

@@ -1,0 +1,8 @@
+sound
+ SOUND_HIT3
+ 0
+ 128
+ 1
+ 1
+ "sound\gaitenis\03hit3.wav"
+end_sound

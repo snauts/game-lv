@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_FOLIJA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  89
+  248
+  1
+  "gfx\scene\gaitenis\folija.lst"
+  "gfx\scene\gaitenis\folija mask.png"
+  ""
+  "Piece of tin foil"
+ end_hotspot_animation
+
+end_hotspot

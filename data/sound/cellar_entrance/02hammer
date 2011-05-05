@@ -1,0 +1,8 @@
+sound
+ SOUND_HAMMER
+ 0
+ 120
+ 1
+ 1
+ "sound\cellar_entrance\02hammer.wav"
+end_sound

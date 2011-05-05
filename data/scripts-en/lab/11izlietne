@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_IZLIETNE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_IZLIETNE
+
+ action 
+  ACTION_SAY_TEXT
+  "My hands are clean."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_OUTSIDE_TO_BAR
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_outside\shop_outside_to_bar_mask.png"
+  ""
+  "To the bar"
+ end_hotspot_animation
+end_hotspot

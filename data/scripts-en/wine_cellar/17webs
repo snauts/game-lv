@@ -1,0 +1,13 @@
+script
+ SCRIPT_WINE_CELLAR_WEBS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_WEBS
+
+ action 
+  ACTION_SAY_TEXT
+  "Spider webs - just like you would expect in a real cellar."
+ end_action
+
+end_script

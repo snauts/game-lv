@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKA_KAUSS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_KAUSS
+
+ action 
+  ACTION_SAY_TEXT
+  "He's glued to the TV screen,\n\rhe wouldn't even notice if I did something to his beer mug."
+ end_action
+
+end_script

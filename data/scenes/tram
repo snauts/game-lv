@@ -1,0 +1,8 @@
+scene
+ SCENE_TRAM
+ "gfx\scene\tram\tram.lst"
+ "scenes\tram_walkmask"
+ "sound\ambient\09tram"
+ hotspots
+ end_hotspots                     
+end_scene                         

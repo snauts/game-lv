@@ -1,0 +1,23 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+50
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\tv\tv0.png"
+"gfx\scene\fabrika\tv\tv1.png"
+"gfx\scene\fabrika\tv\tv2.png"
+"gfx\scene\fabrika\tv\tv3.png"
+"gfx\scene\fabrika\tv\tv4.png"
+"gfx\scene\fabrika\tv\tv5.png"
+"gfx\scene\fabrika\tv\tv6.png"
+"gfx\scene\fabrika\tv\tv7.png"
+end_animation_block

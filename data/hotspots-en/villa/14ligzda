@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_NEST
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  635
+  43
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\villa\ligzda.png"
+  ""
+  "Nest"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+script
+ SCRIPT_FABRIKA_TV
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_TV
+
+ action 
+  ACTION_SAY_TEXT
+  "Porn and beer."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "What a job!"
+ end_action
+
+end_script

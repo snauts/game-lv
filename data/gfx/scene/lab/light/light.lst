@@ -1,0 +1,46 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+30
+7
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\light\light0000.png"
+"gfx\scene\lab\light\light0001.png"
+"gfx\scene\lab\light\light0002.png"
+"gfx\scene\lab\light\light0003.png"
+"gfx\scene\lab\light\light0004.png"
+"gfx\scene\lab\light\light0005.png"
+"gfx\scene\lab\light\light0006.png"
+"gfx\scene\lab\light\light0007.png"
+"gfx\scene\lab\light\light0008.png"
+"gfx\scene\lab\light\light0009.png"
+"gfx\scene\lab\light\light0010.png"
+"gfx\scene\lab\light\light0011.png"
+"gfx\scene\lab\light\light0012.png"
+"gfx\scene\lab\light\light0013.png"
+"gfx\scene\lab\light\light0014.png"
+"gfx\scene\lab\light\light0015.png"
+
+"gfx\scene\lab\light\light0014.png"
+"gfx\scene\lab\light\light0013.png"
+"gfx\scene\lab\light\light0012.png"
+"gfx\scene\lab\light\light0011.png"
+"gfx\scene\lab\light\light0010.png"
+"gfx\scene\lab\light\light0009.png"
+"gfx\scene\lab\light\light0008.png"
+"gfx\scene\lab\light\light0007.png"
+"gfx\scene\lab\light\light0006.png"
+"gfx\scene\lab\light\light0005.png"
+"gfx\scene\lab\light\light0004.png"
+"gfx\scene\lab\light\light0003.png"
+"gfx\scene\lab\light\light0002.png"
+"gfx\scene\lab\light\light0001.png"
+end_animation_block

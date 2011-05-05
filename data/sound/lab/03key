@@ -1,0 +1,8 @@
+sound
+ SOUND_KEY
+ 0
+ 128
+ 1
+ 1
+ "sound\lab\03key.wav"
+end_sound

@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_DURVIS5
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  293
+  191
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\gaitenis\durvis5.png"
+  ""
+  "Door to outside"
+ end_hotspot_animation
+
+end_hotspot

@@ -1,0 +1,17 @@
+script
+ SCRIPT_PRIEKSHTELPA_SISTS2
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PRIEKSHTELPA_SISTS2
+
+ action 
+  ACTION_SAY_TEXT
+  "The Ministry of Internal Affairs warns us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Pissing off criminals may lead to loss of life."
+ end_action
+end_script

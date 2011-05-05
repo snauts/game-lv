@@ -1,0 +1,164 @@
+walkmask
+ "gfx\scene\street\street_mask.png"
+ "0.75"
+ "0.0"
+ graph
+
+  graph_node
+   1
+   73
+   308
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   171
+   349
+   -1
+   graph_node_lines
+	1
+	-1
+	-1
+	1
+	1
+
+	3
+	-1
+	-1
+	1
+	1
+
+	6
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   389
+   350
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+
+	4
+	-1
+	-1
+	1
+	1
+
+	5
+	-1
+	-1
+	1
+	1
+
+	6
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+
+  graph_node
+   4
+   438
+   323
+   -1
+   graph_node_lines
+	3
+	-1
+	-1
+	1
+	1
+
+	5
+	-1
+	-1
+	1
+	1
+
+	6
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   593
+   288
+   -1
+   graph_node_lines
+	3
+	-1
+	-1
+	1
+	1
+
+	4
+	-1
+	-1
+	1
+	1
+
+	6
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   379
+   400
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+
+	3
+	-1
+	-1
+	1
+	1
+
+	4
+	-1
+	-1
+	1
+	1
+
+	5
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+ end_graph
+end_walkmask

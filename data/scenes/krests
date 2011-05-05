@@ -1,0 +1,14 @@
+scene                             
+ SCENE_KRESTS                               
+ "gfx\scene\krests\krests.lst"
+ "scenes\krests_walkmask"
+ "sound\ambient\04police"
+ hotspots                         
+  HOTSPOT_KRESTS_TO_SHOP			
+  HOTSPOT_KRESTS_TO_STREET                
+  HOTSPOT_KRESTS_LAMP                     
+  HOTSPOT_KRESTS_CAUREJA                  
+  HOTSPOT_KRESTS_WALL1                    
+  HOTSPOT_KRESTS_WALL2                    
+ end_hotspots                     
+end_scene                         

@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_LAB_EXPLOSION
+ -1
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Explosion"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  -30
+  -35
+  1
+  "gfx\scene\lab\explosion.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Explosion"
+ end_hotspot_animation
+end_hotspot

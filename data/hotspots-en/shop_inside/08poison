@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_POISON
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  75 
+  447
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_inside\shop_inside_poison_mask.png"
+  ""
+  "Rat poison"
+ end_hotspot_animation
+end_hotspot

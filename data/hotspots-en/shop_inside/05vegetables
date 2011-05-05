@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_VEGETABLES
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  515 
+  144 
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_inside\shop_vegetable_mask.png"
+  ""
+  "Canned vegetables"
+ end_hotspot_animation
+end_hotspot

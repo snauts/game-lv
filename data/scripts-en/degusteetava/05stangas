@@ -1,0 +1,13 @@
+script
+ SCRIPT_DEGUSTEETAVA_STANGAS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_DEGUSTEETAVA_STANGAS
+
+ action 
+  ACTION_SAY_TEXT
+  "Pliers are needed to keep the tied up person's teeth at a safe distance."
+ end_action
+
+end_script

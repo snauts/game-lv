@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_PLIITS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_PLIITS
+
+ action 
+  ACTION_SAY_TEXT
+  "It smells like beans have been cooked here recently."
+ end_action
+
+end_script

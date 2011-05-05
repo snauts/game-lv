@@ -1,0 +1,40 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+24
+20
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_spiderweb_00.png"
+"gfx\scene\shop_inside\shop_spiderweb_01.png"
+"gfx\scene\shop_inside\shop_spiderweb_02.png"
+"gfx\scene\shop_inside\shop_spiderweb_03.png"
+"gfx\scene\shop_inside\shop_spiderweb_04.png"
+"gfx\scene\shop_inside\shop_spiderweb_05.png"
+"gfx\scene\shop_inside\shop_spiderweb_06.png"
+"gfx\scene\shop_inside\shop_spiderweb_07.png"
+"gfx\scene\shop_inside\shop_spiderweb_08.png"
+"gfx\scene\shop_inside\shop_spiderweb_09.png"
+"gfx\scene\shop_inside\shop_spiderweb_10.png"
+"gfx\scene\shop_inside\shop_spiderweb_11.png"
+"gfx\scene\shop_inside\shop_spiderweb_12.png"
+"gfx\scene\shop_inside\shop_spiderweb_13.png"
+"gfx\scene\shop_inside\shop_spiderweb_14.png"
+"gfx\scene\shop_inside\shop_spiderweb_15.png"
+"gfx\scene\shop_inside\shop_spiderweb_16.png"
+"gfx\scene\shop_inside\shop_spiderweb_17.png"
+"gfx\scene\shop_inside\shop_spiderweb_18.png"
+"gfx\scene\shop_inside\shop_spiderweb_19.png"
+"gfx\scene\shop_inside\shop_spiderweb_20.png"
+"gfx\scene\shop_inside\shop_spiderweb_21.png"
+"gfx\scene\shop_inside\shop_spiderweb_22.png"
+"gfx\scene\shop_inside\shop_spiderweb_23.png"
+end_animation_block                   
+

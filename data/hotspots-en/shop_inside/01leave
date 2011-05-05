@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_LEAVE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  97
+  92
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_inside\shop_leave_mask.png"
+  ""
+  "Exit"
+ end_hotspot_animation
+
+end_hotspot

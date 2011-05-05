@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_SMOKE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  550
+  160
+  1
+  "gfx\scene\lab\smoke\smoke.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Smoke"
+ end_hotspot_animation
+end_hotspot

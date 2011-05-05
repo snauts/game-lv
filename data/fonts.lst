@@ -1,0 +1,26 @@
+fonts
+ 0
+ 16711935 # ff00ff
+ 16711935 # ff00ff
+ "gfx\fonts\tahoma-dark-red\fnt"
+end_fonts
+fonts
+ 1
+ 16711935 # ff00ff
+ 16711935 # ff00ff
+ "gfx\fonts\tahoma-gray\fnt"
+end_fonts
+# answer & selected answer
+fonts
+ 2
+ 16711935 # ff00ff
+ 16711935 # ff00ff
+ "gfx\fonts\tahoma-red\fnt"
+end_fonts
+# question 
+fonts
+ 3
+ 16711935 # ff00ff
+ 16711935 # ff00ff
+ "gfx\fonts\tahoma-blue\fnt"
+end_fonts

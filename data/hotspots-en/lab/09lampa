@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_LAMPA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  294
+  47
+  1
+  "gfx\scene\lab\lampa.lst"
+  "gfx\scene\lab\lampa mask.png"
+  ""
+  "Lamp"
+ end_hotspot_animation
+end_hotspot

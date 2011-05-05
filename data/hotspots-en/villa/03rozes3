@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_ROZES3
+ 87
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  762
+  324
+  1
+  "gfx\scene\villa\rozes3.lst"
+  "gfx\scene\villa\rozes3_mask.png"
+  ""
+  "Roses"
+ end_hotspot_animation
+end_hotspot

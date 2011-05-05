@@ -1,0 +1,15 @@
+scene
+ SCENE_BAR_PODJEZD
+ "gfx\scene\podjezd\podjezd.lst"
+ "scenes\podjezd_walkmask"
+ "sound\ambient\03motor"
+ hotspots                         
+  HOTSPOT_PODJEZD_LEAVE			
+  HOTSPOT_PODJEZD_BROOM                   
+  HOTSPOT_PODJEZD_CAR                     
+  HOTSPOT_PODJEZD_ELECTRIC                
+  HOTSPOT_PODJEZD_GRANJONKA               
+  HOTSPOT_PODJEZD_MAN                     
+  HOTSPOT_PODJEZD_DOORS                   
+ end_hotspots                     
+end_scene                         

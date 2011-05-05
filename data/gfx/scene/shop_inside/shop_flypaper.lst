@@ -1,0 +1,260 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_00.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-6
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_01.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-13
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_02.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+3
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_03.png"
+"gfx\scene\shop_inside\shop_flypaper_04.png"
+"gfx\scene\shop_inside\shop_flypaper_05.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-4
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_06.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-5
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_07.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_08.png"
+"gfx\scene\shop_inside\shop_flypaper_09.png"
+"gfx\scene\shop_inside\shop_flypaper_10.png"
+"gfx\scene\shop_inside\shop_flypaper_11.png"
+"gfx\scene\shop_inside\shop_flypaper_12.png"
+"gfx\scene\shop_inside\shop_flypaper_13.png"
+"gfx\scene\shop_inside\shop_flypaper_14.png"
+"gfx\scene\shop_inside\shop_flypaper_15.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-5
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_16.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-4
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_17.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-2
+0
+# total frames & speed
+2
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_18.png"
+"gfx\scene\shop_inside\shop_flypaper_19.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-1
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_20.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-13
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_21.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+-6
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_22.png"
+end_animation_block                   
+
+############################################
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_flypaper_23.png"
+end_animation_block                   

@@ -1,0 +1,177 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_LEAVE4
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_STENDERE
+
+ action
+  ACTION_MOVE_CHARACTER
+  295
+  305
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_PRIEKSHTELPA3
+ end_action      
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  598
+  340
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  518
+  380
+ end_action
+
+ action 
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "(grunt) That's just my luck."
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_PRIEKSHTELPA_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_PRIEKSHTELPA_BLACK
+  2
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_HIT3
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_HIT1
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_HIT2
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+###############################################################################
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_LAB_GLASS_ON_ACID
+  0
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_ANIMATION_SET
+  THIRD_CHARACTER_SET
+ end_action       
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_WALK
+  CHARACTER_000_SIT
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_000_SIT
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_TALK
+  CHARACTER_000_SIT_AND_TALK
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_WINE_CELLAR
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  115
+  420
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_WINE_CELLAR_BLACK
+  2
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  150
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Is this.,. hell?"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "So much to drink, yet I'm tied to a chair."
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_OUTSIDE_BUILDING
+ 100
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\scene\bar_outside\bar_outside_building.lst"
+  "gfx\scene\bar_outside\bar_outside_building_mask.png"
+  ""
+  "Bar 'Simtinsh'"
+ end_hotspot_animation
+end_hotspot

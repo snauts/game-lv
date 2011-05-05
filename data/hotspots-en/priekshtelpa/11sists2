@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_SISTS2
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  220
+  256
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\priekshtelpa\sists2 mask.png"
+  ""
+  "Bandit from bar"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PODJEZD_ELECTRIC
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  316
+  190
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\podjezd\podjezd_electric_mask.png"
+  ""
+  "Fuse box"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,29 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+12
+15
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\talk\barman1.png"
+"gfx\scene\bar_inside\talk\barman2.png"
+"gfx\scene\bar_inside\talk\barman3.png"
+"gfx\scene\bar_inside\talk\barman1.png"
+"gfx\scene\bar_inside\talk\barman4.png"
+
+"gfx\scene\bar_inside\talk\barman3.png"
+"gfx\scene\bar_inside\talk\barman1.png"
+"gfx\scene\bar_inside\talk\barman3.png"
+"gfx\scene\bar_inside\talk\barman4.png"
+"gfx\scene\bar_inside\talk\barman2.png"
+
+"gfx\scene\bar_inside\talk\barman3.png"
+"gfx\scene\bar_inside\talk\barman4.png"
+end_animation_block

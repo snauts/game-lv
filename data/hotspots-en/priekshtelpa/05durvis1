@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_DURVIS1
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  108
+  143
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\priekshtelpa\durvis1 mask.png"
+  ""
+  "To the corridor"
+ end_hotspot_animation
+end_hotspot

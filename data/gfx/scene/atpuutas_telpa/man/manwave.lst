@@ -1,0 +1,19 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+4
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\atpuutas_telpa\man\man0001.png"
+"gfx\scene\atpuutas_telpa\man\man0002.png"
+"gfx\scene\atpuutas_telpa\man\man0003.png"
+"gfx\scene\atpuutas_telpa\man\man0002.png"
+end_animation_block

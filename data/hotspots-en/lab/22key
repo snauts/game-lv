@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_LAB_KEY
+ 479
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  435
+  135
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Key"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  435
+  135
+  1
+  "gfx\scene\lab\key\key.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Key"
+ end_hotspot_animation
+end_hotspot

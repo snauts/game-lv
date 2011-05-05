@@ -1,0 +1,13 @@
+script
+ SCRIPT_PRIEKSHTELPA_LOCK
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PRIEKSHTELPA_LOCK
+
+ action 
+  ACTION_SAY_TEXT
+  "Tampering with the lock could prove to be useful."
+ end_action
+
+end_script

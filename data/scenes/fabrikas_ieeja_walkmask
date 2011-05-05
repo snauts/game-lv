@@ -1,0 +1,77 @@
+walkmask
+ "gfx\scene\fabrikas_ieeja\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   309
+   330
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   454
+   416
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   352
+   357
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    3
+    SCRIPT_FABRIKAS_IEEJA_DEEP
+    -1
+    0
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   398
+   339
+   -1
+   graph_node_lines
+    2
+    -1
+    SCRIPT_FABRIKAS_IEEJA_SHALLOW
+    0
+    1
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

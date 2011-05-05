@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_ACID
+ "Acid"
+ "Good old green acid"
+ "gfx\inventory\acid.lst"
+ "gfx\inventory\acid_light.lst"
+end_inventory_item

@@ -1,0 +1,573 @@
+dialog
+ DIALOG_SHOP_INSIDE_TALK_NEW
+ 0
+
+#------------------------------------------------------------
+# Sâkotnçjais jautâjums
+#------------------------------------------------------------
+
+dialog_question
+  0
+  SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+  SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+  QUESTION_MODE_FIRST
+  "How can I help you, young man?"
+  ""
+  dialog_answer
+   10
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   ""
+   ""
+  end_dialog_answer
+end_dialog_question
+ 
+dialog_question
+  1
+  SCRIPT_NONE
+  SCRIPT_NONE
+  QUESTION_MODE_FIRST
+  ""
+  ""
+  dialog_answer
+   300
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Have you seen this dog?"
+   ""
+  end_dialog_answer
+end_dialog_question
+ 
+ 
+ 
+#------------------------------------------------------------
+# "Galvenâ izvçle"
+#------------------------------------------------------------
+dialog_question
+  10
+  SCRIPT_NONE
+  SCRIPT_NONE
+  QUESTION_MODE_FIRST
+  ""
+  ""
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Buy...##"
+   ""
+  end_dialog_answer
+  
+  dialog_answer
+   200
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Have you seen my dog around here?"
+   ""
+   dialog_answer_state
+    200
+    ANSWER_ENABLED
+   end_dialog_answer_state
+  end_dialog_answer
+  
+  dialog_answer
+   400
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Where's the belash factory?"
+   ""
+   dialog_answer_state
+    400
+    ANSWER_DISABLED
+   end_dialog_answer_state
+  end_dialog_answer
+  
+  dialog_answer
+   500
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "They won't let me into the bar...##Perhaps you know someone else who could tell me where the factory is?"
+   ""
+   dialog_answer_state
+    500
+    ANSWER_DISABLED
+   end_dialog_answer_state
+  end_dialog_answer  
+
+  dialog_answer
+   600
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "You don't like rodents, do you?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   700
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Look, a mouse!"
+   ""
+  end_dialog_answer
+  
+  dialog_answer
+   1000
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Maybe later."
+   ""
+  end_dialog_answer
+end_dialog_question 
+
+#------------------------------------------------------------
+# "Nopirkt..."
+#------------------------------------------------------------
+
+ dialog_question
+  100
+  SCRIPT_NONE
+  SCRIPT_NONE
+  QUESTION_MODE_FIRST
+  ""
+  ""
+  
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Green peas##No, no... No peas."
+   ""
+  end_dialog_answer
+  dialog_answer
+   120
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Show me please the, uh, \"magazines\"."
+   ""
+  end_dialog_answer
+  dialog_answer
+   130
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "One belash, please!"
+   ""
+  end_dialog_answer
+  
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_CYCLE
+   "Cigarettes##\"Smokers die young!\""
+   ""
+   "Cigarettes##\"Smoking causes lung cancer!\""
+   ""
+   "Cigarettes##\"Smoking increases the risk of miscarriage!\""
+   ""
+   "Cigarettes##No means no!"
+   ""
+   dialog_answer_state
+     100
+     ANSWER_ENABLED
+   end_dialog_answer_state
+  end_dialog_answer
+  
+  dialog_answer
+   150
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Cigarettes##A pack of cigarettes, please!"
+   ""
+   dialog_answer_state
+     101
+     ANSWER_DISABLED
+   end_dialog_answer_state
+  end_dialog_answer
+  
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "A bottle of brandy##\"Think before you drink.\" (Or not.)"
+   ""
+  end_dialog_answer
+  
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Cheese##Ugh!"
+   ""
+  end_dialog_answer
+  
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Cattle head##I think it's watching me."
+   ""
+  end_dialog_answer
+  
+  dialog_answer
+   10
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Nothing."
+   ""
+  end_dialog_answer
+ end_dialog_question 
+ 
+dialog_question
+ 120
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "How old are you?"
+ ""
+  dialog_answer
+   121
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST	
+   "Old enough!"
+   ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 121
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Got any ID to prove it?"
+ ""
+  dialog_answer
+   122
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "No."
+   ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 122
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "No ID, no magazines."
+ ""
+  dialog_answer
+   100
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   ""
+   ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 130
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Those are samples. Feel free to take one."
+ ""
+ dialog_answer
+  100
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  ""
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 150
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "50 cents."
+ ""
+ dialog_answer
+  151
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "Can you put in on my tab?"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 151
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "You don't have one!"
+ ""
+ dialog_answer
+  100
+  SCRIPT_SHOP_INSIDE_ENABLE_PELE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  ""
+  ""
+ end_dialog_answer
+end_dialog_question
+
+#------------------------------------------------------------
+# Par suni... (short)
+#------------------------------------------------------------
+
+dialog_question
+ 200
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "What's it look like?"
+ ""
+ dialog_answer
+  10
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  ""
+  ""
+ end_dialog_answer
+end_dialog_question
+
+#------------------------------------------------------------
+# Par suni... (full)
+#------------------------------------------------------------
+
+dialog_question
+ 300
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Yes."
+ ""
+ dialog_answer
+  301
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "And?"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 301
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "They took it to the belash factory."
+ ""
+ dialog_answer
+  302
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "What? Where?"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 302
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "The belash factory."
+ ""
+ dialog_answer
+  303
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "It's a joke, right? Right?"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 303
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "That's no joke. A lot of dogs have been disappearing lately."
+ ""
+ dialog_answer
+  304
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "But, but, but... how can you be so calm about this?"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 304
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "I don't like dogs, leaving their smelly turds everywhere."
+ ""
+ dialog_answer
+  305
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "(whisper) What a witch!"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 305
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "What did you say?"
+ ""
+ dialog_answer
+  10
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "Nothin'!"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+#------------------------------------------------------------
+# Par fabriku (suuta uz bâru)
+#------------------------------------------------------------
+
+dialog_question
+ 400
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "I don't know."
+ ""
+ dialog_answer
+  401
+  SCRIPT_SHOP_INSIDE_ENABLE_SMOKER_DIALOG
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "Who might?"
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 401
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Someone from the local bar \"Simti��\", I presume.\n\rThey say the bar and the factory is owned by the same person.\n\rGo ask there!"
+ ""
+ dialog_answer
+  10
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  ""
+  ""
+ end_dialog_answer
+end_dialog_question
+
+#------------------------------------------------------------
+# Par Vasju
+#------------------------------------------------------------
+
+dialog_question
+ 500
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Why don't you ask Vasya, the local drunk."
+ ""
+ dialog_answer
+  10
+  SCRIPT_SHOP_INSIDE_ENABLE_VASJA
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  ""
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 600
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Hate 'em."
+ ""
+ dialog_answer
+  10
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  ""
+  ""
+ end_dialog_answer
+end_dialog_question
+
+dialog_question
+ 700
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_ON
+ SCRIPT_SHOP_INSIDE_SWITCH_TALK_OFF
+ QUESTION_MODE_FIRST
+ "Where? Where? Where is it?"
+ ""
+ dialog_answer
+  10
+  SCRIPT_NONE
+  SCRIPT_NONE
+  ANSWER_MODE_FIRST
+  "He, he, he."
+  ""
+ end_dialog_answer
+end_dialog_question
+
+
+#
+# Beigas
+#
+
+ dialog_question
+  1000
+  -1
+  -1
+  0
+  ""
+  ""
+ end_dialog_question
+
+end_dialog

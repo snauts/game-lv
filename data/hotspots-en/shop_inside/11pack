@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_PACK
+ 470
+ 0
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  165
+  247
+  1
+  "gfx\scene\shop_inside\pack\pack.lst"
+  "gfx\scene\shop_inside\pack\mask.png"
+  ""
+  "Cigarettes"
+ end_hotspot_animation
+
+end_hotspot

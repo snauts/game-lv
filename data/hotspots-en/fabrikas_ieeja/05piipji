@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_PIIPJI
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  18
+  321
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\fabrikas_ieeja\piipji mask.png"
+  ""
+  "Cigarette butts"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_IZLIETNE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  389
+  174
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\lab\izlietne mask.png"
+  ""
+  "Sink"
+ end_hotspot_animation
+end_hotspot

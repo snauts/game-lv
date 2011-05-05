@@ -1,0 +1,11 @@
+script
+ SCRIPT_BAR_INSIDE_TURN_ON_TRAIN
+ 1
+ SIMPLE_SCRIPT
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_BAR_OUTSIDE_TO_TRAIN
+ end_action
+
+end_script

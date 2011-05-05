@@ -1,0 +1,52 @@
+hotspot
+ HOTSPOT_PODJEZD_MAN
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  413
+  127
+  1
+  "gfx\scene\podjezd\podjezd_man.lst"
+  "gfx\scene\podjezd\podjezd_man.png"
+  "sound\podjezd\04smoker"
+  "Bandit"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  413
+  127
+  1
+  "gfx\scene\podjezd\podjezd_still.lst"
+  "gfx\scene\podjezd\podjezd_man.png"
+  ""
+  "Bandit"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  413
+  127
+  1
+  "gfx\scene\podjezd\walkaway\walkaway.lst"
+  "gfx\scene\podjezd\podjezd_man.png"
+  ""
+  "Bandit"
+ end_hotspot_animation
+
+ hotspot_animation
+  3
+  413
+  127
+  1
+  "gfx\scene\podjezd\podjezd_talk.lst"
+  "gfx\scene\podjezd\podjezd_man.png"
+  ""
+  "Bandit"
+ end_hotspot_animation
+
+end_hotspot

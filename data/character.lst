@@ -1,0 +1,1154 @@
+character
+ 1
+
+ ### SKIN 1 ##################################
+
+ character_animation_set
+  FIRST_CHARACTER_SET
+  "Galvenais varonis 1. dalja, 1 - 8 sceenas"
+
+  character_animation
+    CHARACTER_STAND
+    8
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_stand.lst"
+   end_character_animation
+   
+   character_animation
+    CHARACTER_WALK
+    8
+    2
+    150
+    "sound\char\02walk"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_walk.lst"
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TALK
+    8
+    2
+    150
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_talk.lst"
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_HIGH_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_high_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_HIGH_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_high_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_MIDDLE_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_middle_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_MIDDLE_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_middle_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_KNOCK
+    1
+    2
+    0
+    "sound\char\03knock"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_knock.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_SPIN
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\char_spin.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_MIDDLE_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_middle_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_MIDDLE_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_middle_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_MIDDLE_PULL_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_middle_pull_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_MIDDLE_PULL_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_middle_pull_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_MIDDLE_PULL_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_middle_pull_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_PUSH_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_push_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_PUSH_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_push_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_LOW_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_LOW_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_low_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_POUR_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_pour_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_POUR_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_pour_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_POUR_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_pour_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_MOUSE_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_mouse_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_MOUSE_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_mouse_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_MIDDLE_MOUSE_SWING
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_middle_mouse_swing.lst"  
+   end_character_animation 
+
+ end_character_animation_set
+
+ ### SKIN 2 ##################################
+
+ character_animation_set
+  SECOND_CHARACTER_SET
+  "Galvenais varonis 2. dalja"
+
+  character_animation
+    CHARACTER_STAND
+    8
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_stand.lst"
+   end_character_animation
+   
+   character_animation
+    CHARACTER_WALK
+    8
+    2
+    150
+    "sound\char\02walk"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_walk.lst"
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TALK
+    8
+    2
+    150
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_talk.lst"
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_FILL_BOTTLE_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_fill_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_FILL_BOTTLE_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_fill_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_FILL_BOTTLE_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_fill_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_POUR_BOTTLE_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_pour_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_POUR_BOTTLE_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_pour_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_POUR_BOTTLE_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_pour_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_LOW_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_LOW_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_low_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_LOW_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_LOW_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_low_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_PULL_DOOR
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_pull_door.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_CLIMB
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_climb.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_HIGH_HAND_PRIM_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_high_hand_prim_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_HIGH_HAND_PRIM_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_high_hand_prim_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_DUCK_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_duck_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_DUCK_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_duck_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_090_DUCKED
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_ducked.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_PRIM_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_PRIM_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_PRIM_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_HIGH_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_high_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_HIGH_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_high_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_THROW_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_throw_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_THROW_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_throw_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_THROW_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_throw_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_HIGH_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_high_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_HIGH_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_high_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_PRIM_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_prim_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_PRIM_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_prim_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_PRIM_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_prim_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_KNEE_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_knee_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_KNEE_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_knee_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_KNEE_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_knee_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_KICK_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_kick_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_KICK_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_kick_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_045_KICK_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_kick_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_POUR_PRIM_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_pour_prim_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_POUR_PRIM_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_pour_prim_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_315_POUR_PRIM_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_pour_prim_3.lst"  
+   end_character_animation 
+
+ end_character_animation_set
+
+ ### SKIN 3 ##################################
+
+ character_animation_set
+  THIRD_CHARACTER_SET
+  "Galvenais varonis 3. dalja"
+
+  character_animation
+    CHARACTER_STAND
+    8
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_stand.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_stand.lst"
+   end_character_animation
+   
+   character_animation
+    CHARACTER_WALK
+    8
+    2
+    150
+    "sound\char\02walk"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_walk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_walk.lst"
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TALK
+    8
+    2
+    150
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\225_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_talk.lst"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\315_talk.lst"
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_SIT
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_sit.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_SIT_AND_TALK
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_sit_and_talk.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_000_SIT_STAND
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\000_sit_stand.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_LOW_DRINK_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_low_drink_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_LOW_DRINK_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_low_drink_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_LOW_DRINK_3
+    1
+    2
+    0
+    "sound\wine_cellar\02gulp"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_low_drink_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_XXX_DRUNK
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\xxx_drunk.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_HALF_LOW_HAND_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_half_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_HALF_LOW_HAND_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_half_low_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_135_HALF_LOW_HAND_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\135_half_low_hand_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TAKE_HAMMER_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_middle_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TAKE_HAMMER_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_middle_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TAKE_SAW_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_high_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TAKE_SAW_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\090_high_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TAKE_SPADE_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_TAKE_SPADE_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\045_low_hand_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_OPEN_GATE1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\open_gate1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_OPEN_GATE2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\open_gate2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_OPEN_GATE3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\open_gate3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_PRIM_PRIM_1
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_PRIM_PRIM_2
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_2.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_270_COMBINE_PRIM_PRIM_3
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\270_combine_3.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_1_PRIM
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_1.lst"  
+   end_character_animation 
+
+   character_animation
+    CHARACTER_180_LOW_HAND_2_PRIM
+    1
+    2
+    0
+    "sound\char\01silent"
+    "gfx\char\char_shadow.lst"
+    "gfx\char\180_low_hand_2.lst"  
+   end_character_animation 
+
+ end_character_animation_set
+
+end_character

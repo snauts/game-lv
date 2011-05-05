@@ -1,0 +1,13 @@
+script
+ SCRIPT_DEGUSTEETAVA_GALDS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_DEGUSTEETAVA_GALDS
+
+ action 
+  ACTION_SAY_TEXT
+  "They'll do anything to increase belash consumption!"
+ end_action
+
+end_script

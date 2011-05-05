@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_SIENA
+ 68
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\scene\cellar_entrance\siena.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Arc"
+ end_hotspot_animation
+end_hotspot

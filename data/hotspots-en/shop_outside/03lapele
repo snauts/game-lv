@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_OUTSIDE_LAPELE
+ 470
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  600
+  41
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_outside\shop_lapele_mask.png"
+  ""
+  "Piece of paper"
+ end_hotspot_animation
+end_hotspot

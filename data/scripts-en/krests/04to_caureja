@@ -1,0 +1,49 @@
+script
+ SCRIPT_KRESTS_TO_CAUREJA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_KRESTS_CAUREJA
+
+ action
+  ACTION_MOVE_CHARACTER
+  211
+  275             
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_EJA
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  320	
+  479
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  330
+  460
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  45
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

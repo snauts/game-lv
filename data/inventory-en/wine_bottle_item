@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_WINE_BOTTLE
+ "Bottle of wine"
+ "Full bottle of wine"
+ "gfx\inventory\wine_bottle.lst"
+ "gfx\inventory\wine_bottle_light.lst"
+end_inventory_item

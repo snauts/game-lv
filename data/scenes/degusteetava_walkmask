@@ -1,0 +1,37 @@
+walkmask
+ "gfx\scene\degusteetava\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   315
+   431
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   414
+   453
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

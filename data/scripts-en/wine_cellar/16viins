@@ -1,0 +1,13 @@
+script
+ SCRIPT_WINE_CELLAR_VIINS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_VIINS
+
+ action 
+  ACTION_SAY_TEXT
+  "Just wait till I get out of here..."
+ end_action
+
+end_script

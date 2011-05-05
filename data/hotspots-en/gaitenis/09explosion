@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_EXPLOSION
+ 480
+ 0
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  198
+  332
+  1
+  "gfx\scene\gaitenis\explosion.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Explosion"
+ end_hotspot_animation
+
+end_hotspot

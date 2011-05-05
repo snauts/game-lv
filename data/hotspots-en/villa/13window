@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_WINDOW
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  210
+  140
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\villa\win-mask.png"
+  ""
+  "Suspicious window"
+ end_hotspot_animation
+end_hotspot

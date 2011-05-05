@@ -1,0 +1,47 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+32
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\spainis\spainis0000.png"
+"gfx\inventory\spainis\spainis0001.png"
+"gfx\inventory\spainis\spainis0002.png"
+"gfx\inventory\spainis\spainis0003.png"
+"gfx\inventory\spainis\spainis0004.png"
+"gfx\inventory\spainis\spainis0005.png"
+"gfx\inventory\spainis\spainis0006.png"
+"gfx\inventory\spainis\spainis0007.png"
+"gfx\inventory\spainis\spainis0008.png"
+"gfx\inventory\spainis\spainis0009.png"
+"gfx\inventory\spainis\spainis0010.png"
+"gfx\inventory\spainis\spainis0011.png"
+"gfx\inventory\spainis\spainis0012.png"
+"gfx\inventory\spainis\spainis0013.png"
+"gfx\inventory\spainis\spainis0014.png"
+"gfx\inventory\spainis\spainis0015.png"
+"gfx\inventory\spainis\spainis0016.png"
+"gfx\inventory\spainis\spainis0015.png"
+"gfx\inventory\spainis\spainis0014.png"
+"gfx\inventory\spainis\spainis0013.png"
+"gfx\inventory\spainis\spainis0012.png"
+"gfx\inventory\spainis\spainis0011.png"
+"gfx\inventory\spainis\spainis0010.png"
+"gfx\inventory\spainis\spainis0009.png"
+"gfx\inventory\spainis\spainis0008.png"
+"gfx\inventory\spainis\spainis0007.png"
+"gfx\inventory\spainis\spainis0006.png"
+"gfx\inventory\spainis\spainis0005.png"
+"gfx\inventory\spainis\spainis0004.png"
+"gfx\inventory\spainis\spainis0003.png"
+"gfx\inventory\spainis\spainis0002.png"
+"gfx\inventory\spainis\spainis0001.png"
+end_animation_block

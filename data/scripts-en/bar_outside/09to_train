@@ -1,0 +1,206 @@
+script
+ SCRIPT_BAR_OUTSIDE_TO_TRAIN
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_OUTSIDE_TO_TRAIN
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  357
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I think I won't need the bottle anymore."
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  639
+  436
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_SHOP_OUTSIDE
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  0
+  334
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  82
+  279
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  90
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_090_MIDDLE_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_BOTTLE
+ end_action
+ 
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_FULL_BOTTLE
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_GLASS
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_090_MIDDLE_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  334
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_BAR_OUTSIDE
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  639
+  435
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  357
+ end_action
+
+ action
+  ACTION_HIDE_CHARACTER
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_TRAM
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+ 
+ action
+  ACTION_WAIT_TIME
+  1000
+ end_action
+ 
+ action
+  ACTION_SHOW_CHARACTER
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_FABRIKA
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_ANIMATION_SET
+  SECOND_CHARACTER_SET
+ end_action       
+
+ action
+  ACTION_TRIGGER_RESUME_SCRIPT
+  SCRIPT_FABRIKA_DRINK
+  500 
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  1254
+  400
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  1200
+  400
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_FABRIKA_MISKASTE
+  1
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_FABRIKA_MISKASTE
+  1
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_FABRIKA_MISKASTE
+  1
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  260
+  340
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+
+ 
+end_script

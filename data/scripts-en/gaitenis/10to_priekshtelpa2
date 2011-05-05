@@ -1,0 +1,55 @@
+script
+ SCRIPT_GAITENIS_TO_PRIEKSHTELPA2
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_DURVIS4
+
+ action
+  ACTION_MOVE_CHARACTER
+  192
+  311
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_PRIEKSHTELPA2
+ end_action       
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  113
+  334
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  206
+  372
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

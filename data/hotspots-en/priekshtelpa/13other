@@ -1,0 +1,40 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_OTHER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  70
+  200
+  1
+  "gfx\scene\priekshtelpa\other.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Talking"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  70
+  200
+  1
+  "gfx\scene\priekshtelpa\other-censored.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Talking"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  70
+  200
+  1
+  "gfx\scene\priekshtelpa\other-talk.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Talking"
+ end_hotspot_animation
+end_hotspot

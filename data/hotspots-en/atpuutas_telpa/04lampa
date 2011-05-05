@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_LAMPA
+ 32
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  4
+  177
+  1
+  "gfx\scene\atpuutas_telpa\lampa.lst"
+  "gfx\scene\atpuutas_telpa\lampa mask.png"
+  ""
+  "Lamp"
+ end_hotspot_animation
+end_hotspot

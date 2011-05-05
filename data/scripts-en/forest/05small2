@@ -1,0 +1,18 @@
+script
+ SCRIPT_FOREST_SMALL2
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FOREST_SMALL2
+
+ action 
+  ACTION_SAY_TEXT
+  "The National Association of Foresters tells us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Save a tree, kill a beaver!"
+ end_action
+
+end_script

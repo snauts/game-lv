@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_HAMMER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  392
+  232
+  1
+  "gfx\scene\cellar_entrance\hammer.lst"
+  "gfx\scene\cellar_entrance\hammer mask.png"
+  ""
+  "Hammer"
+ end_hotspot_animation
+end_hotspot

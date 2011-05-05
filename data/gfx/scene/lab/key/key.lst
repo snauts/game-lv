@@ -1,0 +1,60 @@
+animation_transform
+SPLINE_TRANSFORMATION
+250
+3
+5
+0
+0
+-205
+0
+-410
+135
+end_animation_transform
+
+animation_block
+# x un y ofseti
+-20
+-20
+# total frames & speed
+32
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\key\key0000.png"
+"gfx\scene\lab\key\key0001.png"
+"gfx\scene\lab\key\key0002.png"
+"gfx\scene\lab\key\key0003.png"
+"gfx\scene\lab\key\key0004.png"
+"gfx\scene\lab\key\key0005.png"
+"gfx\scene\lab\key\key0006.png"
+"gfx\scene\lab\key\key0007.png"
+"gfx\scene\lab\key\key0008.png"
+"gfx\scene\lab\key\key0009.png"
+"gfx\scene\lab\key\key0010.png"
+"gfx\scene\lab\key\key0011.png"
+"gfx\scene\lab\key\key0012.png"
+"gfx\scene\lab\key\key0013.png"
+"gfx\scene\lab\key\key0014.png"
+"gfx\scene\lab\key\key0015.png"
+"gfx\scene\lab\key\key0016.png"
+"gfx\scene\lab\key\key0017.png"
+"gfx\scene\lab\key\key0018.png"
+"gfx\scene\lab\key\key0019.png"
+"gfx\scene\lab\key\key0020.png"
+"gfx\scene\lab\key\key0021.png"
+"gfx\scene\lab\key\key0022.png"
+"gfx\scene\lab\key\key0023.png"
+"gfx\scene\lab\key\key0024.png"
+"gfx\scene\lab\key\key0025.png"
+"gfx\scene\lab\key\key0026.png"
+"gfx\scene\lab\key\key0027.png"
+"gfx\scene\lab\key\key0028.png"
+"gfx\scene\lab\key\key0029.png"
+"gfx\scene\lab\key\key0030.png"
+"gfx\scene\lab\key\key0031.png"
+end_animation_block

@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_SPADE
+ "Spade"
+ "Small garden spade"
+ "gfx\inventory\spade.lst"
+ "gfx\inventory\spade.lst"
+end_inventory_item

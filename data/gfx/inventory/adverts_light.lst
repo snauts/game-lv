@@ -1,0 +1,30 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+15
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\adverc\adverc0000.png"
+"gfx\inventory\adverc\adverc0001.png"
+"gfx\inventory\adverc\adverc0002.png"
+"gfx\inventory\adverc\adverc0003.png"
+"gfx\inventory\adverc\adverc0004.png"
+"gfx\inventory\adverc\adverc0005.png"
+"gfx\inventory\adverc\adverc0006.png"
+"gfx\inventory\adverc\adverc0007.png"
+"gfx\inventory\adverc\adverc0008.png"
+"gfx\inventory\adverc\adverc0009.png"
+"gfx\inventory\adverc\adverc0010.png"
+"gfx\inventory\adverc\adverc0011.png"
+"gfx\inventory\adverc\adverc0012.png"
+"gfx\inventory\adverc\adverc0013.png"
+"gfx\inventory\adverc\adverc0014.png"
+end_animation_block

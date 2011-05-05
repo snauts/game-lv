@@ -1,0 +1,31 @@
+script
+ SCRIPT_SHOP_OUTSIDE_LAPELE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_OUTSIDE_LAPELE
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Young woman wishes to rent one or two room apartment."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Call during evening hours."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Do not offer any sex."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

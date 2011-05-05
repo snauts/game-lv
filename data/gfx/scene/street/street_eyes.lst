@@ -1,0 +1,35 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+300
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\street\street_no_eyes.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+3
+50
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\street\street_eyes.png"
+"gfx\scene\street\street_no_eyes.png"
+"gfx\scene\street\street_eyes.png"
+end_animation_block

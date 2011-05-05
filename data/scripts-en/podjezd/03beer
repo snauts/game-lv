@@ -1,0 +1,31 @@
+script
+ SCRIPT_PODJEZD_BEER
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PODJEZD_CAR
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "The National Bee...\n\rThe National Institute of Beer Research recommends:"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Drink beeeeer!"
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

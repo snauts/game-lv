@@ -1,0 +1,23 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+5
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\priekshtelpa\doors\doors0000.png"
+"gfx\scene\priekshtelpa\doors\doors0001.png"
+"gfx\scene\priekshtelpa\doors\doors0002.png"
+"gfx\scene\priekshtelpa\doors\doors0003.png"
+"gfx\scene\priekshtelpa\doors\doors0004.png"
+"gfx\scene\priekshtelpa\doors\doors0005.png"
+"gfx\scene\priekshtelpa\doors\doors0006.png"
+"gfx\scene\priekshtelpa\doors\doors0007.png"
+end_animation_block

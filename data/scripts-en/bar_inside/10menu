@@ -1,0 +1,31 @@
+script
+ SCRIPT_BAR_INSIDE_MENU
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_INSIDE_MENU
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "They serve all kinds of drinks but only a few snacks:"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Salted pickles, fried garlic bread, dried beetles and..."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "... the ever popular candy \"Vçsma\"."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

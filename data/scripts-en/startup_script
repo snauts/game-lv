@@ -1,0 +1,151 @@
+script 
+ SCRIPT_STARTUP_SCRIPT
+ 1     
+ STARTUP_SCRIPT
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+ 
+ action
+  ACTION_SET_STATE
+  YES
+  "true" 
+ end_action
+ 
+ action
+  ACTION_SET_STATE
+  NO
+  "false" 
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "zin par belashiem?"
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "zin par vasju?"
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "plastmasas shprice izlietota?" 
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "apliets?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "barman_talkable?"
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "spainis nolikts?" 
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "vemj?" 
+ end_action
+
+ action
+  ACTION_SET_STATE
+  YES
+  "kauss good?" 
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "saruna_par_cigaam?" 
+ end_action
+
+ action
+  ACTION_SET_STATE
+  YES
+  "is_musornik_empty?" 
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "ir_sludinaajums?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "smoker_away?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "arrow?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "got_dog?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "gate_open?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "window_listended?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "window_leave!"
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_ANIMATION_SET
+  FIRST_CHARACTER_SET
+ end_action       
+ 
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_CURSOR
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_SIKSNA
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_PHOTO
+ end_action
+ 
+ action
+   ACTION_EXECUTE_SCRIPT_IF
+   YES
+   SCRIPT_INTRO
+   "true"
+ end_action
+
+end_script 

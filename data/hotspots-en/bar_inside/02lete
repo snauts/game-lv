@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_LETE
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  101 
+  76
+  1
+  "gfx\scene\bar_inside\lete.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Counter"
+ end_hotspot_animation
+end_hotspot

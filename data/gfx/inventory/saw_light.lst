@@ -1,0 +1,31 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+16
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\saw\saw0000.png"
+"gfx\inventory\saw\saw0001.png"
+"gfx\inventory\saw\saw0002.png"
+"gfx\inventory\saw\saw0003.png"
+"gfx\inventory\saw\saw0004.png"
+"gfx\inventory\saw\saw0005.png"
+"gfx\inventory\saw\saw0006.png"
+"gfx\inventory\saw\saw0007.png"
+"gfx\inventory\saw\saw0008.png"
+"gfx\inventory\saw\saw0009.png"
+"gfx\inventory\saw\saw0010.png"
+"gfx\inventory\saw\saw0011.png"
+"gfx\inventory\saw\saw0012.png"
+"gfx\inventory\saw\saw0013.png"
+"gfx\inventory\saw\saw0014.png"
+"gfx\inventory\saw\saw0015.png"
+end_animation_block

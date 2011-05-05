@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_STABS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_STABS2
+
+ action 
+  ACTION_SAY_TEXT
+  "Better not touch that."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_KREESLS3
+ 70
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  420 
+  320
+  1
+  "gfx\scene\bar_inside\kreesls3.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Chair"
+ end_hotspot_animation
+end_hotspot

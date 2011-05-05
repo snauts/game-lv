@@ -1,0 +1,18 @@
+scene                             
+ SCENE_EJA                                
+ "gfx\scene\eja\eja.lst"
+ "scenes\eja_walkmask"
+ "sound\ambient\02kraakshana"
+ hotspots                         
+  HOTSPOT_EJA_KAAJAS			
+  HOTSPOT_EJA_KAKIZ                       
+  HOTSPOT_EJA_LAMPA                       
+  HOTSPOT_EJA_LEAVE                       
+  HOTSPOT_EJA_PASTKASTE                   
+  HOTSPOT_EJA_PLAKAATS                    
+  HOTSPOT_EJA_TRUBA                       
+  HOTSPOT_EJA_VEEMAS                      
+  HOTSPOT_EJA_VESHA                       
+  HOTSPOT_EJA_WALL                        
+ end_hotspots                     
+end_scene                         

@@ -1,0 +1,8 @@
+sound
+ SOUND_PUT
+ 0
+ 65
+ 1
+ 1
+ "sound\script\09put.wav"
+end_sound

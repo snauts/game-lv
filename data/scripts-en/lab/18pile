@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_PILE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_PILE
+
+ action 
+  ACTION_SAY_TEXT
+  "The acid drips slowly and patiently."
+ end_action
+
+end_script

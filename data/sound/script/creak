@@ -1,0 +1,8 @@
+sound
+ SOUND_CREAK
+ 0
+ 60
+ 1
+ 1
+ "sound\script\creak.wav"
+end_sound

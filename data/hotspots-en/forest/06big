@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FOREST_BIG
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  1300
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\forest\big-pine.png"
+  ""
+  "Big pine"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_LAMPA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_LAMPA
+
+ action 
+  ACTION_SAY_TEXT
+  "An incandescent light bulb. The brightest invention of the 19th century."
+ end_action
+
+end_script

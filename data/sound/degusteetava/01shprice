@@ -1,0 +1,8 @@
+sound
+ SOUND_SHPRICE
+ 0
+ 85
+ 1
+ 1
+ "sound\degusteetava\01shprice.wav"
+end_sound

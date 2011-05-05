@@ -1,0 +1,18 @@
+script
+ SCRIPT_DEGUSTEETAVA_PAPER
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_DEGUSTEETAVA_PAPER
+
+ action 
+  ACTION_SAY_TEXT
+  "Wife catches parliament member with a rubber sex doll."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Ah, yellow journalism at its finest!"
+ end_action
+
+end_script

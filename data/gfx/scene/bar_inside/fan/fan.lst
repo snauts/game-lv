@@ -1,0 +1,31 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+16
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\fan\fan00.png"
+"gfx\scene\bar_inside\fan\fan01.png"
+"gfx\scene\bar_inside\fan\fan02.png"
+"gfx\scene\bar_inside\fan\fan03.png"
+"gfx\scene\bar_inside\fan\fan04.png"
+"gfx\scene\bar_inside\fan\fan05.png"
+"gfx\scene\bar_inside\fan\fan06.png"
+"gfx\scene\bar_inside\fan\fan07.png"
+"gfx\scene\bar_inside\fan\fan08.png"
+"gfx\scene\bar_inside\fan\fan09.png"
+"gfx\scene\bar_inside\fan\fan10.png"
+"gfx\scene\bar_inside\fan\fan11.png"
+"gfx\scene\bar_inside\fan\fan12.png"
+"gfx\scene\bar_inside\fan\fan13.png"
+"gfx\scene\bar_inside\fan\fan14.png"
+"gfx\scene\bar_inside\fan\fan15.png"
+end_animation_block

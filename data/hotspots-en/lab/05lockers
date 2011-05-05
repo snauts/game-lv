@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_LOCKERS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  133
+  134
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\lab\lockers mask.png"
+  ""
+  "Lockers"
+ end_hotspot_animation
+end_hotspot

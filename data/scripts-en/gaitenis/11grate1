@@ -1,0 +1,13 @@
+script
+ SCRIPT_GAITENIS_GRATE1
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_GRATE
+
+ action 
+  ACTION_SAY_TEXT
+  "These ventilation pipes could be used to pass\n\rodorous volatile substances into the adjacent room!"
+ end_action
+
+end_script

@@ -1,0 +1,17 @@
+script
+ SCRIPT_VILLA_CLOSED
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_GATE
+
+ action
+  ACTION_SAY_TEXT
+  "The gate is locked."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I believe I could get it open with something sharp and pointy."
+ end_action
+end_script

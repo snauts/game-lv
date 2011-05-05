@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_KASTE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_KASTE
+
+ action 
+  ACTION_SAY_TEXT
+  "Can't reach."
+ end_action
+
+end_script

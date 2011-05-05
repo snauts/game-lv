@@ -1,0 +1,28 @@
+script
+ SCRIPT_GAITENIS_OUTSIDE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_DURVIS5
+
+ action 
+  ACTION_SAY_TEXT
+  "Do you really want me to try this door again?"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Go to the laboratory."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Climb through the window..."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "... and click on the door from the other side!"
+ end_action
+
+end_script

@@ -1,0 +1,69 @@
+walkmask
+ "gfx\scene\gaitenis\mask.png"
+ "1"
+ "0"
+ graph
+
+  graph_node
+   0
+   223
+   313
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   408
+   312
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   453
+   367
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

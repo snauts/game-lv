@@ -1,0 +1,81 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\smoke\smoke0000.png"
+"gfx\scene\bar_inside\smoke\smoke0001.png"
+"gfx\scene\bar_inside\smoke\smoke0002.png"
+"gfx\scene\bar_inside\smoke\smoke0003.png"
+"gfx\scene\bar_inside\smoke\smoke0004.png"
+"gfx\scene\bar_inside\smoke\smoke0005.png"
+"gfx\scene\bar_inside\smoke\smoke0006.png"
+"gfx\scene\bar_inside\smoke\smoke0007.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+100
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\smoke\smoke0008.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\smoke\smoke0007.png"
+"gfx\scene\bar_inside\smoke\smoke0006.png"
+"gfx\scene\bar_inside\smoke\smoke0005.png"
+"gfx\scene\bar_inside\smoke\smoke0004.png"
+"gfx\scene\bar_inside\smoke\smoke0003.png"
+"gfx\scene\bar_inside\smoke\smoke0002.png"
+"gfx\scene\bar_inside\smoke\smoke0001.png"
+"gfx\scene\bar_inside\smoke\smoke0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+500
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\smoke\smoke0000.png"
+end_animation_block

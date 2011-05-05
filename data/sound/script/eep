@@ -1,0 +1,8 @@
+sound
+ SOUND_EEP
+ 0
+ 120
+ 1
+ 1
+ "sound\script\eep.wav"
+end_sound

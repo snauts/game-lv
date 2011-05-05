@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_SIENA2
+ 103
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  494
+  130
+  1
+  "gfx\scene\priekshtelpa\siena2.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Wall 2"
+ end_hotspot_animation
+end_hotspot

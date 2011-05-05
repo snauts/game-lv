@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_WATER
+ 400
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  387
+  271
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Water"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  387
+  271
+  1
+  "gfx\scene\atpuutas_telpa\pour\pour.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Water"
+ end_hotspot_animation
+end_hotspot

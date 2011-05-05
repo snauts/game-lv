@@ -1,0 +1,98 @@
+script
+ SCRIPT_BAR_INSIDE_TALK_BARMAN
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_INSIDE_BARMAN
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  2
+  "apliets?"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Must have been some party yesterday. Even the bartender's drunk."
+ end_action
+
+ action 
+  ACTION_STOP_SCRIPT_IF
+  NO
+  "apliets?"
+ end_action
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  4
+  "barman_talkable?"
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  1
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "A cigarette... please..."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  3
+ end_action
+
+ action 
+  ACTION_STOP_SCRIPT_IF
+  NO
+  "barman_talkable?"
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  410
+  445
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_WAIT_HOTSPOT_ANIM_END
+  HOTSPOT_BAR_INSIDE_BARMAN
+  0
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  3
+ end_action
+
+ action
+  ACTION_START_DIALOGUE
+  DIALOG_BAR_INSIDE_BARMAN
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  4
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_FRONT_FRAME
+ -3
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  106 
+  144
+  1
+  "gfx\scene\bar_inside\priekshas raamis.lst"
+  "gfx\scene\bar_inside\aqua mask.png"
+  ""
+  "Empty fish tank"
+ end_hotspot_animation
+end_hotspot

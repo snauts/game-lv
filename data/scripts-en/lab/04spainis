@@ -1,0 +1,17 @@
+script
+ SCRIPT_LAB_SPAINIS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_SPAINIS
+
+ action 
+  ACTION_SAY_TEXT
+  "Somebody should clean this place up."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "(snicker) As if that'll ever happen."
+ end_action
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_KAMERA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  415
+  110
+  1
+  "gfx\scene\villa\kamera\kamera.lst"
+  "gfx\scene\villa\kamera-mask.png"
+  ""
+  "Video camera"
+ end_hotspot_animation
+end_hotspot

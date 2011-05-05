@@ -1,0 +1,8 @@
+sound
+ SOUND_BOOM
+ 0
+ 128
+ 1
+ 1
+ "sound\lab\02boom.wav"
+end_sound

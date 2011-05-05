@@ -1,0 +1,8 @@
+sound
+ -1
+ 0
+ 27
+ -1
+ 1
+ "sound\ambient\03motor.wav"
+end_sound

@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKA_MISKASTE
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_MISKASTE
+
+ action 
+  ACTION_SAY_TEXT
+  "I'm starting to feel like a homeless person."
+ end_action
+
+end_script

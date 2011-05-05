@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_ASHTRAY
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  435
+  211
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_inside\ash mask.png"
+  ""
+  "Ashtray"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,11 @@
+script
+ SCRIPT_SHOP_INSIDE_ENABLE_PELE
+ 2147483647
+ SIMPLE_SCRIPT
+ 
+ action 
+  ACTION_SET_STATE
+  YES
+  "saruna_par_cigaam?"
+ end_action
+end_script

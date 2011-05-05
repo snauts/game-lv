@@ -1,0 +1,48 @@
+script
+ SCRIPT_LAB_LOGS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_LOGS
+
+ action
+  ACTION_MOVE_CHARACTER
+  320	
+  285  
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  090
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_FABRIKAS_IEEJA
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  135
+  350
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,28 @@
+script
+ SCRIPT_EJA_KAAJAS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_EJA_KAAJAS
+
+ action 
+  ACTION_EXECUTE_SCRIPT_IF
+  YES
+  SCRIPT_EJA_ADVERT
+  "ir_sludinaajums?"
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I don't want him to vomit all over me."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,16 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+1
+0
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\315_fill_bottle_0014.png"
+end_animation_block

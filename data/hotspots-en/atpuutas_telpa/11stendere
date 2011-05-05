@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_STENDERE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  248
+  170
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\atpuutas_telpa\stendere mask.png"
+  ""
+  "Door jamb"
+ end_hotspot_animation
+end_hotspot

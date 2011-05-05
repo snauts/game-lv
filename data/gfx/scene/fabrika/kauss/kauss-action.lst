@@ -1,0 +1,60 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+6
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\kauss\kauss0.png"
+"gfx\scene\fabrika\kauss\kauss1.png"
+"gfx\scene\fabrika\kauss\kauss2.png"
+"gfx\scene\fabrika\kauss\kauss3.png"
+"gfx\scene\fabrika\kauss\kauss4.png"
+"gfx\scene\fabrika\kauss\kauss5.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+200
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\kauss\kauss5.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+6
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\kauss\kauss5.png"
+"gfx\scene\fabrika\kauss\kauss4.png"
+"gfx\scene\fabrika\kauss\kauss3.png"
+"gfx\scene\fabrika\kauss\kauss2.png"
+"gfx\scene\fabrika\kauss\kauss1.png"
+"gfx\scene\fabrika\kauss\kauss0.png"
+end_animation_block

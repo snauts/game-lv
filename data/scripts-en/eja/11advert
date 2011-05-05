@@ -1,0 +1,59 @@
+script
+ SCRIPT_EJA_ADVERT
+ 1
+ SIMPLE_SCRIPT
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  400
+  370
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_LOW_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+  
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_PAPER
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_ADVERC
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_LOW_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Job opening at local bar \"Simtiòð\". That gives me an idea."
+ end_action 
+
+ action 
+  ACTION_SET_STATE
+  NO
+  "ir_sludinaajums?"
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

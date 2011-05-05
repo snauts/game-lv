@@ -1,0 +1,13 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_ACID_ROKAS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_ACID
+ HOTSPOT_ATPUUTAS_TELPA_MAN
+
+ action 
+  ACTION_SAY_TEXT
+  "This is no Nazi torture game!"
+ end_action
+
+end_script

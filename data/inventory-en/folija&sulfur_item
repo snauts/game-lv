@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_FOLIJA&SULFUR
+ "Sulfur wrapped in tinfoil"
+ "Sulfur wrapped in tinfoil"
+ "gfx\inventory\folija&sulfur.lst"
+ "gfx\inventory\folija&sulfur_light.lst"
+end_inventory_item

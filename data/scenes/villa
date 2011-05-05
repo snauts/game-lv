@@ -1,0 +1,22 @@
+scene
+ SCENE_VILLA
+ "gfx\scene\villa\villa.lst"
+ "scenes\villa_walkmask"
+ ""
+ hotspots                         
+  HOTSPOT_VILLA_ROZES1
+  HOTSPOT_VILLA_ROZES2
+  HOTSPOT_VILLA_ROZES3
+  HOTSPOT_VILLA_SOLS
+  HOTSPOT_VILLA_CELLAR_HOLE
+  HOTSPOT_VILLA_DURVIS
+  HOTSPOT_VILLA_CORNER
+  HOTSPOT_VILLA_GATE
+  HOTSPOT_VILLA_SPADE
+  HOTSPOT_VILLA_FENCE
+  HOTSPOT_VILLA_KAMERA
+  HOTSPOT_VILLA_FENCE_OTHER
+  HOTSPOT_VILLA_NEST
+  HOTSPOT_VILLA_WINDOW
+ end_hotspots                     
+end_scene                         

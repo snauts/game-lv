@@ -1,0 +1,13 @@
+script
+ SCRIPT_VILLA_OTHER_SPADE_ON_GATE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_SPADE_SAW
+ HOTSPOT_VILLA_GATE
+
+ action 
+  ACTION_SAY_TEXT
+  "If only I could make the tip more... pointy."
+ end_action
+
+end_script

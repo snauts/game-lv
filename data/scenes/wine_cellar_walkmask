@@ -1,0 +1,437 @@
+walkmask
+ "gfx\scene\wine_cellar\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   94
+   452
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+
+    12
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   153
+   402
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   228
+   354
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   425
+   351
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   573
+   449
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   462
+   429
+   -1
+   graph_node_lines
+    11
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   459
+   416
+   -1
+   graph_node_lines
+    5
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   7
+   363
+   376
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   8
+   254
+   381
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   9
+   195
+   409
+   -1
+   graph_node_lines
+    8
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   10
+   212
+   447
+   -1
+   graph_node_lines
+    9
+    -1
+    -1
+    1
+    0
+
+    12
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   11
+   402
+   470
+   -1
+   graph_node_lines
+    12
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   12
+   295
+   476
+   -1
+   graph_node_lines
+    11
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

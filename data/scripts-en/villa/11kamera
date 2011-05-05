@@ -1,0 +1,23 @@
+script
+ SCRIPT_VILLA_KAMERA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_KAMERA
+
+ action 
+  ACTION_SAY_TEXT
+  "These are just for show."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "You know, to scare potential burglars."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I hope."
+ end_action
+
+end_script

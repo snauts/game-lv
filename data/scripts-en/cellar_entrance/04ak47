@@ -1,0 +1,18 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_AK47
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_AK47
+
+ action 
+  ACTION_SAY_TEXT
+  "The Ministry of Defense reminds us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Guns cause premature death."
+ end_action
+
+end_script

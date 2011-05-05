@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_STREET_SHIT
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  281
+  298 
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\street\street_shit_mask.png"
+  ""
+  "Shit"
+ end_hotspot_animation
+end_hotspot

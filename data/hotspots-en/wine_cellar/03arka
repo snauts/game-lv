@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_ARKA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  159
+  76
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\wine_cellar\arka mask.png"
+  ""
+  "Arc"
+ end_hotspot_animation
+end_hotspot

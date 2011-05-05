@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PODJEZD_CAR
+ 18
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  1
+  194
+  1
+  "gfx\scene\podjezd\podjezd_car.lst"
+  "gfx\scene\podjezd\podjezd_car_mask.png"
+  ""
+  "Beer!"
+ end_hotspot_animation
+end_hotspot

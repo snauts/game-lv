@@ -1,0 +1,67 @@
+script
+ SCRIPT_PRIEKSHTELPA_ENTER_DOOR
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ANY_ITEM
+ HOTSPOT_PRIEKSHTELPA_DURVIS2
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_ENABLE_GRAPH_LINE
+  SCENE_PRIEKSHTELPA2
+  2
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  598
+  340
+ end_action
+
+ action
+  ACTION_DISABLE_GRAPH_LINE
+  SCENE_PRIEKSHTELPA2
+  2
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  45
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_ATPUUTAS_TELPA
+ end_action      
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  295
+  305
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  215
+  305
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

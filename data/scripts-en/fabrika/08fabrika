@@ -1,0 +1,18 @@
+script
+ SCRIPT_FABRIKA_FABRIKA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_FABRIKA
+
+ action 
+  ACTION_SAY_TEXT
+  "There's the infamous belash factory."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I must get in to find out more."
+ end_action
+
+end_script

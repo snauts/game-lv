@@ -1,0 +1,17 @@
+script
+ SCRIPT_GAITENIS_SULFUR_ON_GRATE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_SULFUR
+ HOTSPOT_GAITENIS_GRATE
+
+ action 
+  ACTION_SAY_TEXT
+  "The magazine \"Chemistry for the Practically Minded\" warns us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Chemicals coming into direct contact will cause an immediate reaction."
+ end_action
+end_script

@@ -1,0 +1,21 @@
+script
+ SCRIPT_STREET_SHIT
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_STREET_SHIT
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "You think: someone should clean this up!\n\rAt the same time you know that no one will."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

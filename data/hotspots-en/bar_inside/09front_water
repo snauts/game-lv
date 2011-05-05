@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_FRONT_WATER
+ -3
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  108 
+  147
+  1
+  "gfx\scene\bar_inside\priekshas uudens.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Empty fish tank"
+ end_hotspot_animation
+end_hotspot

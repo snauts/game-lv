@@ -1,0 +1,8 @@
+sound
+ SOUND_GULP
+ 0
+ 80
+ -1
+ 1
+ "sound\wine_cellar\02gulp.wav"
+end_sound

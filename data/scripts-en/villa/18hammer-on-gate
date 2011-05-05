@@ -1,0 +1,13 @@
+script
+ SCRIPT_VILLA_HAMMER_ON_GATE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_HAMMER
+ HOTSPOT_VILLA_GATE
+
+ action 
+  ACTION_SAY_TEXT
+  "Doing that would attract attention."
+ end_action
+
+end_script

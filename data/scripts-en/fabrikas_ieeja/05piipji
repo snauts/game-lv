@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_PIIPJI
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_PIIPJI
+
+ action 
+  ACTION_SAY_TEXT
+  "They say: littering streets with cigarette butts increases\n\rcar tire friction on snowy roads."
+ end_action
+
+end_script

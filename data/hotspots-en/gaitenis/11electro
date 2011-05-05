@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_ELECTRO
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  355
+  226
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\gaitenis\electro.png"
+  ""
+  "Fuse box"
+ end_hotspot_animation
+
+end_hotspot

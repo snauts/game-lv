@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_SAW
+ "Hacksaw"
+ "Hacksaw, no more, no less"
+ "gfx\inventory\saw.lst"
+ "gfx\inventory\saw_light.lst"
+end_inventory_item

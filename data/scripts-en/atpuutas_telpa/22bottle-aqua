@@ -1,0 +1,12 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_BOTTLE_AQUA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_BOTTLE
+ HOTSPOT_ATPUUTAS_TELPA_ZIVS
+
+  action
+   ACTION_SAY_TEXT
+   "I'm not going to put my hands in there!"
+ end_action
+end_script

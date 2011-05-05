@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_LOGS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  285
+  99
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\lab\logs mask.png"
+  ""
+  "Window"
+ end_hotspot_animation
+end_hotspot

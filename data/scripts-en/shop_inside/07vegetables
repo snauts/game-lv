@@ -1,0 +1,26 @@
+script
+ SCRIPT_SHOP_INSIDE_VEGETABLES
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_INSIDE_VEGETABLES
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "The Consumer Protection Agency warns us:"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Before you buy preserved vegetables, see if they're not moving!"
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

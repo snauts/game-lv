@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_SOLS
+ 115
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  483
+  289
+  1
+  "gfx\scene\villa\sols.lst"
+  "gfx\scene\villa\sols_mask.png"
+  ""
+  "Bench"
+ end_hotspot_animation
+end_hotspot

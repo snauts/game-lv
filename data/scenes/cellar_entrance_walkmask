@@ -1,0 +1,257 @@
+walkmask
+ "gfx\scene\cellar_entrance\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   101
+   443
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   120
+   409
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   164
+   392
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   222
+   377
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   302
+   400
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   437
+   410
+   -1
+   graph_node_lines
+    4
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   531
+   439
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

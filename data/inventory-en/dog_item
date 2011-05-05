@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_DOG
+ "Dog"
+ "This is my dog"
+ "gfx\inventory\dog.lst"
+ "gfx\inventory\dog.lst"
+end_inventory_item

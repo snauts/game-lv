@@ -1,0 +1,56 @@
+script
+ SCRIPT_SHOP_OUTSIDE_PUT_GRANJONKA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_GRANJONKA
+ HOTSPOT_SHOP_OUTSIDE_MUSOR
+
+ action
+  ACTION_MOVE_CHARACTER
+  82
+  279
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  90
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_090_MIDDLE_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_GRANJONKA
+ end_action
+ 
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_GLASS
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "is_musornik_empty?" 
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_090_MIDDLE_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

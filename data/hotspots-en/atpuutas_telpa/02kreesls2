@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_KREESLS2
+ 44
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  310
+  309
+  1
+  "gfx\scene\atpuutas_telpa\kreesls2.lst"
+  "gfx\scene\atpuutas_telpa\kreesls2 mask.png"
+  ""
+  "Leather chair with somebody in it"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,13 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_KREESLS1
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_KREESLS1
+
+ action 
+  ACTION_SAY_TEXT
+  "This armchair is infested with bedbugs."
+ end_action
+
+end_script

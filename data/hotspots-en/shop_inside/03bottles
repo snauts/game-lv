@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_BOTTLES
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  15 
+  135
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_inside\shop_bottlerow_mask.png"
+  ""
+  "Bottles"
+ end_hotspot_animation
+end_hotspot

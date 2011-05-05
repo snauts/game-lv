@@ -1,0 +1,23 @@
+script
+ SCRIPT_VILLA_SAW_ON_GATE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_SAW
+ HOTSPOT_VILLA_GATE
+
+ action 
+  ACTION_SAY_TEXT
+  "I could make a heart shaped hole."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Like the door of an outhouse."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "But really my carpenting skills are not that good."
+ end_action
+
+end_script

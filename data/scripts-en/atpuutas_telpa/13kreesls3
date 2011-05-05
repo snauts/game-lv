@@ -1,0 +1,13 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_KREESLS3
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_KREESLS3
+
+ action 
+  ACTION_SAY_TEXT
+  "Must not sit around doing nothing!"
+ end_action
+
+end_script

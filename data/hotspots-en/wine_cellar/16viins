@@ -1,0 +1,30 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_VIINS
+ 53
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  242
+  343
+  1
+  "gfx\scene\wine_cellar\viins.lst"
+  "gfx\scene\wine_cellar\viins mask.png"
+  ""
+  "Wine"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  238
+  343
+  1
+  "gfx\scene\wine_cellar\splash\splash.lst"
+  "gfx\scene\wine_cellar\viins mask.png"
+  ""
+  "Wine"
+ end_hotspot_animation
+
+end_hotspot

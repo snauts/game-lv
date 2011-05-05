@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_SPIDER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  392 
+  60 
+  1
+  "gfx\scene\shop_inside\shop_spiderweb.lst"
+  "gfx\scene\shop_inside\shop_spiderweb_mask.png"
+  ""
+  "Spider web"
+ end_hotspot_animation
+end_hotspot

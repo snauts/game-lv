@@ -1,0 +1,12 @@
+script
+ SCRIPT_SHOP_INSIDE_ENABLE_VASJA
+ 2147483647
+ SIMPLE_SCRIPT
+ 
+ action
+  ACTION_SET_STATE
+  YES
+  "zin par vasju?"
+ end_action
+
+end_script

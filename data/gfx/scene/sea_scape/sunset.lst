@@ -1,0 +1,48 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+32
+3
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\sea_scape\sunset0000.png"
+"gfx\scene\sea_scape\sunset0001.png"
+"gfx\scene\sea_scape\sunset0002.png"
+"gfx\scene\sea_scape\sunset0003.png"
+"gfx\scene\sea_scape\sunset0004.png"
+"gfx\scene\sea_scape\sunset0005.png"
+"gfx\scene\sea_scape\sunset0006.png"
+"gfx\scene\sea_scape\sunset0007.png"
+"gfx\scene\sea_scape\sunset0008.png"
+"gfx\scene\sea_scape\sunset0009.png"
+"gfx\scene\sea_scape\sunset0010.png"
+"gfx\scene\sea_scape\sunset0011.png"
+"gfx\scene\sea_scape\sunset0012.png"
+"gfx\scene\sea_scape\sunset0013.png"
+"gfx\scene\sea_scape\sunset0014.png"
+"gfx\scene\sea_scape\sunset0015.png"
+"gfx\scene\sea_scape\sunset0016.png"
+"gfx\scene\sea_scape\sunset0017.png"
+"gfx\scene\sea_scape\sunset0018.png"
+"gfx\scene\sea_scape\sunset0019.png"
+"gfx\scene\sea_scape\sunset0020.png"
+"gfx\scene\sea_scape\sunset0021.png"
+"gfx\scene\sea_scape\sunset0022.png"
+"gfx\scene\sea_scape\sunset0023.png"
+"gfx\scene\sea_scape\sunset0024.png"
+"gfx\scene\sea_scape\sunset0025.png"
+"gfx\scene\sea_scape\sunset0026.png"
+"gfx\scene\sea_scape\sunset0027.png"
+"gfx\scene\sea_scape\sunset0028.png"
+"gfx\scene\sea_scape\sunset0029.png"
+"gfx\scene\sea_scape\sunset0030.png"
+"gfx\scene\sea_scape\sunset0031.png"
+end_animation_block
+

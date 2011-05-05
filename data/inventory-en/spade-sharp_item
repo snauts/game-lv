@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_SPADE_SHARP
+ "Spade"
+ "Small garden spade with sharp end"
+ "gfx\inventory\spade-sharp.lst"
+ "gfx\inventory\spade-sharp_light.lst"
+end_inventory_item

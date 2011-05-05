@@ -1,0 +1,101 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+25
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+20
+# image files
+"gfx\helpers\black.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+25
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+40
+# image files
+"gfx\helpers\black.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+25
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+60
+# image files
+"gfx\helpers\black.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+25
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+80
+# image files
+"gfx\helpers\black.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+25
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+100
+# image files
+"gfx\helpers\black.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+25
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+100
+# image files
+"gfx\helpers\black.png"
+end_animation_block

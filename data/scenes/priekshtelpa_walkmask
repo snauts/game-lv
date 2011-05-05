@@ -1,0 +1,189 @@
+walkmask
+ "gfx\scene\priekshtelpa\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   216
+   364
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   289
+   379
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   425
+   385
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   205
+   436
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   206
+   384
+   -1
+   graph_node_lines
+    5
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   7
+   519
+   379
+   -1
+   graph_node_lines
+    8
+    -1
+    -1
+    0
+    0
+    line_enable_tag
+     2
+     0
+    end_line_enable_tag
+
+    2
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   8
+   531
+   371
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    0
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

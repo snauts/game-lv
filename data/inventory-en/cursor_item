@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_CURSOR
+ ""
+ ""
+ "gfx\inventory\cursor.lst"
+ "gfx\inventory\cursor_light.lst"
+end_inventory_item

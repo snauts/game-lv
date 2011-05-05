@@ -1,0 +1,18 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_TV
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_TV
+
+ action 
+  ACTION_SAY_TEXT
+  "Ahh.. one of the good old Soviet TVs."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Warms up the room quite nicely."
+ end_action
+
+end_script

@@ -1,0 +1,8 @@
+sound
+ SOUND_CLICK
+ 0
+ 128
+ 1
+ 1
+ "sound\script\04click.wav"
+end_sound

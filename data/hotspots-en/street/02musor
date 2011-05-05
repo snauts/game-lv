@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_STREET_MUSOR
+ 169
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  94
+  141
+  1
+  "gfx\scene\street\street_musor.lst"
+  "gfx\scene\street\street_musor_mask.png"
+  ""
+  "Big trash can"
+ end_hotspot_animation
+end_hotspot

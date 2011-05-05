@@ -1,0 +1,13 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_KREESLS2
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_KREESLS2
+
+ action 
+  ACTION_SAY_TEXT
+  "He's totally out of it, just like the bartender."
+ end_action
+
+end_script

@@ -1,0 +1,63 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_BARMAN
+ -1
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  298 
+  194
+  1
+  "gfx\scene\bar_inside\barman.lst"
+  "gfx\scene\bar_inside\barman mask.png"
+  ""
+  "'Tired' barman"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  298
+  189
+  1
+  "gfx\scene\bar_inside\talk\talk.lst"
+  "gfx\scene\bar_inside\barman mask.png"
+  ""
+  "'Tired' barman"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  298
+  189
+  1
+  "gfx\scene\bar_inside\rise\rise.lst"
+  "gfx\scene\bar_inside\barman mask.png"
+  ""
+  "'Tired' barman"
+ end_hotspot_animation
+
+ hotspot_animation
+  3
+  298
+  189
+  1
+  "gfx\scene\bar_inside\barman look.lst"
+  "gfx\scene\bar_inside\barman look mask.png"
+  ""
+  "'Tired' barman"
+ end_hotspot_animation
+
+ hotspot_animation
+  4
+  298
+  189
+  1
+  "gfx\scene\bar_inside\smoke\smoke.lst"
+  "gfx\scene\bar_inside\barman look mask.png"
+  "sound\bar_inside\14smoke"
+  "'Tired' barman"
+ end_hotspot_animation
+
+end_hotspot

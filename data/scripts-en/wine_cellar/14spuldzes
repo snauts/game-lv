@@ -1,0 +1,18 @@
+script
+ SCRIPT_WINE_CELLAR_SPULDZES
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_SPULDZES
+
+ action 
+  ACTION_SAY_TEXT
+  "So much light, so much fun."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "If I had something to eat, I could live here."
+ end_action
+
+end_script

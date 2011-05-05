@@ -1,0 +1,18 @@
+script
+ SCRIPT_WINE_CELLAR_MUCAS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_MUCAS
+
+ action 
+  ACTION_SAY_TEXT
+  "If I was the protagonist of a classical quest..."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "... I could take one with me."
+ end_action
+
+end_script

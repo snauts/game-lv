@@ -1,0 +1,23 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+15
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\talk\talk0000.png"
+"gfx\scene\podjezd\talk\talk0001.png"
+"gfx\scene\podjezd\talk\talk0002.png"
+"gfx\scene\podjezd\talk\talk0003.png"
+"gfx\scene\podjezd\talk\talk0004.png"
+"gfx\scene\podjezd\talk\talk0005.png"
+"gfx\scene\podjezd\talk\talk0006.png"
+"gfx\scene\podjezd\talk\talk0007.png"
+end_animation_block

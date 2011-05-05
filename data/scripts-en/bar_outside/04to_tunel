@@ -1,0 +1,62 @@
+script
+ SCRIPT_BAR_OUTSIDE_TO_TUNEL
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_OUTSIDE_TO_PODJEZD
+
+ action
+  ACTION_MOVE_CHARACTER
+  479
+  287
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_BAR_PODJEZD
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  639
+  479
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+# action
+#  ACTION_CHANGE_HOTSPOT_ANIMATION
+#  HOTSPOT_PODJEZD_MAN   
+#  0
+# end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  620
+  460
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_EXECUTE_SCRIPT_IF
+  NO
+  SCRIPT_PODJEZD_BLINK_ARROW
+  "arrow?"
+ end_action
+
+end_script

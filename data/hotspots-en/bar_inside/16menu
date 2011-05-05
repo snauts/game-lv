@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_MENU
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  484 
+  125
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_inside\menu mask.png"
+  ""
+  "Menu"
+ end_hotspot_animation
+end_hotspot

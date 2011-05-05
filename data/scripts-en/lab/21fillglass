@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_FILL_GLASS_SPRICE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_GLASS_SPRICE
+ HOTSPOT_LAB_PILE
+
+ action 
+  ACTION_SAY_TEXT
+  "There must be another way."
+ end_action
+
+end_script

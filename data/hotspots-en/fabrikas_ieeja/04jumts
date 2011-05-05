@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_JUMTS
+ 92
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  323
+  178
+  1
+  "gfx\scene\fabrikas_ieeja\jumts.lst"
+  "gfx\scene\fabrikas_ieeja\jumts mask.png"
+  ""
+  "Roof"
+ end_hotspot_animation
+end_hotspot

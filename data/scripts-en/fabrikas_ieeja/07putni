@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_PUTNI
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_PUTNI
+
+ action 
+  ACTION_SAY_TEXT
+  "They don't bother me. I don't bother them."
+ end_action
+
+end_script

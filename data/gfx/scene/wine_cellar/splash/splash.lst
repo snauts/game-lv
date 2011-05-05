@@ -1,0 +1,23 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+8
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\wine_cellar\splash\splash0.png"
+"gfx\scene\wine_cellar\splash\splash1.png"
+"gfx\scene\wine_cellar\splash\splash2.png"
+"gfx\scene\wine_cellar\splash\splash3.png"
+"gfx\scene\wine_cellar\splash\splash4.png"
+"gfx\scene\wine_cellar\splash\splash5.png"
+"gfx\scene\wine_cellar\splash\splash6.png"
+"gfx\scene\wine_cellar\splash\splash7.png"
+end_animation_block

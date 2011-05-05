@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_DURVIS3
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  428
+  189
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\gaitenis\durvis3.png"
+  ""
+  "Degustation room"
+ end_hotspot_animation
+
+end_hotspot

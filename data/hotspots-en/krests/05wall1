@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_KRESTS_WALL1
+ 177
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  236
+  74 
+  1
+  "gfx\scene\krests\krests_wall1.lst"
+  "gfx\scene\krests\krests_poster_mask.png"
+  ""
+  "Poster"
+ end_hotspot_animation
+end_hotspot

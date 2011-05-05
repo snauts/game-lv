@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_TALK
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  250
+  180
+  1
+  "gfx\scene\priekshtelpa\does-not-talk.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Talking"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  250
+  180
+  1
+  "gfx\scene\priekshtelpa\talk.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Talking"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_PUDELES
+ 500
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  125 
+  54
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_inside\shelf mask.png"
+  ""
+  "Bottles"
+ end_hotspot_animation
+end_hotspot

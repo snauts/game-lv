@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_FABRIKA_MISKASTE
+ 115
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  1095
+  327
+  1
+  "gfx\scene\fabrika\miskaste.lst"
+  "gfx\scene\fabrika\miskaste mask.png"
+  ""
+  "Trash can"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  1095
+  327
+  1
+  "gfx\scene\fabrika\miskaste-blink.lst"
+  "gfx\scene\fabrika\miskaste mask.png"
+  ""
+  "Trash can"
+ end_hotspot_animation
+end_hotspot

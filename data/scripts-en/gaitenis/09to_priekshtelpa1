@@ -1,0 +1,104 @@
+script
+ SCRIPT_GAITENIS_TO_PRIEKSHTELPA1
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_DURVIS4
+
+ action
+  ACTION_MOVE_CHARACTER
+  192
+  311
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_PRIEKSHTELPA1
+ end_action       
+
+ action
+  ACTION_HIDE_CHARACTER
+ end_action       
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_TALK
+  1
+ end_action
+
+ action
+  ACTION_SAY_NPC_TEXT
+  "Check this out, brother.\n\rToday the new guy came - Vasya I think was his name."
+ end_action
+
+ action
+  ACTION_SAY_NPC_TEXT
+  "Hanged around for a little bit,\n\rthen disappeared without even carrying the beer inside."
+ end_action
+
+ action
+  ACTION_SAY_NPC_TEXT
+  "If I see him again, I will mess his face up!"
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_PRIEKSHTELPA_TALK
+  0
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_GAITENIS
+ end_action       
+
+ action
+  ACTION_SHOW_CHARACTER
+ end_action       
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  192
+  311
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  210
+  311
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I think I'll better stay out of there."
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,19 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+4
+4
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\135_middle_hand_0016.png"
+"gfx\char\135_middle_hand_0012.png"
+"gfx\char\135_middle_hand_0008.png"
+"gfx\char\135_middle_hand_0004.png"
+end_animation_block

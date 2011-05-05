@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_DOORS
+ -1
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  370 
+  53
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_inside\door mask.png"
+  ""
+  "Doorway"
+ end_hotspot_animation
+end_hotspot

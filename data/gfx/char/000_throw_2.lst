@@ -1,0 +1,19 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+4
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\000_throw_0003.png"
+"gfx\char\000_throw_0002.png"
+"gfx\char\000_throw_0001.png"
+"gfx\char\000_throw_0000.png"
+end_animation_block

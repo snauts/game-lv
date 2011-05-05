@@ -1,0 +1,20 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+5
+16
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\135_low_drink_0012.png"
+"gfx\char\135_low_drink_0013.png"
+"gfx\char\135_low_drink_0014.png"
+"gfx\char\135_low_drink_0015.png"
+"gfx\char\135_low_drink_0016.png"
+end_animation_block

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_OUTSIDE_TO_KRESTS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  527
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_outside\shop_outside_to_start_mask.png"
+  ""
+  "To the crossing"
+ end_hotspot_animation
+end_hotspot

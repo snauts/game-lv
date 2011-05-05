@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_DURVIS
+ 82
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  186
+  316
+  1
+  "gfx\scene\villa\durvis.lst"
+  "gfx\scene\villa\durvis-mask.png"
+  ""
+  "Cellar door"
+ end_hotspot_animation
+end_hotspot

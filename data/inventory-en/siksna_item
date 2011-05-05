@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_SIKSNA
+ "Leash"
+ "Leash of the lost dog"
+ "gfx\inventory\siksna.lst"
+ "gfx\inventory\siksna_light.lst"
+end_inventory_item

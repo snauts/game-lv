@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_SPAINIS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_SPAINIS2
+
+ action 
+  ACTION_SAY_TEXT
+  "Let it stay there."
+ end_action
+
+end_script

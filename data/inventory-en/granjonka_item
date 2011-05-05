@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_GRANJONKA
+ "Glass"
+ "200ml glass with DIY vodka"
+ "gfx\inventory\granjonka.lst"
+ "gfx\inventory\granjonka_light.lst"
+end_inventory_item

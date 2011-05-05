@@ -1,0 +1,40 @@
+hotspot
+ HOTSPOT_DEGUSTEETAVA_PAPER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  350
+  75
+  1
+  "gfx\scene\degusteetava\3_shprices.lst"
+  "gfx\scene\degusteetava\paper mask.png"
+  ""
+  "Paper with syringes"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  350
+  75
+  1
+  "gfx\scene\degusteetava\2_shprices.lst"
+  "gfx\scene\degusteetava\paper mask.png"
+  ""
+  "Paper with syringes"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  350
+  75
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\degusteetava\paper mask.png"
+  ""
+  "Paper with syringes"
+ end_hotspot_animation
+end_hotspot

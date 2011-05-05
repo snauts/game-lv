@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_SULFUR
+ "Sulfur"
+ "Small, stinky piece of sulfur"
+ "gfx\inventory\sulfur.lst"
+ "gfx\inventory\sulfur_light.lst"
+end_inventory_item

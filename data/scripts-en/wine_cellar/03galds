@@ -1,0 +1,13 @@
+script
+ SCRIPT_WINE_CELLAR_GALDS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_GALDS
+
+ action 
+  ACTION_SAY_TEXT
+  "An old, dusty table crammed full of wine bottles."
+ end_action
+
+end_script

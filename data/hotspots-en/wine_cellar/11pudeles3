@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_PUDELES3
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  538
+  201
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\wine_cellar\pudeles3 mask.png"
+  ""
+  "Brown bottles"
+ end_hotspot_animation
+end_hotspot

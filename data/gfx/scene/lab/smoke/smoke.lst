@@ -1,0 +1,31 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+16
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\smoke\smoke0000.png"
+"gfx\scene\lab\smoke\smoke0001.png"
+"gfx\scene\lab\smoke\smoke0002.png"
+"gfx\scene\lab\smoke\smoke0003.png"
+"gfx\scene\lab\smoke\smoke0004.png"
+"gfx\scene\lab\smoke\smoke0005.png"
+"gfx\scene\lab\smoke\smoke0006.png"
+"gfx\scene\lab\smoke\smoke0007.png"
+"gfx\scene\lab\smoke\smoke0008.png"
+"gfx\scene\lab\smoke\smoke0009.png"
+"gfx\scene\lab\smoke\smoke0010.png"
+"gfx\scene\lab\smoke\smoke0011.png"
+"gfx\scene\lab\smoke\smoke0012.png"
+"gfx\scene\lab\smoke\smoke0013.png"
+"gfx\scene\lab\smoke\smoke0014.png"
+"gfx\scene\lab\smoke\smoke0015.png"
+end_animation_block

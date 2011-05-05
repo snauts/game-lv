@@ -1,0 +1,16 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+0
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\atpuutas_telpa\siena.png"
+end_animation_block

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_SIENA
+ 170
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  260
+  181
+  1
+  "gfx\scene\atpuutas_telpa\siena.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Wall"
+ end_hotspot_animation
+end_hotspot

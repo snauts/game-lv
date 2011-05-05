@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_DEGUSTEETAVA_KOIKA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  75
+  266
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\degusteetava\koika mask.png"
+  ""
+  "Bed"
+ end_hotspot_animation
+
+end_hotspot

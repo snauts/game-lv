@@ -1,0 +1,42 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+300
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_outside\bar_outside_cat1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+9
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_outside\bar_outside_cat2.png"
+"gfx\scene\bar_outside\bar_outside_cat3.png"
+"gfx\scene\bar_outside\bar_outside_cat4.png"
+"gfx\scene\bar_outside\bar_outside_cat5.png"
+"gfx\scene\bar_outside\bar_outside_cat6.png"
+"gfx\scene\bar_outside\bar_outside_cat5.png"
+"gfx\scene\bar_outside\bar_outside_cat4.png"
+"gfx\scene\bar_outside\bar_outside_cat3.png"
+"gfx\scene\bar_outside\bar_outside_cat2.png"
+end_animation_block
+

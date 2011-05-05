@@ -1,0 +1,8 @@
+sound
+ SOUND_GLASS_BREAK
+ 0
+ 120
+ 1
+ 1
+ "sound\wine_cellar\01glass_break.wav"
+end_sound

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_PLAKAATS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  453
+  64
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\cellar_entrance\plakaats mask.png"
+  ""
+  "Poster"
+ end_hotspot_animation
+end_hotspot

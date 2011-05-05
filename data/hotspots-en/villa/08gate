@@ -1,0 +1,63 @@
+hotspot
+ HOTSPOT_VILLA_GATE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  49
+  215
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\villa\gate-mask.png"
+  ""
+  "Gate"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  0
+  0
+  1
+  "gfx\scene\villa\gate\open.lst"
+  "gfx\scene\villa\gate-mask-big.png"
+  ""
+  "To the forest"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  49
+  215
+  1
+  "gfx\scene\villa\gate\gate.lst"
+  "gfx\scene\villa\gate-mask.png"
+  ""
+  "Gate"
+ end_hotspot_animation
+
+ hotspot_animation
+  3
+  49
+  215
+  1
+  "gfx\scene\villa\gate\half-open.lst"
+  "gfx\scene\villa\gate-mask.png"
+  ""
+  "Gate"
+ end_hotspot_animation
+
+ hotspot_animation
+  4
+  49
+  215
+  1
+  "gfx\scene\villa\gate\fling.lst"
+  "gfx\scene\villa\gate-mask.png"
+  "sound\script\creak"
+  "Gate"
+ end_hotspot_animation
+
+end_hotspot

@@ -1,0 +1,389 @@
+walkmask
+ "gfx\scene\villa\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   179
+   371
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   162
+   400
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    13
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   317
+   462
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    13
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   421
+   452
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   559
+   440
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   675
+   362
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   695
+   354
+   -1
+   graph_node_lines
+    7
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    12
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   7
+   671
+   374
+   -1
+   graph_node_lines
+    4
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   8
+   726
+   398
+   -1
+   graph_node_lines
+    9
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   9
+   904
+   435
+   -1
+   graph_node_lines
+    10
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   10
+   926
+   409
+   -1
+   graph_node_lines
+    11
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   11
+   845
+   383
+   -1
+   graph_node_lines
+    12
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   12
+   757
+   364
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   13
+   237
+   431
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    14
+    SCRIPT_VILLA_HOLE_WALL_ON
+    -1
+    0
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   14
+   288
+   406
+   -1
+   graph_node_lines
+    13
+    -1
+    SCRIPT_VILLA_HOLE_WALL_OFF
+    0
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   15
+   15
+   285
+   -1
+   graph_node_lines
+    16
+    -1
+    -1
+    0
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   16
+   120
+   360
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    0
+    1
+    line_enable_tag
+     3
+     0
+    end_line_enable_tag
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_LAMPA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_LAMPA
+
+ action 
+  ACTION_SAY_TEXT
+  "It's almost asking to be vandalized."
+ end_action
+
+end_script

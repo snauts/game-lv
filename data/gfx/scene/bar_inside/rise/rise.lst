@@ -1,0 +1,32 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+17
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\rise\bar0000.png"
+"gfx\scene\bar_inside\rise\bar0001.png"
+"gfx\scene\bar_inside\rise\bar0002.png"
+"gfx\scene\bar_inside\rise\bar0003.png"
+"gfx\scene\bar_inside\rise\bar0004.png"
+"gfx\scene\bar_inside\rise\bar0005.png"
+"gfx\scene\bar_inside\rise\bar0006.png"
+"gfx\scene\bar_inside\rise\bar0007.png"
+"gfx\scene\bar_inside\rise\bar0008.png"
+"gfx\scene\bar_inside\rise\bar0009.png"
+"gfx\scene\bar_inside\rise\bar0010.png"
+"gfx\scene\bar_inside\rise\bar0011.png"
+"gfx\scene\bar_inside\rise\bar0012.png"
+"gfx\scene\bar_inside\rise\bar0013.png"
+"gfx\scene\bar_inside\rise\bar0014.png"
+"gfx\scene\bar_inside\rise\bar0015.png"
+"gfx\scene\bar_inside\rise\bar0016.png"
+end_animation_block

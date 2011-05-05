@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKA_STABS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_STABS
+
+ action 
+  ACTION_SAY_TEXT
+  "The city tram will take you anywhere. Unless it breaks down, that is."
+ end_action
+
+end_script

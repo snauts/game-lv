@@ -1,0 +1,45 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+30
+8
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+-1
+# image files
+"gfx\inventory\kolba\kolba0000.png"
+"gfx\inventory\kolba\kolba0001.png"
+"gfx\inventory\kolba\kolba0002.png"
+"gfx\inventory\kolba\kolba0003.png"
+"gfx\inventory\kolba\kolba0004.png"
+"gfx\inventory\kolba\kolba0005.png"
+"gfx\inventory\kolba\kolba0006.png"
+"gfx\inventory\kolba\kolba0007.png"
+"gfx\inventory\kolba\kolba0008.png"
+"gfx\inventory\kolba\kolba0009.png"
+"gfx\inventory\kolba\kolba0010.png"
+"gfx\inventory\kolba\kolba0011.png"
+"gfx\inventory\kolba\kolba0012.png"
+"gfx\inventory\kolba\kolba0013.png"
+"gfx\inventory\kolba\kolba0014.png"
+"gfx\inventory\kolba\kolba0015.png"
+"gfx\inventory\kolba\kolba0014.png"
+"gfx\inventory\kolba\kolba0013.png"
+"gfx\inventory\kolba\kolba0012.png"
+"gfx\inventory\kolba\kolba0011.png"
+"gfx\inventory\kolba\kolba0010.png"
+"gfx\inventory\kolba\kolba0009.png"
+"gfx\inventory\kolba\kolba0008.png"
+"gfx\inventory\kolba\kolba0007.png"
+"gfx\inventory\kolba\kolba0006.png"
+"gfx\inventory\kolba\kolba0005.png"
+"gfx\inventory\kolba\kolba0004.png"
+"gfx\inventory\kolba\kolba0003.png"
+"gfx\inventory\kolba\kolba0002.png"
+"gfx\inventory\kolba\kolba0001.png"
+end_animation_block

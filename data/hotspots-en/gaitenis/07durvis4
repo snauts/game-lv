@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_DURVIS4
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  193
+  189
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\gaitenis\durvis4.png"
+  ""
+  "Passage to recreation room"
+ end_hotspot_animation
+
+end_hotspot

@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_BELASH
+ "Belash"
+ "Infamous dog meat belash"
+ "gfx\inventory\belashs.lst"
+ "gfx\inventory\belashs_light.lst"
+end_inventory_item

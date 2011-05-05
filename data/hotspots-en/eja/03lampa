@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_EJA_LAMPA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  394 
+  131
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\eja\eja_lampa_mask.png"
+  ""
+  "Lamp"
+ end_hotspot_animation
+end_hotspot

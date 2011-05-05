@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_GRATE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  11
+  255
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\priekshtelpa\grate mask.png"
+  ""
+  "Stinky ventilation shaft"
+ end_hotspot_animation
+end_hotspot

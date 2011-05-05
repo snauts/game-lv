@@ -1,0 +1,197 @@
+dialog
+ DIALOG_PODJEZD_MAN_NEW
+ 1
+
+dialog_question
+  1
+  SCRIPT_PODJEZD_STILL
+  SCRIPT_NONE
+  QUESTION_MODE_FIRST
+  ""
+  ""
+  dialog_answer
+   10
+   SCRIPT_NONE
+   SCRIPT_NONE
+   ANSWER_MODE_FIRST
+   "Hey there!"
+   ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+  10
+  SCRIPT_PODJEZD_TALKING
+  SCRIPT_PODJEZD_STILL
+  QUESTION_MODE_FIRST
+  "Piss off!"
+  ""
+  dialog_answer
+    20
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    ""
+    ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+  20
+  SCRIPT_NONE
+  SCRIPT_NONE
+  QUESTION_MODE_FIRST
+  ""
+  ""
+  dialog_answer
+    100
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    "What's up?"
+    ""
+  end_dialog_answer
+  dialog_answer
+    200
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    "Wanna hear a joke?"
+    ""
+  end_dialog_answer
+  dialog_answer
+    300
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    "Have you seen a dog around here?"
+    ""
+  end_dialog_answer
+  dialog_answer
+    400
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    "Do you know where the belash factory is?"
+    ""
+    dialog_answer_state
+      100
+      ANSWER_DISABLED
+    end_dialog_answer_state
+  end_dialog_answer
+  dialog_answer
+    500
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    "\"Smoking kills!\""
+    ""
+  end_dialog_answer
+  
+  dialog_answer
+    1000
+    SCRIPT_NONE
+    SCRIPT_NONE 
+    ANSWER_MODE_FIRST
+    "See you later."
+    ""
+  end_dialog_answer  
+end_dialog_question
+
+dialog_question
+  100
+  SCRIPT_PODJEZD_TALKING
+  SCRIPT_PODJEZD_STILL
+  QUESTION_MODE_FIRST
+  "Go away!"
+  ""
+  dialog_answer
+    20
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    ""
+    ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+  200
+  SCRIPT_PODJEZD_TALKING
+  SCRIPT_PODJEZD_STILL
+  QUESTION_MODE_FIRST
+  "Wanna get the shit beaten out of you?"
+  ""
+  dialog_answer
+    20
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    ""
+    ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+  300
+  SCRIPT_PODJEZD_TALKING
+  SCRIPT_PODJEZD_STILL
+  QUESTION_MODE_FIRST
+  "Have your parents not taught you to keep your mouth shut?"
+  ""
+  dialog_answer
+    20
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    ""
+    ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+  400
+  SCRIPT_PODJEZD_TALKING
+  SCRIPT_PODJEZD_STILL
+  QUESTION_MODE_FIRST
+  "I know what I'll do to you if you don't get out of my sight soon."
+  ""
+  dialog_answer
+    20
+    SCRIPT_PODJEZD_ENABLE_VASJA_DIALOG
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    ""
+    ""
+  end_dialog_answer
+end_dialog_question
+
+dialog_question
+  500
+  SCRIPT_PODJEZD_TALKING
+  SCRIPT_PODJEZD_STILL
+  QUESTION_MODE_FIRST
+  "So do I."
+  ""
+  dialog_answer
+    20
+    SCRIPT_NONE
+    SCRIPT_NONE
+    ANSWER_MODE_FIRST
+    ""
+    ""
+  end_dialog_answer
+end_dialog_question
+
+
+dialog_question
+  1000
+  SCRIPT_PODJEZD_SMOKE
+  SCRIPT_NONE
+  QUESTION_MODE_FIRST
+  ""
+  ""
+end_dialog_question
+
+end_dialog
+

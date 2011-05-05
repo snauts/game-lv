@@ -1,0 +1,54 @@
+script
+ SCRIPT_FOREST_TO_VILLA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FOREST_TO_VILLA
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  445
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_VILLA
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  15
+  285
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  121
+  361
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

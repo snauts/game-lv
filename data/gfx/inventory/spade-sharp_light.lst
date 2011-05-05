@@ -1,0 +1,36 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+21
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\spade-sharp\spade-sharp0000.png"
+"gfx\inventory\spade-sharp\spade-sharp0001.png"
+"gfx\inventory\spade-sharp\spade-sharp0002.png"
+"gfx\inventory\spade-sharp\spade-sharp0003.png"
+"gfx\inventory\spade-sharp\spade-sharp0004.png"
+"gfx\inventory\spade-sharp\spade-sharp0005.png"
+"gfx\inventory\spade-sharp\spade-sharp0006.png"
+"gfx\inventory\spade-sharp\spade-sharp0007.png"
+"gfx\inventory\spade-sharp\spade-sharp0008.png"
+"gfx\inventory\spade-sharp\spade-sharp0009.png"
+"gfx\inventory\spade-sharp\spade-sharp0010.png"
+"gfx\inventory\spade-sharp\spade-sharp0011.png"
+"gfx\inventory\spade-sharp\spade-sharp0010.png"
+"gfx\inventory\spade-sharp\spade-sharp0009.png"
+"gfx\inventory\spade-sharp\spade-sharp0008.png"
+"gfx\inventory\spade-sharp\spade-sharp0006.png"
+"gfx\inventory\spade-sharp\spade-sharp0005.png"
+"gfx\inventory\spade-sharp\spade-sharp0004.png"
+"gfx\inventory\spade-sharp\spade-sharp0003.png"
+"gfx\inventory\spade-sharp\spade-sharp0002.png"
+"gfx\inventory\spade-sharp\spade-sharp0001.png"
+end_animation_block

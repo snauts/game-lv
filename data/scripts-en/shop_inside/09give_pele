@@ -1,0 +1,142 @@
+script
+ SCRIPT_SHOP_INSIDE_GIVE_PELE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_PELE
+ HOTSPOT_SHOP_INSIDE_TANTUKS
+ 
+ action
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  2
+  "saruna_par_cigaam?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "A special edition of \"The Men's Magazine\" warns us:"
+ end_action 
+
+ action
+  ACTION_SAY_TEXT
+  "Do not annoy women unless you know exactly what you're doing."
+ end_action 
+
+ action
+  ACTION_SKIP_SCRIPT_ACTIONS
+  NO
+  20
+  "saruna_par_cigaam?" 
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  239
+  413
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_MOUSE_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_135_MIDDLE_MOUSE_SWING
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_INSIDE_TANTUKS
+  2
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_PUT
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_INSIDE_TANTUKS
+  4
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM    
+  ITEM_PACK
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_PELE
+ end_action
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_SHOP_INSIDE_PACK
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_INSIDE_TANTUKS
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_INSIDE_TANTUKS
+  0
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_MOUSE_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_TAKE
+ end_action
+
+ action
+  ACTION_HIDE_HOTSPOT
+  HOTSPOT_SHOP_INSIDE_PACK
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,17 @@
+script
+ SCRIPT_LAB_LOCKERS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_LOCKERS
+
+ action 
+  ACTION_SAY_TEXT
+  "The State Criminal Police Office informs us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "It's the little things that will put you behind bars."
+ end_action
+end_script

@@ -1,0 +1,10 @@
+scene
+ SCENE_PRIEKSHTELPA1
+ "gfx\scene\priekshtelpa\priekshtelpa1.lst"
+ "scenes\priekshtelpa_walkmask"
+ ""
+ hotspots
+  HOTSPOT_PRIEKSHTELPA_TALK
+  HOTSPOT_PRIEKSHTELPA_OTHER
+ end_hotspots
+end_scene    

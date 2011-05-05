@@ -1,0 +1,101 @@
+script
+ SCRIPT_EJA_POUR_WATER
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_GRANJONKA
+ HOTSPOT_EJA_KAAJAS
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  4
+  "zin par vasju?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "That COULD wake him up."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Once awake, he'll try to get a few bucks for a \"bus ticket\" from me."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I'll let him sleep for now."
+ end_action
+
+ action 
+  ACTION_STOP_SCRIPT_IF
+  YES
+  "true"
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  400
+  370
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_LOW_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_WATER
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_000_LOW_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_EJA_KAAJAS
+  2
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_EJA_KAAJAS
+  1
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_GRANJONKA
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Hey, a piece of paper fell from Vasya's pocket."
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  YES
+  "ir_sludinaajums?"
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

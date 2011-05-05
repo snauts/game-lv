@@ -1,0 +1,46 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+30
+5
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\folija\folija0000.png"
+"gfx\inventory\folija\folija0001.png"
+"gfx\inventory\folija\folija0002.png"
+"gfx\inventory\folija\folija0003.png"
+"gfx\inventory\folija\folija0004.png"
+"gfx\inventory\folija\folija0005.png"
+"gfx\inventory\folija\folija0006.png"
+"gfx\inventory\folija\folija0007.png"
+"gfx\inventory\folija\folija0008.png"
+"gfx\inventory\folija\folija0009.png"
+"gfx\inventory\folija\folija0010.png"
+"gfx\inventory\folija\folija0011.png"
+"gfx\inventory\folija\folija0012.png"
+"gfx\inventory\folija\folija0013.png"
+"gfx\inventory\folija\folija0014.png"
+"gfx\inventory\folija\folija0015.png"
+
+"gfx\inventory\folija\folija0014.png"
+"gfx\inventory\folija\folija0013.png"
+"gfx\inventory\folija\folija0012.png"
+"gfx\inventory\folija\folija0011.png"
+"gfx\inventory\folija\folija0010.png"
+"gfx\inventory\folija\folija0009.png"
+"gfx\inventory\folija\folija0008.png"
+"gfx\inventory\folija\folija0007.png"
+"gfx\inventory\folija\folija0006.png"
+"gfx\inventory\folija\folija0005.png"
+"gfx\inventory\folija\folija0004.png"
+"gfx\inventory\folija\folija0003.png"
+"gfx\inventory\folija\folija0002.png"
+"gfx\inventory\folija\folija0001.png"
+end_animation_block

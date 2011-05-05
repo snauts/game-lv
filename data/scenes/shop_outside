@@ -1,0 +1,15 @@
+scene              
+ SCENE_SHOP_OUTSIDE
+ "gfx\scene\shop_outside\shop_outside.lst"
+ "scenes\shop_outside_walkmask"
+ "sound\ambient\04police"
+ hotspots          
+  HOTSPOT_SHOP_OUTSIDE_DOORS		
+  HOTSPOT_SHOP_OUTSIDE_EDEN               
+  HOTSPOT_SHOP_OUTSIDE_LAPELE             
+  HOTSPOT_SHOP_OUTSIDE_MUSOR              
+  HOTSPOT_SHOP_OUTSIDE_GO_IN              
+  HOTSPOT_SHOP_OUTSIDE_TO_BAR             
+  HOTSPOT_SHOP_OUTSIDE_TO_KRESTS          
+ end_hotspots      
+end_scene          

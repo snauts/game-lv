@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_SPAINIS
+ "Bucket"
+ "Old, rusty bucket with holes"
+ "gfx\inventory\spainis.lst"
+ "gfx\inventory\spainis_light.lst"
+end_inventory_item

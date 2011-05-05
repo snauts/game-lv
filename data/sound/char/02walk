@@ -1,0 +1,8 @@
+sound
+ -1
+ 0
+ 90
+ -1
+ 1
+ "sound\char\02walk.wav"
+end_sound

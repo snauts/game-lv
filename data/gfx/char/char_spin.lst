@@ -1,0 +1,24 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+8
+12
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\180_stand.png"
+"gfx\char\225_stand.png"
+"gfx\char\270_stand.png"
+"gfx\char\315_stand.png"
+"gfx\char\000_stand.png"
+"gfx\char\045_stand.png"
+"gfx\char\090_stand.png"
+"gfx\char\135_stand.png"
+end_animation_block
+

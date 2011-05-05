@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_BILDE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  342
+  11
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\cellar_entrance\bilde mask.png"
+  ""
+  "Image of some lady"
+ end_hotspot_animation
+end_hotspot

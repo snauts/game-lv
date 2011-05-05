@@ -1,0 +1,21 @@
+script
+ SCRIPT_KRESTS_LAMP
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_KRESTS_LAMP
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I'm starting to think the street lanterns are manufactured\n\ralready broken in this city."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

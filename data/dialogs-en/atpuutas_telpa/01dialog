@@ -1,0 +1,637 @@
+dialog
+ DIALOG_ATPUUTAS_TELPA_DIALOG
+ 0
+
+ dialog_question
+  0
+  -1
+  -1
+  0
+  "Uh-oh, I think my headache has just materialized..."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  1
+  -1
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   200
+   -1
+   -1
+   0
+   "Where did you put my dog?"
+   ""
+   dialog_answer_state
+    222
+    ANSWER_ENABLED
+   end_dialog_answer_state
+  end_dialog_answer
+
+  dialog_answer
+   400
+   -1
+   -1
+   0
+   "Have you seen this particular dog?"
+   ""
+   dialog_answer_state
+    444
+    ANSWER_DISABLED
+   end_dialog_answer_state
+  end_dialog_answer
+
+  dialog_answer
+   300
+   -1
+   -1
+   0
+   "How do you do?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   500
+   -1
+   -1
+   0
+   "Why is everybody I meet hung over?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   601
+   -1
+   -1
+   0
+   "Do you like to read?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   1000
+   -1
+   -1
+   0
+   "Sleep tight!"
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# Kur jûs likât manu suni?
+###########################################
+
+ dialog_question
+  200
+  -1
+  -1
+  0
+  "We fat all creatures else to fat us..."
+  ""
+  dialog_answer
+   201
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  201
+  -1
+  -1
+  0
+  "...and we fat ourselves for maggots."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# Kâ iet?
+###########################################
+
+ dialog_question
+  300
+  -1
+  -1
+  0
+  "What's here?"
+  ""
+  dialog_answer
+   301
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  301
+  -1
+  -1
+  0
+  "The portrait of a blinking idiot."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# Suns alternate
+###########################################
+
+ dialog_question
+  400
+  -1
+  -1
+  0
+  "Oh, this one..."
+  ""
+  dialog_answer
+   401
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  401
+  -1
+  -1
+  0
+  "This is a lucky one."
+  ""
+  dialog_answer
+   402
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  402
+  -1
+  -1
+  0
+  "Boss gave this one to his daughter as a present."
+  ""
+  dialog_answer
+   403
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  403
+  -1
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   404
+   -1
+   -1
+   0
+   "This is my dog, and I want him back!"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   405
+   -1
+   -1
+   0
+   "Where can I find your boss?"
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  404
+  -1
+  -1
+  0
+  "The lady doth protest too much, methinks."
+  ""
+  dialog_answer
+   403
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  405
+  -1
+  SCRIPT_ATPUUTAS_TELPA_SPAWN_BANDIT
+  0
+  "Go ask the fat one."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+
+###########################################
+# Paìiraini
+###########################################
+
+ dialog_question
+  500
+  -1
+  -1
+  0
+  "Have you seen a medicine that's able to breathe life into a stone?"
+  ""
+  dialog_answer
+   501
+   -1
+   -1
+   0
+   "Ummm..."
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  501
+  -1
+  -1
+  0
+  "It has side effects."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# Literatûra
+###########################################
+
+ dialog_question
+  601
+  -1
+  -1
+  0
+  "Yes, I do."
+  ""
+  dialog_answer
+   600
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  600
+  -1
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   610
+   -1
+   -1
+   0
+   "What do you read?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   620
+   -1
+   -1
+   0
+   "Do you like Shakespeer?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   700
+   -1
+   -1
+   0
+   "What is your favorite Shakespear's play?"
+   ""
+  end_dialog_answer
+
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   "Enough about the literature."
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  610
+  -1
+  -1
+  0
+  "Words, words, words."
+  ""
+  dialog_answer
+   600
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  620
+  -1
+  -1
+  0
+  "It's Shakespear, you idiot, Shake-spe-ar!"
+  ""
+  dialog_answer
+   600
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  700
+  -1
+  -1
+  0
+  "Thou hadst been better have been born a dog."
+  ""
+  dialog_answer
+   702
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  702
+  -1
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   703
+   -1
+   -1
+   0
+   "Is it Romeo and Julia?"
+   ""
+  end_dialog_answer
+  dialog_answer
+   704
+   -1
+   -1
+   0
+   "Is it Hamlet?"
+   ""
+  end_dialog_answer
+  dialog_answer
+   705
+   -1
+   -1
+   0
+   "Maybe it is Julius Caesar?"
+   ""
+  end_dialog_answer
+  dialog_answer
+   706
+   -1
+   -1
+   0
+   "King Lear?"
+   ""
+  end_dialog_answer
+  dialog_answer
+   707
+   -1
+   -1
+   0
+   "Is it Othello?"
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  703
+  -1
+  -1
+  0
+  "No! Besides it's Juliet, you stupidhead. Ju-li-et!"
+  ""
+  dialog_answer
+   702
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  704
+  -1
+  -1
+  0
+  "Yeah right."
+  ""
+  dialog_answer
+   7040
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  7040
+  -1
+  -1
+  0
+  "I hope that sun will breed maggots in your dead dog."
+  ""
+  dialog_answer
+   7041
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  7041
+  -1
+  -1
+  0
+  "That will sound more like Hamlet."
+  ""
+  dialog_answer
+   702
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  705
+  -1
+  -1
+  0
+  "Maybe you are an idiot?"
+  ""
+  dialog_answer
+   702
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  706
+  -1
+  -1
+  0
+  "No! It's Pink Panther."
+  ""
+  dialog_answer
+   702
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  707
+  -1
+  -1
+  0
+  "Right you are. Wiseass."
+  ""
+  dialog_answer
+   708
+   -1
+   -1
+   0
+   "Whatass?"
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  708
+  -1
+  -1
+  0
+  "Wiseass!"
+  ""
+  dialog_answer
+   600
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+
+###########################################
+# END
+###########################################
+
+ dialog_question
+  1000
+  -1
+  -1
+  0
+  "So young so stupid, they say do never live long."
+  ""
+ end_dialog_question
+
+end_dialog

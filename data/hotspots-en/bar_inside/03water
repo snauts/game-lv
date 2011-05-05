@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_WATER
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  341 
+  120
+  1
+  "gfx\scene\bar_inside\water\water.lst"
+  "gfx\scene\bar_inside\sink mask.png"
+  ""
+  "Water"
+ end_hotspot_animation
+end_hotspot

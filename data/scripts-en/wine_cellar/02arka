@@ -1,0 +1,13 @@
+script
+ SCRIPT_WINE_CELLAR_ARKA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_ARKA
+
+ action 
+  ACTION_SAY_TEXT
+  "A beautiful arc made of old stones."
+ end_action
+
+end_script

@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_WATER_POUR
+ -2
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  358
+  200
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Stream"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  358
+  200
+  1
+  "gfx\scene\bar_inside\pour\pour.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Stream"
+ end_hotspot_animation
+end_hotspot

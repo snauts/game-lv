@@ -1,0 +1,8 @@
+sound
+ SOUND_CUT
+ 0
+ 80
+ 1
+ 1
+ "sound\wine_cellar\04cut.wav"
+end_sound

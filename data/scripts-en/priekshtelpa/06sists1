@@ -1,0 +1,12 @@
+script
+ SCRIPT_PRIEKSHTELPA_SISTS1
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PRIEKSHTELPA_SISTS1
+
+ action 
+  ACTION_SAY_TEXT
+  "I'm going to pass out from that stench."
+ end_action
+end_script

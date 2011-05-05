@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_GLAAZES
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  523 
+  47
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_inside\glass mask.png"
+  ""
+  "Glasses"
+ end_hotspot_animation
+end_hotspot

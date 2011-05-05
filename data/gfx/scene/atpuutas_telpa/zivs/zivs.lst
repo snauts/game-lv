@@ -1,0 +1,30 @@
+animation_block
+# x un y ofseti
+23
+7
+# total frames & speed
+15
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\atpuutas_telpa\zivs\zivs0000.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0001.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0002.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0003.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0004.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0005.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0006.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0007.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0008.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0009.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0010.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0011.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0012.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0013.png"
+"gfx\scene\atpuutas_telpa\zivs\zivs0014.png"
+end_animation_block

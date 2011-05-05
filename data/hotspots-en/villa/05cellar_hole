@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_CELLAR_HOLE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  215
+  320
+  1
+  "gfx\scene\villa\hole-wall.lst"
+  "gfx\scene\villa\cellar_hole.png"
+  ""
+  "To the cellar"
+ end_hotspot_animation
+end_hotspot

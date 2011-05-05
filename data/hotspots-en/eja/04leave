@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_EJA_LEAVE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  397
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\eja\eja_leave_mask.png"
+  ""
+  "To the crossing"
+ end_hotspot_animation
+end_hotspot

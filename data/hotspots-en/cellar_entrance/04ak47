@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_AK47
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  433
+  287
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\cellar_entrance\ak47 mask.png"
+  ""
+  "Kalashnikov rifles"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_FENCE
+ 133
+ 0
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  232
+  1
+  "gfx\scene\villa\fence.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Fence"
+ end_hotspot_animation
+end_hotspot

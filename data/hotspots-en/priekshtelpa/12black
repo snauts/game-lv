@@ -1,0 +1,40 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_BLACK
+ -1
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Black"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  0
+  0
+  1
+  "gfx\helpers\fadeout.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Black"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  0
+  0
+  1
+  "gfx\helpers\black.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Black"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_DEGUSTEETAVA_LEAVE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\degusteetava\leave.png"
+  ""
+  "To the corridor"
+ end_hotspot_animation
+
+end_hotspot

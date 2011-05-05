@@ -1,0 +1,13 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_BALSTS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_BALSTS
+
+ action 
+  ACTION_SAY_TEXT
+  "Support beams keep the ceiling from collapsing into the cellar."
+ end_action
+
+end_script

@@ -1,0 +1,131 @@
+script
+ SCRIPT_BAR_INSIDE_POUR_BOTTLE
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_FULL_BOTTLE
+ HOTSPOT_BAR_INSIDE_BARMAN
+
+ action
+  ACTION_MOVE_CHARACTER
+  312
+  321
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_315_POUR_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_315_POUR_3
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_WATER
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_BAR_INSIDE_WATER_POUR
+  1
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_BOTTLE
+ end_action
+ 
+ action
+  ACTION_REMOVE_INVENTORY_ITEM 
+  ITEM_FULL_BOTTLE
+ end_action
+
+ action 
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_BAR_INSIDE_GIVE_PACK
+  1
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_315_POUR_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_BAR_INSIDE_BARMAN
+  2
+ end_action
+
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_BAR_INSIDE_BARMAN
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  1
+ end_action
+
+ action
+  ACTION_SAY_NPC_TEXT
+  "Tsss.. Ahh, my head..."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  3
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Who would've thought! He's awake!"
+ end_action
+
+ action
+  ACTION_SET_STATE
+  YES
+  "apliets?" 
+ end_action
+ 
+ action
+  ACTION_ENABLE_DIALOG_ANSWER 
+  DIALOG_SHOP_INSIDE_TALK_NEW
+  101
+ end_action
+
+ action
+  ACTION_DISABLE_DIALOG_ANSWER 
+  DIALOG_SHOP_INSIDE_TALK_NEW
+  100
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

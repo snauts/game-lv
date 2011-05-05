@@ -1,0 +1,23 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_PLAKAATS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_PLAKAATS
+
+ action 
+  ACTION_SAY_TEXT
+  "From distance they look like artillery shells."
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  430
+  399
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Upon closer inspection though, they're just wine bottles."
+ end_action
+end_script

@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_PELE
+ "Mouse"
+ "Mouse whose stomach is filled with dog meat"
+ "gfx\inventory\pele.lst"
+ "gfx\inventory\pele_light.lst"
+end_inventory_item

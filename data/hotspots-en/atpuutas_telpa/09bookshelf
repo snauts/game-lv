@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_BOOKSHELF
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  426
+  180
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\atpuutas_telpa\bookshelf mask.png"
+  ""
+  "Bookshelf"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,8 @@
+sound
+ SOUND_VEMSHANA
+ 0
+ 127
+ 1
+ 1
+ "sound\fabrika\02vemshana.wav"
+end_sound

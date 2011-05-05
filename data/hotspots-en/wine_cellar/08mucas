@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_MUCAS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  208
+  189
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\wine_cellar\mucas mask.png"
+  ""
+  "Barrels"
+ end_hotspot_animation
+end_hotspot

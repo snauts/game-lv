@@ -1,0 +1,13 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_ZIVS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_ZIVS
+
+ action 
+  ACTION_SAY_TEXT
+  "Looks like a piranha."
+ end_action
+
+end_script

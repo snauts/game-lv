@@ -1,0 +1,30 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+15
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\granjonka\granjonka0000.png"
+"gfx\inventory\granjonka\granjonka0001.png"
+"gfx\inventory\granjonka\granjonka0002.png"
+"gfx\inventory\granjonka\granjonka0003.png"
+"gfx\inventory\granjonka\granjonka0004.png"
+"gfx\inventory\granjonka\granjonka0005.png"
+"gfx\inventory\granjonka\granjonka0006.png"
+"gfx\inventory\granjonka\granjonka0007.png"
+"gfx\inventory\granjonka\granjonka0008.png"
+"gfx\inventory\granjonka\granjonka0009.png"
+"gfx\inventory\granjonka\granjonka0010.png"
+"gfx\inventory\granjonka\granjonka0011.png"
+"gfx\inventory\granjonka\granjonka0012.png"
+"gfx\inventory\granjonka\granjonka0013.png"
+"gfx\inventory\granjonka\granjonka0014.png"
+end_animation_block

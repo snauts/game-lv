@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_SPIRTS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  391
+  59
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\lab\spirts mask.png"
+  ""
+  "Bottles of ethanol"
+ end_hotspot_animation
+end_hotspot

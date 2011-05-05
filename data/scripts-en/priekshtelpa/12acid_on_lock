@@ -1,0 +1,13 @@
+script
+ SCRIPT_PRIEKSHTELPA_ACID_ON_LOCK
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_ACID
+ HOTSPOT_PRIEKSHTELPA_LOCK
+
+ action 
+  ACTION_SAY_TEXT
+  "A subtler approach is needed here.\n\rI can't pour it straight from the flask."
+ end_action
+
+end_script

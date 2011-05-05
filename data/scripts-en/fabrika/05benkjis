@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKA_BENKJIS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_BENKJIS
+
+ action 
+  ACTION_SAY_TEXT
+  "If the bench wasn't broken, I would think we're in another city."
+ end_action
+
+end_script

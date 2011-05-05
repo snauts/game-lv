@@ -1,0 +1,275 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\smoke\smoke0000.png"
+"gfx\scene\podjezd\smoke\smoke0001.png"
+"gfx\scene\podjezd\smoke\smoke0002.png"
+"gfx\scene\podjezd\smoke\smoke0003.png"
+"gfx\scene\podjezd\smoke\smoke0004.png"
+"gfx\scene\podjezd\smoke\smoke0005.png"
+"gfx\scene\podjezd\smoke\smoke0006.png"
+"gfx\scene\podjezd\smoke\smoke0007.png"
+"gfx\scene\podjezd\smoke\smoke0008.png"
+"gfx\scene\podjezd\smoke\smoke0009.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+100
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\smoke\smoke0009.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\smoke\smoke0009.png"
+"gfx\scene\podjezd\smoke\smoke0008.png"
+"gfx\scene\podjezd\smoke\smoke0007.png"
+"gfx\scene\podjezd\smoke\smoke0006.png"
+"gfx\scene\podjezd\smoke\smoke0005.png"
+"gfx\scene\podjezd\smoke\smoke0004.png"
+"gfx\scene\podjezd\smoke\smoke0003.png"
+"gfx\scene\podjezd\smoke\smoke0002.png"
+"gfx\scene\podjezd\smoke\smoke0001.png"
+"gfx\scene\podjezd\smoke\smoke0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+100
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\smoke\smoke0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\picknose\picknose0000.png"
+"gfx\scene\podjezd\picknose\picknose0001.png"
+"gfx\scene\podjezd\picknose\picknose0002.png"
+"gfx\scene\podjezd\picknose\picknose0003.png"
+"gfx\scene\podjezd\picknose\picknose0004.png"
+"gfx\scene\podjezd\picknose\picknose0005.png"
+"gfx\scene\podjezd\picknose\picknose0006.png"
+"gfx\scene\podjezd\picknose\picknose0007.png"
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0009.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0009.png"
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0009.png"
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0009.png"
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0009.png"
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0009.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\picknose\picknose0009.png"
+"gfx\scene\podjezd\picknose\picknose0008.png"
+"gfx\scene\podjezd\picknose\picknose0007.png"
+"gfx\scene\podjezd\picknose\picknose0006.png"
+"gfx\scene\podjezd\picknose\picknose0005.png"
+"gfx\scene\podjezd\picknose\picknose0004.png"
+"gfx\scene\podjezd\picknose\picknose0003.png"
+"gfx\scene\podjezd\picknose\picknose0002.png"
+"gfx\scene\podjezd\picknose\picknose0001.png"
+"gfx\scene\podjezd\picknose\picknose0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+100
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\picknose\picknose0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\scratch\scratch0000.png"
+"gfx\scene\podjezd\scratch\scratch0001.png"
+"gfx\scene\podjezd\scratch\scratch0002.png"
+"gfx\scene\podjezd\scratch\scratch0003.png"
+"gfx\scene\podjezd\scratch\scratch0004.png"
+"gfx\scene\podjezd\scratch\scratch0005.png"
+"gfx\scene\podjezd\scratch\scratch0006.png"
+"gfx\scene\podjezd\scratch\scratch0007.png"
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0009.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0009.png"
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0009.png"
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0009.png"
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0009.png"
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0009.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\scratch\scratch0009.png"
+"gfx\scene\podjezd\scratch\scratch0008.png"
+"gfx\scene\podjezd\scratch\scratch0007.png"
+"gfx\scene\podjezd\scratch\scratch0006.png"
+"gfx\scene\podjezd\scratch\scratch0005.png"
+"gfx\scene\podjezd\scratch\scratch0004.png"
+"gfx\scene\podjezd\scratch\scratch0003.png"
+"gfx\scene\podjezd\scratch\scratch0002.png"
+"gfx\scene\podjezd\scratch\scratch0001.png"
+"gfx\scene\podjezd\scratch\scratch0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+100
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\scratch\scratch0000.png"
+end_animation_block

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_KRESTS_WALL2
+ 160
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  404
+  296 
+  1
+  "gfx\scene\krests\krests_wall2.lst"
+  "gfx\scene\krests\krests_turza_mask.png"
+  ""
+  "Paper bag"
+ end_hotspot_animation
+end_hotspot

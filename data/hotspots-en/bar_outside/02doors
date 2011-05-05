@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_OUTSIDE_DOORS
+ 200
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  172
+  195 
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_outside\bar_outside_doors_mask.png"
+  ""
+  "Door"
+ end_hotspot_animation
+end_hotspot

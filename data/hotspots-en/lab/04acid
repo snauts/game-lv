@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_ACID
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  225
+  113
+  1
+  "gfx\scene\lab\acid.lst"
+  "gfx\scene\lab\acid mask.png"
+  ""
+  "Acid flask"
+ end_hotspot_animation
+end_hotspot

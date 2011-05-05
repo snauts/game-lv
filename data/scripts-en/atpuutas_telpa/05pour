@@ -1,0 +1,140 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_POUR
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_FULL_BOTTLE
+ HOTSPOT_ATPUUTAS_TELPA_KREESLS2
+
+ action
+  ACTION_MOVE_CHARACTER
+  344
+  386
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_315_POUR_PRIM_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_315_POUR_PRIM_3
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_WATER
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_ATPUUTAS_TELPA_WATER
+  1
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_ATPUUTAS_TELPA_BOOKSHELF_PRIM
+  2147483647
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_ATPUUTAS_TELPA_BOOKSHELF
+  0
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_ATPUUTAS_TELPA_KREESLS2
+  0
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_ATPUUTAS_TELPA_BOTTLE_ROKAS
+  0
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_ATPUUTAS_TELPA_DIALOG
+  2147483647
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_ATPUUTAS_TELPA_SHOW_PHOTO
+  2147483647
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_315_POUR_PRIM_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_FULL_BOTTLE
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_BOTTLE
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_ATPUUTAS_TELPA_MAN
+  2
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "AAAAAHhhh! What is that shit?!"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "Monsters! Savages! I will kill you all!"
+ end_action
+ 
+ action 
+  ACTION_SAY_NPC_TEXT
+  "And who would *you* be, Mr. Shit-stained jacket?"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "You're gonna pay for that!\n\rI'll uh.. (sigh) I'll get my strength back and then..."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_ATPUUTAS_TELPA_MAN
+  1
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

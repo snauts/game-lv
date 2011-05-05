@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_DARBAGALDS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_DARBAGALDS
+
+ action 
+  ACTION_SAY_TEXT
+  "Once a laboratory, now a kitchen."
+ end_action
+
+end_script

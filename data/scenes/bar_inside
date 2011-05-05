@@ -1,0 +1,33 @@
+scene
+ SCENE_BAR_INSIDE
+ "gfx\scene\bar_inside\bar_inside.lst"
+ "scenes\bar_inside_walkmask"
+ "sound\ambient\05wasers"
+ hotspots
+  HOTSPOT_BAR_INSIDE_FAN			
+  HOTSPOT_BAR_INSIDE_LETE			
+  HOTSPOT_BAR_INSIDE_WATER		
+  HOTSPOT_BAR_INSIDE_KREESLS1		
+  HOTSPOT_BAR_INSIDE_KREESLS2             
+  HOTSPOT_BAR_INSIDE_KREESLS3             
+  HOTSPOT_BAR_INSIDE_KREESLS4             
+  HOTSPOT_BAR_INSIDE_KREESLS5             
+  HOTSPOT_BAR_INSIDE_BACK_FRAME		
+  HOTSPOT_BAR_INSIDE_BACK_WATER           
+  HOTSPOT_BAR_INSIDE_FRONT_FRAME          
+  HOTSPOT_BAR_INSIDE_FRONT_WATER          
+  HOTSPOT_BAR_INSIDE_MIDDLE_WATER         
+  HOTSPOT_BAR_INSIDE_WALL                 
+  HOTSPOT_BAR_INSIDE_PUMPIS               
+  HOTSPOT_BAR_INSIDE_PUDELES              
+  HOTSPOT_BAR_INSIDE_SINK                 
+  HOTSPOT_BAR_INSIDE_GLAAZES              
+  HOTSPOT_BAR_INSIDE_ASHTRAY              
+  HOTSPOT_BAR_INSIDE_MENU                 
+  HOTSPOT_BAR_INSIDE_BOTTLE               
+  HOTSPOT_BAR_INSIDE_BARMAN               
+  HOTSPOT_BAR_INSIDE_WATER_POUR           
+  HOTSPOT_BAR_INSIDE_DOORS                
+  HOTSPOT_BAR_INSIDE_PACK
+ end_hotspots
+end_scene    

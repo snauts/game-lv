@@ -1,0 +1,63 @@
+script
+ SCRIPT_FOREST_TO_END
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FOREST_TO_END
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  2
+  "got_dog?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I'm not leaving without Fudge."
+ end_action
+
+ action 
+  ACTION_STOP_SCRIPT_IF
+  YES
+  "true"
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  1637
+  445
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_SEA_SCAPE
+ end_action
+
+ action
+  ACTION_HIDE_CHARACTER
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+   ACTION_EXECUTE_SCRIPT_IF
+   YES
+   SCRIPT_ENDING
+   "true"
+ end_action
+
+
+end_script

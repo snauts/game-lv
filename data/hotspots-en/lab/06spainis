@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_SPAINIS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  100
+  135
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\lab\spainis mask.png"
+  ""
+  "Washing bucket"
+ end_hotspot_animation
+end_hotspot

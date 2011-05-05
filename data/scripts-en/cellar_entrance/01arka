@@ -1,0 +1,27 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_ARKA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_ARKA
+
+ action 
+  ACTION_SAY_TEXT
+  "Stand under the arc."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Pull out a stone."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Get a concussion."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Not today, thank you!"
+ end_action
+end_script

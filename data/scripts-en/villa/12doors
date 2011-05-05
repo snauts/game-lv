@@ -1,0 +1,33 @@
+script
+ SCRIPT_VILLA_DURVIS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_DURVIS
+
+ action 
+  ACTION_SAY_TEXT
+  "To break or not to break?"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "That is the question!"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I could hurt myself."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "It'll get angry."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "And hurt me."
+ end_action
+
+end_script

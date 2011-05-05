@@ -1,0 +1,29 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\inventory\wine_bottle\wine_bottle0000.png"
+"gfx\inventory\wine_bottle\wine_bottle0001.png"
+"gfx\inventory\wine_bottle\wine_bottle0002.png"
+"gfx\inventory\wine_bottle\wine_bottle0003.png"
+"gfx\inventory\wine_bottle\wine_bottle0004.png"
+"gfx\inventory\wine_bottle\wine_bottle0005.png"
+"gfx\inventory\wine_bottle\wine_bottle0006.png"
+"gfx\inventory\wine_bottle\wine_bottle0007.png"
+"gfx\inventory\wine_bottle\wine_bottle0006.png"
+"gfx\inventory\wine_bottle\wine_bottle0005.png"
+"gfx\inventory\wine_bottle\wine_bottle0004.png"
+"gfx\inventory\wine_bottle\wine_bottle0003.png"
+"gfx\inventory\wine_bottle\wine_bottle0002.png"
+"gfx\inventory\wine_bottle\wine_bottle0001.png"
+end_animation_block

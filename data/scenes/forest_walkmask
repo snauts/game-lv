@@ -1,0 +1,7 @@
+walkmask
+ "gfx\scene\forest\mask.png"
+ "0.75"
+ "0"
+ graph
+ end_graph
+end_walkmask

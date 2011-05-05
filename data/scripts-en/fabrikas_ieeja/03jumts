@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKAS_IEEJA_JUMTS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKAS_IEEJA_JUMTS
+
+ action 
+  ACTION_SAY_TEXT
+  "It looks unstable. Even the pigeons will not sit on it."
+ end_action
+
+end_script

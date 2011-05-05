@@ -1,0 +1,11 @@
+scene
+ SCENE_SEA_SCAPE
+ "gfx\scene\sea_scape\sea_scape.lst"
+ "scenes\sea_scape_walkmask"
+ "sound\ambient\08sea"
+ hotspots
+  HOTSPOT_SEA_SCAPE_SEA
+  HOTSPOT_SEA_SCAPE_TAIL
+  HOTSPOT_SEA_SCAPE_BLACK
+ end_hotspots                     
+end_scene                         

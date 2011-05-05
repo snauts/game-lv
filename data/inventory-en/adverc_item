@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_ADVERC
+ "Job advertisement"
+ "Job advertisement from the local bar"
+ "gfx\inventory\adverts.lst"
+ "gfx\inventory\adverts_light.lst"
+end_inventory_item

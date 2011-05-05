@@ -1,0 +1,24 @@
+script
+ SCRIPT_FABRIKA_DRINK
+ 2147483647
+ SIMPLE_SCRIPT
+
+ action
+  ACTION_TRIGGER_RESUME_SCRIPT
+  SCRIPT_FABRIKA_STOP_DRINK
+  320 
+ end_action
+
+ action
+  ACTION_SET_STATE
+  NO
+  "kauss good?" 
+ end_action
+
+ action 
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_FABRIKA_KAUSS
+  1
+ end_action
+
+end_script

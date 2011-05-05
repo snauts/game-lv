@@ -1,0 +1,12 @@
+script
+ SCRIPT_WINE_CELLAR_LOGI
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_LOGI
+
+ action 
+  ACTION_SAY_TEXT
+  "The sun is shining outside. In here, however, the air is cool and damp."
+ end_action
+end_script

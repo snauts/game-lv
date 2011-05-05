@@ -1,0 +1,17 @@
+script
+ SCRIPT_LAB_AUGS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_AUGS
+
+ action 
+  ACTION_SAY_TEXT
+  "The Plant Protection Agency informs us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Under the current legislation, plants have rights too!"
+ end_action
+end_script

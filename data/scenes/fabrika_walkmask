@@ -1,0 +1,273 @@
+walkmask
+ "gfx\scene\fabrika\mask.png"
+ "0.75"
+ "0.0"
+ graph
+
+  graph_node
+   0
+   350
+   315
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   425
+   334
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   406
+   355
+   -1
+   graph_node_lines
+    8
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   497
+   385
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   980
+   465
+   -1
+   graph_node_lines
+    9
+    -1
+    -1
+    1
+    0
+
+    5
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   1097
+   454
+   -1
+   graph_node_lines
+    4
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   1163
+   372
+   -1
+   graph_node_lines
+    5
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   7
+   1155
+   347
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   8
+   463
+   343
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   9
+   562
+   366
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   10
+   493
+   336
+   52
+   graph_node_lines
+    8
+    -1
+    -1
+    1
+    1
+
+    11
+    -1
+    -1
+    1
+    1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   11
+   544
+   351
+   58
+   graph_node_lines
+    10
+    -1
+    -1
+    1
+    1
+
+    9
+    -1
+    -1
+    1
+    1
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

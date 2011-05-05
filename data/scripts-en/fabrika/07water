@@ -1,0 +1,13 @@
+script
+ SCRIPT_FABRIKA_WATER
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FABRIKA_WATER
+
+ action 
+  ACTION_SAY_TEXT
+  "Drinking raw sewage may cause severe vomiting and stomach pain."
+ end_action
+
+end_script

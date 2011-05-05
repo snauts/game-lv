@@ -1,0 +1,18 @@
+scene                             
+ SCENE_FABRIKA
+ "gfx\scene\fabrika\fabrika.lst"
+ "scenes\fabrika_walkmask"
+ ""
+ hotspots                         
+  HOTSPOT_FABRIKA_TREE
+  HOTSPOT_FABRIKA_TV
+  HOTSPOT_FABRIKA_WATER
+  HOTSPOT_FABRIKA_POSTER
+  HOTSPOT_FABRIKA_STABS
+  HOTSPOT_FABRIKA_MISKASTE
+  HOTSPOT_FABRIKA_BENKJIS
+  HOTSPOT_FABRIKA_FABRIKA
+  HOTSPOT_FABRIKA_KAUSS
+  HOTSPOT_FABRIKA_LEAVE
+ end_hotspots                     
+end_scene                         

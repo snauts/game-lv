@@ -1,0 +1,40 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_DURVIS2
+ 481
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  477
+  142
+  1
+  "gfx\scene\priekshtelpa\doors\doorsclosed.lst"
+  "gfx\scene\priekshtelpa\durvis2 mask.png"
+  ""
+  "Door to the recreation room"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  477
+  142
+  1
+  "gfx\scene\priekshtelpa\doors\doors.lst"
+  "gfx\scene\priekshtelpa\durvis2 mask.png"
+  ""
+  "Door to the recreation room"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  477
+  142
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\priekshtelpa\durvis2 mask.png"
+  ""
+  "Door to the recreation room"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,13 @@
+scene
+ SCENE_DEGUSTEETAVA
+ "gfx\scene\degusteetava\screen.lst"
+ "scenes\degusteetava_walkmask"
+ ""
+ hotspots
+  HOTSPOT_DEGUSTEETAVA_LEAVE
+  HOTSPOT_DEGUSTEETAVA_GALDS
+  HOTSPOT_DEGUSTEETAVA_KOIKA
+  HOTSPOT_DEGUSTEETAVA_PAPER
+  HOTSPOT_DEGUSTEETAVA_STANGAS
+ end_hotspots
+end_scene    

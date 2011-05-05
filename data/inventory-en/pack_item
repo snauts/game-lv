@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_PACK
+ "Cigarettes"
+ "Cigarettes"
+ "gfx\inventory\pack.lst"
+ "gfx\inventory\pack_light.lst"
+end_inventory_item

@@ -1,0 +1,79 @@
+script
+ SCRIPT_VILLA_GATE
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_GATE
+
+ action
+  ACTION_MOVE_CHARACTER
+  14
+  284
+ end_action
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  3
+  "window_listended?"
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  YES
+  "window_leave!"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I think I heard a noise."
+ end_action
+
+ action
+  ACTION_EXECUTE_SCRIPT_IF
+  YES
+  SCRIPT_VILLA_WINDOW
+  "true"
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_FOREST
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  0
+  445
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  0
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  100
+  445
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

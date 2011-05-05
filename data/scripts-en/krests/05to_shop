@@ -1,0 +1,50 @@
+script
+ SCRIPT_KRESTS_TO_SHOP
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_KRESTS_TO_SHOP
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  254
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_SHOP_OUTSIDE
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  639	
+  210
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  619
+  230
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

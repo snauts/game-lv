@@ -1,0 +1,16 @@
+animation_block
+# x un y ofseti
+-19
+-15
+# total frames & speed
+1
+0
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\gate\gate05.png"
+end_animation_block

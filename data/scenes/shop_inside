@@ -1,0 +1,19 @@
+scene                             
+ SCENE_SHOP_INSIDE                            
+ "gfx\scene\shop_inside\shop_inside.lst"
+ "scenes\shop_inside_walkmask"
+ "sound\ambient\01mushas"
+ hotspots                         
+  HOTSPOT_SHOP_INSIDE_LEAVE		
+  HOTSPOT_SHOP_INSIDE_BELASH              
+  HOTSPOT_SHOP_INSIDE_BOTTLES             
+  HOTSPOT_SHOP_INSIDE_WATER               
+  HOTSPOT_SHOP_INSIDE_VEGETABLES          
+  HOTSPOT_SHOP_INSIDE_SPIDER              
+  HOTSPOT_SHOP_INSIDE_PORNO               
+  HOTSPOT_SHOP_INSIDE_POISON              
+  HOTSPOT_SHOP_INSIDE_FLYPAPER            
+  HOTSPOT_SHOP_INSIDE_TANTUKS             
+  HOTSPOT_SHOP_INSIDE_PACK                
+ end_hotspots                     
+end_scene                         

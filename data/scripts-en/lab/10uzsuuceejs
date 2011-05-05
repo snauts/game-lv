@@ -1,0 +1,17 @@
+script
+ SCRIPT_LAB_UZSUUCEEJS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_UZSUUCEEJS
+
+ action 
+  ACTION_SAY_TEXT
+  "It looks like a part of a smelting chimney."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Who knows what they were doing here fifty years ago."
+ end_action
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_OUTSIDE_TABLES
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  36
+  237 
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\bar_outside\bar_outside_tables_mask.png"
+  ""
+  "Tables"
+ end_hotspot_animation
+end_hotspot

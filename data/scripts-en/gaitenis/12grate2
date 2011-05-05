@@ -1,0 +1,13 @@
+script
+ SCRIPT_GAITENIS_GRATE2
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_GRATE
+
+ action 
+  ACTION_SAY_TEXT
+  "There's the sulfur. What next?"
+ end_action
+
+end_script

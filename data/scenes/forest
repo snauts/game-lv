@@ -1,0 +1,14 @@
+scene
+ SCENE_FOREST
+ "gfx\scene\forest\forest.lst"
+ "scenes\forest_walkmask"
+ ""
+ hotspots                         
+  HOTSPOT_FOREST_TO_VILLA
+  HOTSPOT_FOREST_TO_END
+  HOTSPOT_FOREST_SMALL1
+  HOTSPOT_FOREST_SMALL2
+  HOTSPOT_FOREST_BIG
+  HOTSPOT_FOREST_MUSHROOM
+ end_hotspots                     
+end_scene                         

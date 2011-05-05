@@ -1,0 +1,51 @@
+hotspot
+ HOTSPOT_SHOP_OUTSIDE_DOORS
+ 305
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  404
+  7
+  1
+  "gfx\scene\shop_outside\shop_shut.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Shop door"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  404
+  7
+  1
+  "gfx\scene\shop_outside\shop_open.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Shop door"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  404
+  7
+  1
+  "gfx\scene\shop_outside\shop_close.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Shop door"
+ end_hotspot_animation
+
+ hotspot_animation
+  3
+  404
+  7
+  1
+  "gfx\scene\shop_outside\shop_doors.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Shop door"
+ end_hotspot_animation
+end_hotspot

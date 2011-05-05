@@ -1,0 +1,8 @@
+sound
+ SOUND_SPAINIS
+ 0
+ 128
+ 1
+ 1
+ "sound\fabrikas_ieeja\01spainis.wav"
+end_sound

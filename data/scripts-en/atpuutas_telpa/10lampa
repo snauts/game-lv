@@ -1,0 +1,58 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_LAMPA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_LAMPA
+
+ action 
+  ACTION_SAY_TEXT
+  "A lamp without a cord?"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "How does it work?"
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_SWITCH
+ end_action
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_ATPUUTAS_TELPA_BLACK
+ end_action
+
+ action 
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Perhaps it's better not to think about that."
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_SWITCH
+ end_action
+
+ action
+  ACTION_HIDE_HOTSPOT
+  HOTSPOT_ATPUUTAS_TELPA_BLACK
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

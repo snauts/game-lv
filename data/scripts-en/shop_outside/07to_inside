@@ -1,0 +1,120 @@
+script
+ SCRIPT_SHOP_OUTSIDE_TO_INSIDE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_OUTSIDE_GO_IN
+
+ action
+  ACTION_MOVE_CHARACTER
+  477
+  232
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_PUSH_1
+  RESUME_WALKING  
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_DOOR   
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_PUSH_2
+  RESUME_WALKING   
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  1
+ end_action
+
+ action
+  ACTION_ENABLE_GRAPH_LINE
+  SCENE_SHOP_OUTSIDE
+  1   
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  393
+  171
+ end_action
+
+ action
+  ACTION_DISABLE_GRAPH_LINE
+  SCENE_SHOP_OUTSIDE
+  1   
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  2
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  0
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_SHOP_INSIDE
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_BELL
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  639
+  479
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  586
+  467
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

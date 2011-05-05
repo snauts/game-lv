@@ -1,0 +1,132 @@
+walkmask
+ "gfx\scene\eja\eja_walkmask.png"
+ "0.75"
+ "0.0"
+ graph
+
+  graph_node
+   1
+   375
+   393
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   401
+   384
+   -1
+   graph_node_lines
+	1
+	-1
+	-1
+	1
+	1
+
+	3
+	-1
+	-1
+	1
+	1
+
+	4
+	-1
+	-1
+	1
+	1
+
+	5
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   422
+   373
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+	
+	4
+	-1
+	-1
+	1
+	1
+	
+	5
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   394
+   373
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+
+	3
+	-1
+	-1
+	1
+	1
+
+	5
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   5
+   442
+   348
+   -1
+   graph_node_lines
+	2
+	-1
+	-1
+	1
+	1
+
+	3
+	-1
+	-1
+	1
+	1
+
+	4
+	-1
+	-1
+	1
+	1
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+end_walkmask

@@ -1,0 +1,31 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+16
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\tantuks\give0000.png"
+"gfx\scene\shop_inside\tantuks\give0001.png"
+"gfx\scene\shop_inside\tantuks\give0002.png"
+"gfx\scene\shop_inside\tantuks\give0003.png"
+"gfx\scene\shop_inside\tantuks\give0004.png"
+"gfx\scene\shop_inside\tantuks\give0005.png"
+"gfx\scene\shop_inside\tantuks\give0006.png"
+"gfx\scene\shop_inside\tantuks\give0007.png"
+"gfx\scene\shop_inside\tantuks\give0008.png"
+"gfx\scene\shop_inside\tantuks\give0009.png"
+"gfx\scene\shop_inside\tantuks\give0010.png"
+"gfx\scene\shop_inside\tantuks\give0011.png"
+"gfx\scene\shop_inside\tantuks\give0012.png"
+"gfx\scene\shop_inside\tantuks\give0013.png"
+"gfx\scene\shop_inside\tantuks\give0014.png"
+"gfx\scene\shop_inside\tantuks\give0015.png"
+end_animation_block                   

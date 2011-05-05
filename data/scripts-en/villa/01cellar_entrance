@@ -1,0 +1,75 @@
+script
+ SCRIPT_VILLA_TO_CELLAR_ENTRANCE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_CELLAR_HOLE
+
+ action
+  ACTION_MOVE_CHARACTER
+  221
+  439
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  45
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Going down there makes me feel like Winnie the Pooh."
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER  
+  288
+  406
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  45
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_CELLAR_ENTRANCE
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  20
+  293
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Ouch, I hit my forehead!"
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  150
+  390
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

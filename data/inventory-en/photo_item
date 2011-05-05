@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_PHOTO
+ "Photo"
+ "Photograph of the lost dog"
+ "gfx\inventory\photo.lst"
+ "gfx\inventory\photo_light.lst"
+end_inventory_item

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKA_FABRIKA
+ 470
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  711
+  8
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\fabrika\fabrika mask.png"
+  ""
+  "Infamous belash factory"
+ end_hotspot_animation
+end_hotspot

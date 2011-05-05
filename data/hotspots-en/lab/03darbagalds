@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_DARBAGALDS
+ 60
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  129
+  198
+  1
+  "gfx\scene\lab\darbagalds.lst"
+  "gfx\scene\lab\darbagalds mask.png"
+  ""
+  "Work table"
+ end_hotspot_animation
+end_hotspot

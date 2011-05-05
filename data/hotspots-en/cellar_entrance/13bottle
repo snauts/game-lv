@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_BOTTLE
+ 32
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  415
+  1
+  "gfx\scene\cellar_entrance\bottle.lst"
+  "gfx\scene\cellar_entrance\bottle mask.png"
+  ""
+  "Bottle of oil"
+ end_hotspot_animation
+end_hotspot

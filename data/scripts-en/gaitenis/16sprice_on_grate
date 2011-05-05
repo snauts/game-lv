@@ -1,0 +1,150 @@
+script
+ SCRIPT_GAITENIS_SPRICE_ON_GRATE
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_ACID_SPRICE
+ HOTSPOT_GAITENIS_GRATE
+
+ action
+  ACTION_MOVE_CHARACTER
+  245
+  297
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_180_LOW_HAND_PRIM_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_MAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+  CHARACTER_180_LOW_HAND_PRIM_3
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_DROPS
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_GAS
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_ACID_SPRICE
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_GLASS_SPRICE
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_GAITENIS_KOLBA_ON_GRATE
+  0
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_GAITENIS_TO_PRIEKSHTELPA1
+  0
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_GAITENIS_TO_PRIEKSHTELPA2
+  2147483647
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_GAITENIS_GRATE2
+  0
+ end_action
+
+ action
+  ACTION_SET_EXECUTION_COUNT
+  SCRIPT_GAITENIS_GRATE3
+  2147483647
+ end_action
+
+ action
+  ACTION_UNMAP_CHARACTER_ANIMATION
+  CHARACTER_STAND
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_180_LOW_HAND_PRIM_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Ugh! Smells like rotting flesh!"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") Did you just fart in here?"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle's\" brother) No, not me."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") You see somebody else in here?"
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_HIT1
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle's\" brother) Why don't you shut your face?!"
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_HIT2
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") Smelly bastard!"
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_HIT3
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,40 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_MAN
+ 43
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  295
+  327
+  1
+  "gfx\scene\atpuutas_telpa\man\manstill.lst"
+  "gfx\scene\atpuutas_telpa\man mask.png"
+  ""
+  "Hands"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  295
+  327
+  1
+  "gfx\scene\atpuutas_telpa\man\manawake.lst"
+  "gfx\scene\atpuutas_telpa\man mask.png"
+  ""
+  "Hands"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  295
+  327
+  1
+  "gfx\scene\atpuutas_telpa\man\manwave.lst"
+  "gfx\scene\atpuutas_telpa\man mask.png"
+  ""
+  "Hands"
+ end_hotspot_animation
+end_hotspot                            

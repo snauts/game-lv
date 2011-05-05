@@ -1,0 +1,41 @@
+script
+ SCRIPT_KRESTS_POSTER
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_KRESTS_WALL1
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+ 
+ action
+  ACTION_SKIP_SCRIPT_ACTIONS
+  YES
+  1
+  "zin par belashiem?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Belash: the Soviet attempt at making palatable fast food.\n\rDoes the poster really say they're using dog meat as fillings?!"
+ end_action
+ 
+ action
+  ACTION_SKIP_SCRIPT_ACTIONS
+  NO
+  1
+  "zin par belashiem?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I must hurry to save Fudge!"
+ end_action
+ 
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

@@ -1,0 +1,12 @@
+script
+ SCRIPT_LAB_BOTTLE_SINK
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_BOTTLE
+ HOTSPOT_LAB_IZLIETNE
+
+  action
+   ACTION_SAY_TEXT
+   "The faucet is broken."
+ end_action
+end_script

@@ -1,0 +1,12 @@
+script
+ SCRIPT_PRIEKSHTELPA_CEPURE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PRIEKSHTELPA_CEPURE
+
+ action 
+  ACTION_SAY_TEXT
+  "I don't want it."
+ end_action
+end_script

@@ -1,0 +1,30 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+-1
+# image files
+"gfx\inventory\acidsprice\acidsprice0006.png"
+"gfx\inventory\acidsprice\acidsprice0005.png"
+"gfx\inventory\acidsprice\acidsprice0004.png"
+"gfx\inventory\acidsprice\acidsprice0003.png"
+"gfx\inventory\acidsprice\acidsprice0002.png"
+"gfx\inventory\acidsprice\acidsprice0001.png"
+
+"gfx\inventory\acidsprice\acidsprice0000.png"
+"gfx\inventory\acidsprice\acidsprice0001.png"
+"gfx\inventory\acidsprice\acidsprice0002.png"
+"gfx\inventory\acidsprice\acidsprice0003.png"
+"gfx\inventory\acidsprice\acidsprice0004.png"
+"gfx\inventory\acidsprice\acidsprice0005.png"
+"gfx\inventory\acidsprice\acidsprice0006.png"
+"gfx\inventory\acidsprice\acidsprice0007.png"
+end_animation_block

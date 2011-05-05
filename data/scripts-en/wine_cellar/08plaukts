@@ -1,0 +1,13 @@
+script
+ SCRIPT_WINE_CELLAR_PLAUKTS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_PLAUKTS
+
+ action 
+  ACTION_SAY_TEXT
+  "I would like to have one of those at home."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_DURVIS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  208
+  177
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\atpuutas_telpa\durvis mask.png"
+  ""
+  "Door"
+ end_hotspot_animation
+end_hotspot

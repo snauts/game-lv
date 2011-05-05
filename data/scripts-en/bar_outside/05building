@@ -1,0 +1,21 @@
+script
+ SCRIPT_BAR_OUTSIDE_BUILDING
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_OUTSIDE_BUILDING
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "The local bar \"Simtiòð\".\n\rRumored to be very efficient at getting people drunk."
+ end_action
+ 
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

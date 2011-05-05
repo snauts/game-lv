@@ -1,0 +1,18 @@
+script
+ SCRIPT_WINE_CELLAR_AKA
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_AKA
+
+ action 
+  ACTION_SAY_TEXT
+  "A well filled with wine!"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Am I dreaming?"
+ end_action
+
+end_script

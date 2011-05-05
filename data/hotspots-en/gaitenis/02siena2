@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_SIENA2
+ 164
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  436
+  181
+  1
+  "gfx\scene\gaitenis\siena2.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Wall 2"
+ end_hotspot_animation
+
+end_hotspot

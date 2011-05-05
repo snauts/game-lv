@@ -1,0 +1,137 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+50
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-10	
+-10
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-10	
+10
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+10	
+-10
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+10	
+10
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0	
+0
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+1
+50
+# image files
+"gfx\scene\lab\explosion.png"
+end_animation_block
+

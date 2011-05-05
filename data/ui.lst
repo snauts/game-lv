@@ -1,0 +1,40 @@
+game_menu
+ "gfx/menu/paper.png"
+ "gfx/inventory/cursor.lst"
+end_game_menu
+game_credits
+ 50
+ 1
+ " "
+ "GameLV project team:\r\n-----------------------"
+ " "
+ " "
+ "Artûrs Grebstelis (graphics)"
+ " "
+ "Atis Grînbergs (graphics)"
+ " "
+ "Jânis Kovaïevskis aka Kovacs (programming)"
+ " "
+ "Toms Miks aka Barvins (sound and music)"
+ " "
+ " "
+ "Special thanks to:\r\n-------------------"
+ " "
+ " "
+ "Agris Miks for photographs"
+ " "
+ " "
+ "-----------------------------"
+ " "
+ "You are responsible, forever, for what you have tamed."
+ "(Antoine de Saint Exupery)"
+end_game_credits
+startup_movies
+ "video/logo.mpg"
+end_startup_movies
+save_game_dir
+ "save"
+end_save_game_dir
+ui_music
+ "music/outro.ogg"
+end_ui_music

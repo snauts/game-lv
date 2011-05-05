@@ -1,0 +1,107 @@
+animation_block
+# x un y ofseti
+20
+1
+# total frames & speed
+1
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_outside\shop_doorsa.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+11
+1
+# total frames & speed
+1
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_outside\shop_doors9.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+3
+1
+# total frames & speed
+1
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_outside\shop_doors8.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+1
+1
+# total frames & speed
+3
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_outside\shop_doors7.png"
+"gfx\scene\shop_outside\shop_doors6.png"
+"gfx\scene\shop_outside\shop_doors5.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+1
+# total frames & speed
+4
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_outside\shop_doors4.png"
+"gfx\scene\shop_outside\shop_doors3.png"
+"gfx\scene\shop_outside\shop_doors2.png"
+"gfx\scene\shop_outside\shop_doors1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_outside\shop_doors0.png"
+end_animation_block
+

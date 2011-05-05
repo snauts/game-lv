@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_KRESTS_CAUREJA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  112
+  41
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\krests\krests_to_caureja_mask.png"
+  ""
+  "To the alley"
+ end_hotspot_animation
+end_hotspot

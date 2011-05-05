@@ -1,0 +1,43 @@
+script
+ SCRIPT_BAR_INSIDE_LEAVE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_INSIDE_DOORS
+
+ action
+  ACTION_MOVE_CHARACTER
+  443
+  177
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_BAR_PODJEZD
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  400
+  396
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  225
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

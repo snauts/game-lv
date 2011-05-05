@@ -1,0 +1,172 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_0.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-1
+1
+# total frames & speed
+2
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_1.png"
+"gfx\scene\eja\eja_kaajas_2.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-2
+1
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_3.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-2
+2
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_4.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-2
+3
+# total frames & speed
+2
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_5.png"
+"gfx\scene\eja\eja_kaajas_6.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-2
+5
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_7.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-1
+6
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_8.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-1
+7
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_9.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+8
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_a.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+1
+8
+# total frames & speed
+1
+8
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\eja\eja_kaajas_b.png"
+end_animation_block
+

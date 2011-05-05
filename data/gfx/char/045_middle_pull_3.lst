@@ -1,0 +1,54 @@
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+1
+200
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\045_middle_pull_0012.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+5
+1
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\045_middle_pull_0012.png"
+"gfx\char\045_middle_pull_0013.png"
+"gfx\char\045_middle_pull_0014.png"
+"gfx\char\045_middle_pull_0015.png"
+"gfx\char\045_middle_pull_0016.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+-127
+-233
+# total frames & speed
+1
+25
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\char\045_middle_pull_0016.png"
+end_animation_block

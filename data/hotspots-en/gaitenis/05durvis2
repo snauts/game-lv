@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_GAITENIS_DURVIS2
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  477
+  185
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\gaitenis\durvis2.png"
+  ""
+  "Laboratory"
+ end_hotspot_animation
+
+end_hotspot

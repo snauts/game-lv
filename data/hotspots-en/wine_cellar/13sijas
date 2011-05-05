@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_SIJAS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\wine_cellar\sijas mask.png"
+  ""
+  "Beam"
+ end_hotspot_animation
+end_hotspot

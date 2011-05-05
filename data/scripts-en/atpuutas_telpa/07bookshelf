@@ -1,0 +1,18 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_BOOKSHELF
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_ATPUUTAS_TELPA_BOOKSHELF
+
+ action 
+  ACTION_SAY_TEXT
+  "Criminals enjoy distinctly colored book covers."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Since they can't read, they tell the books apart by color."
+ end_action
+
+end_script

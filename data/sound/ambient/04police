@@ -1,0 +1,8 @@
+sound
+ -1
+ 0
+ 127
+ -1
+ 1
+ "sound\ambient\04police.wav"
+end_sound

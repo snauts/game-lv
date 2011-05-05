@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_EJA_VESHA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  387 
+  180
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\eja\eja_vesha_mask.png"
+  ""
+  "Underwear"
+ end_hotspot_animation
+end_hotspot

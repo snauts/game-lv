@@ -1,0 +1,8 @@
+sound
+ -1
+ 0
+ 13
+ -1
+ 1
+ "sound\ambient\01mushas.wav"
+end_sound

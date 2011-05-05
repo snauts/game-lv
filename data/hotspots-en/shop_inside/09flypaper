@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_FLYPAPER
+ 0
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  292
+  25
+  1
+  "gfx\scene\shop_inside\shop_flypaper.lst"
+  "gfx\scene\shop_inside\shop_flypaper_mask.png"
+  ""
+  "Flypaper"
+ end_hotspot_animation
+end_hotspot

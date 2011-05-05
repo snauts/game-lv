@@ -1,0 +1,83 @@
+script
+ SCRIPT_STREET_PELE
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_BELASH&SIKSNA
+ HOTSPOT_STREET_MUSOR
+
+ action
+  ACTION_MOVE_CHARACTER
+  111
+  329
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  45
+ end_action
+
+ action
+  ACTION_HIDE_HOTSPOT
+  HOTSPOT_STREET_EYES
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_TAKE
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_045_MIDDLE_PULL_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_045_MIDDLE_PULL_3
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_METAL_BANG
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_BELASH&SIKSNA
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_PELE
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_SIKSNA
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_045_MIDDLE_PULL_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "Gotcha! You nasty little rodent!"
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,21 @@
+script
+ SCRIPT_BAR_OUTSIDE_TABLES
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_OUTSIDE_TABLES
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "These tables have not been cleaned in a good while."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

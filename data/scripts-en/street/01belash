@@ -1,0 +1,26 @@
+script
+ SCRIPT_STREET_BELASH
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_BELASH
+ HOTSPOT_STREET_MUSOR
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "The mouse will not just jump into my hands."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I should tie the belash to something."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

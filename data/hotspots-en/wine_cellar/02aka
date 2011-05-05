@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_AKA
+ 53
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  208
+  327
+  1
+  "gfx\scene\wine_cellar\aka.lst"
+  "gfx\scene\wine_cellar\aka mask.png"
+  ""
+  "Well of wine"
+ end_hotspot_animation
+end_hotspot

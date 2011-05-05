@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_BALSTS
+ 33
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\scene\cellar_entrance\balsts.lst"
+  "gfx\scene\cellar_entrance\balsts mask.png"
+  ""
+  "Ceiling pillar"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,13 @@
+script
+ SCRIPT_PRIEKSHTELPA_DOOR
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PRIEKSHTELPA_DURVIS2
+
+ action 
+  ACTION_SAY_TEXT
+  "The lock is the weak part."
+ end_action
+
+end_script

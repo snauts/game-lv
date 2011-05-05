@@ -1,0 +1,13 @@
+script
+ SCRIPT_ATPUUTAS_TELPA_ACID_KREESLS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_ACID
+ HOTSPOT_ATPUUTAS_TELPA_KREESLS2
+
+ action 
+  ACTION_SAY_TEXT
+  "To kill, to rape, to disfigure - those are the first thoughts that\n\rcome to modern gamer's mind."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_VILLA_SPADE
+ 69
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  870
+  377
+  1
+  "gfx\scene\villa\spade.lst"
+  "gfx\scene\villa\spade_mask.png"
+  ""
+  "Spade"
+ end_hotspot_animation
+end_hotspot

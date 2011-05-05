@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_EJA_KAKIZ
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  428
+  258
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\eja\eja_kakiz_mask.png"
+  ""
+  "Kitty"
+ end_hotspot_animation
+end_hotspot

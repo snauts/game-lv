@@ -1,0 +1,21 @@
+script
+ SCRIPT_BAR_INSIDE_ASHTRAY
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_BAR_INSIDE_ASHTRAY
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "The air is so thick with a cigarette smoke, I think I'm going to be sick."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

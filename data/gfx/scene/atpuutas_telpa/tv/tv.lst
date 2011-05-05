@@ -1,0 +1,30 @@
+animation_block
+# x un y ofseti
+15
+37
+# total frames & speed
+15
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\atpuutas_telpa\tv\tv0014.png"
+"gfx\scene\atpuutas_telpa\tv\tv0013.png"
+"gfx\scene\atpuutas_telpa\tv\tv0012.png"
+"gfx\scene\atpuutas_telpa\tv\tv0011.png"
+"gfx\scene\atpuutas_telpa\tv\tv0010.png"
+"gfx\scene\atpuutas_telpa\tv\tv0009.png"
+"gfx\scene\atpuutas_telpa\tv\tv0008.png"
+"gfx\scene\atpuutas_telpa\tv\tv0007.png"
+"gfx\scene\atpuutas_telpa\tv\tv0006.png"
+"gfx\scene\atpuutas_telpa\tv\tv0005.png"
+"gfx\scene\atpuutas_telpa\tv\tv0004.png"
+"gfx\scene\atpuutas_telpa\tv\tv0003.png"
+"gfx\scene\atpuutas_telpa\tv\tv0002.png"
+"gfx\scene\atpuutas_telpa\tv\tv0001.png"
+"gfx\scene\atpuutas_telpa\tv\tv0000.png"
+end_animation_block

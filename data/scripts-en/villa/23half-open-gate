@@ -1,0 +1,17 @@
+script
+ SCRIPT_VILLA_HALF_OPEN
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_GATE
+
+ action
+  ACTION_SAY_TEXT
+  "The hinges are rusty and make a screeching sound."
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I'm afraid they'll hear me."
+ end_action
+end_script

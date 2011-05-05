@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_KRESTS_LAMP
+ 92
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  351
+  24 
+  1
+  "gfx\scene\krests\krests_lamp.lst"
+  "gfx\scene\krests\krests_lamp_mask.png"
+  ""
+  "Broken lantern"
+ end_hotspot_animation
+end_hotspot

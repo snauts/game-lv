@@ -1,0 +1,270 @@
+script 
+ SCRIPT_ENDING
+ 2147483647
+ SIMPLE_SCRIPT
+
+ action
+  ACTION_PLAY_MUSIC
+  MUSIC_OUTRO
+  DO_NOT_INTERUPT_MUSIC
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SEA_SCAPE_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SEA_SCAPE_BLACK
+  2
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "It's been a crazy day. Maybe I'll have that beer now."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "\t\t\t\t\t\t\t\t\t\t\t\tWoof!"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  300
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "You're one lucky dog, you know that?"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "\t\t\t\t\t\t\t\t\t\t\t\tWoof!"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  300
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Shall we use a leash from now on?"
+ end_action
+
+ action
+  ACTION_WAIT_HOTSPOT_ANIM_END
+  HOTSPOT_SEA_SCAPE_TAIL
+  0
+ end_action
+
+ action
+  ACTION_HIDE_HOTSPOT
+  HOTSPOT_SEA_SCAPE_TAIL
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action
+  ACTION_WAIT_HOTSPOT_ANIM_END
+  HOTSPOT_SEA_SCAPE_TAIL
+  0
+ end_action
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_SEA_SCAPE_TAIL
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  300
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Let's get something to eat."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "\t\t\t\t\t\t\t\t\t\t\t\tWoof, woof!"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SEA_SCAPE_BLACK
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SEA_SCAPE_BLACK
+  0
+ end_action
+
+ action
+  ACTION_SHOW_GAME_CREDITS
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_IZJUMINKA
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_IZJUMINKA_BLACK
+  1
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_IZJUMINKA_BLACK
+  2
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") Boss, we have a problem."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT	
+  "(Boss) Again? What now?"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") It's about Vasya."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Boss) Who's Vasya?"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") That idiot in the cellar, he's disappeared."
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  50
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(\"Muscle\") The dog's disappeared too."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Boss) So let me get this straight."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Boss) Vasya and his dog is the problem."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Boss) Vasya and his dog have disappeared."
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  50
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Boss) Ehh, forget about them."
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  500
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Boss) Do you, by any chance, know where to get a pony?"
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  100
+ end_action
+
+ action
+  ACTION_STOP_MUSIC
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_IZJUMINKA_BLACK
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_IZJUMINKA_BLACK
+  0
+ end_action
+
+ action
+  ACTION_WAIT_TIME
+  200
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "\n\r\n\r\n\r\n\r\n\r                                           THE END                                           "
+ end_action
+
+ action
+  ACTION_END_CURRENT_GAME
+  1
+ end_action
+
+end_script 

@@ -1,0 +1,41 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+26
+10
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\podjezd\walkaway\walkaway0000.png"
+"gfx\scene\podjezd\walkaway\walkaway0001.png"
+"gfx\scene\podjezd\walkaway\walkaway0002.png"
+"gfx\scene\podjezd\walkaway\walkaway0003.png"
+"gfx\scene\podjezd\walkaway\walkaway0004.png"
+"gfx\scene\podjezd\walkaway\walkaway0005.png"
+"gfx\scene\podjezd\walkaway\walkaway0006.png"
+"gfx\scene\podjezd\walkaway\walkaway0007.png"
+"gfx\scene\podjezd\walkaway\walkaway0008.png"
+"gfx\scene\podjezd\walkaway\walkaway0009.png"
+"gfx\scene\podjezd\walkaway\walkaway0010.png"
+"gfx\scene\podjezd\walkaway\walkaway0011.png"
+"gfx\scene\podjezd\walkaway\walkaway0012.png"
+"gfx\scene\podjezd\walkaway\walkaway0013.png"
+"gfx\scene\podjezd\walkaway\walkaway0014.png"
+"gfx\scene\podjezd\walkaway\walkaway0015.png"
+"gfx\scene\podjezd\walkaway\walkaway0016.png"
+"gfx\scene\podjezd\walkaway\walkaway0017.png"
+"gfx\scene\podjezd\walkaway\walkaway0018.png"
+"gfx\scene\podjezd\walkaway\walkaway0019.png"
+"gfx\scene\podjezd\walkaway\walkaway0020.png"
+"gfx\scene\podjezd\walkaway\walkaway0021.png"
+"gfx\scene\podjezd\walkaway\walkaway0022.png"
+"gfx\scene\podjezd\walkaway\walkaway0023.png"
+"gfx\scene\podjezd\walkaway\walkaway0024.png"
+"gfx\scene\podjezd\walkaway\walkaway0025.png"
+end_animation_block

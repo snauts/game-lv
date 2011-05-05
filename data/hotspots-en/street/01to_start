@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_STREET_TO_START
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\street\street_to_krests_mask.png"
+  ""
+  "To the crossing"
+ end_hotspot_animation
+end_hotspot

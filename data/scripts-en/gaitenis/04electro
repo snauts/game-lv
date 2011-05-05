@@ -1,0 +1,27 @@
+script
+ SCRIPT_GAITENIS_ELECTRO
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_ELECTRO
+
+ action 
+  ACTION_SAY_TEXT
+  "Turn off the light."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Trip over something in the dark."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Knock a few teeth out."
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Not today, thank you."
+ end_action
+end_script

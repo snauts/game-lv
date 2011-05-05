@@ -1,0 +1,13 @@
+script
+ SCRIPT_GAITENIS_UNKNOWN
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_GAITENIS_DURVIS1
+
+ action 
+  ACTION_SAY_TEXT
+  "Featureless doors are always locked!"
+ end_action
+
+end_script

@@ -1,0 +1,28 @@
+script
+ SCRIPT_SHOP_OUTSIDE_MUSOR
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_OUTSIDE_MUSOR
+
+ action
+  ACTION_EXECUTE_SCRIPT_IF
+  NO
+  SCRIPT_SHOP_OUTSIDE_TAKE_GRANJONKA
+  "is_musornik_empty?" 
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "It's the perfect symbol for our city."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

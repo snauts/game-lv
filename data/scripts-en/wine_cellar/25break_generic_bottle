@@ -1,0 +1,30 @@
+script
+ SCRIPT_WINE_CELLAR_BREAK_GENERIC_BOTTLE
+ 1
+ SIMPLE_SCRIPT
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "It's worth a try."
+ end_action
+
+ action
+  ACTION_PLAY_SOUND
+  ZERO_CHANNEL
+  SOUND_GLASS_BREAK
+ end_action
+
+ action
+  ACTION_ADD_INVENTORY_ITEM
+  ITEM_BROKEN_BOTTLE
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

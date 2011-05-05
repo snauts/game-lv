@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKA_STABS
+ 57
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  1040
+  171
+  1
+  "gfx\scene\fabrika\stabs.lst"
+  "gfx\scene\fabrika\stabs mask.png"
+  ""
+  "Tram post"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FOREST_TO_VILLA
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\forest\leave-mask.png"
+  ""
+  "To the estate"
+ end_hotspot_animation
+end_hotspot

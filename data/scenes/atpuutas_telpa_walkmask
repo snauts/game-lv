@@ -1,0 +1,687 @@
+walkmask
+ "gfx\scene\atpuutas_telpa\mask.png"
+ "0.75"
+ "0"
+ graph
+
+  graph_node
+   0
+   79
+   478
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   1
+   112
+   459
+   -1
+   graph_node_lines
+    0
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   2
+   113
+   431
+   -1
+   graph_node_lines
+    1
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   3
+   95
+   417
+   -1
+   graph_node_lines
+    2
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   4
+   222
+   421
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+
+    3
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   6
+   127
+   393
+   -1
+   graph_node_lines
+    3
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+
+    14
+    -1
+    -1
+    1
+    0
+
+    17
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   7
+   187
+   365
+   -1
+   graph_node_lines
+    6
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    14
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+
+    17
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   8
+   317
+   440
+   -1
+   graph_node_lines
+    9
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    4
+    -1
+    -1
+    1
+    0
+
+    1
+    -1
+    -1
+    1
+    0
+
+    2
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   9
+   328
+   382
+   -1
+   graph_node_lines
+    8
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+
+    14
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   10
+   442
+   382
+   -1
+   graph_node_lines
+    11
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    12
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+
+    14
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   11
+   460
+   439
+   -1
+   graph_node_lines
+    10
+    -1
+    -1
+    1
+    0
+
+    13
+    -1
+    -1
+    1
+    0
+
+    12
+    -1
+    -1
+    1
+    0
+
+    0
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   12
+   457
+   392
+   -1
+   graph_node_lines
+    13
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   13
+   578
+   437
+   -1
+   graph_node_lines
+    12
+    -1
+    -1
+    1
+    0
+
+    11
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   14
+   179
+   321
+   -1
+   graph_node_lines
+    17
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   15
+   259
+   326
+   -1
+   graph_node_lines
+    14
+    -1
+    -1
+    1
+    0
+
+    17
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    10
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   16
+   339
+   329
+   -1
+   graph_node_lines
+    10
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+
+    18
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   17
+   243
+   305
+   -1
+   graph_node_lines
+    14
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    6
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+  graph_node
+   18
+   298
+   395
+   -1
+   graph_node_lines
+    4
+    -1
+    -1
+    1
+    0
+
+    7
+    -1
+    -1
+    1
+    0
+
+    9
+    -1
+    -1
+    1
+    0
+
+    8
+    -1
+    -1
+    1
+    0
+
+    16
+    -1
+    -1
+    1
+    0
+
+    14
+    -1
+    -1
+    1
+    0
+
+    15
+    -1
+    -1
+    1
+    0
+   end_graph_node_lines
+  end_graph_node
+
+ end_graph
+
+end_walkmask

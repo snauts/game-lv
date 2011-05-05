@@ -1,0 +1,78 @@
+script
+ SCRIPT_SHOP_INSIDE_LEAVE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_INSIDE_LEAVE
+
+ action
+  ACTION_MOVE_CHARACTER
+  639
+  479
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_SHOP_OUTSIDE
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  394
+  172
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  3
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  1
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  477
+  232
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  2
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_SHOP_OUTSIDE_DOORS
+  0
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

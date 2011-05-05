@@ -1,0 +1,13 @@
+script
+ SCRIPT_PRIEKSHTELPA_GRATE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PRIEKSHTELPA_GRATE
+
+ action 
+  ACTION_SAY_TEXT
+  "I didn't think it would smell THIS bad."
+ end_action
+
+end_script

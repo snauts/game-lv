@@ -1,0 +1,41 @@
+hotspot
+ HOTSPOT_FABRIKA_KAUSS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  382
+  249
+  1
+  "gfx\scene\fabrika\kauss\kauss.lst"
+  "gfx\scene\fabrika\kauss\kauss-mask.png"
+  ""
+  "Beer mug"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  382
+  249
+  1
+  "gfx\scene\fabrika\kauss\kauss-action.lst"
+  "gfx\scene\fabrika\kauss\kauss-mask.png"
+  "sound\fabrika\01strebshana"
+  "Beer mug"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  382
+  249
+  1
+  "gfx\scene\fabrika\kauss\kauss-take.lst"
+  "gfx\scene\fabrika\kauss\kauss-mask.png"
+  "sound\fabrika\03dzer"
+  "Beer mug"
+ end_hotspot_animation
+
+end_hotspot

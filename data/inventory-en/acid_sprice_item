@@ -1,0 +1,7 @@
+inventory_item
+ ITEM_ACID_SPRICE
+ "Syringe"
+ "Syringe with acid in it"
+ "gfx\inventory\acidsprice.lst"
+ "gfx\inventory\acidsprice_light.lst"
+end_inventory_item

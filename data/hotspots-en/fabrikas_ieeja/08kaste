@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_KASTE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  152
+  184
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\fabrikas_ieeja\kaste mask.png"
+  ""
+  "Fuse box"
+ end_hotspot_animation
+end_hotspot

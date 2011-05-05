@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKA_TREE
+ 127
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  316
+  0
+  1
+  "gfx\scene\fabrika\tree.lst"
+  "gfx\scene\fabrika\tree mask.png"
+  ""
+  "Tree"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_PUTNI
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  476
+  137
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\fabrikas_ieeja\putni mask.png"
+  ""
+  "Flying rats"
+ end_hotspot_animation
+end_hotspot

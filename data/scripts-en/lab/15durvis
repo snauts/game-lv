@@ -1,0 +1,49 @@
+script
+ SCRIPT_LAB_DURVIS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_DURVIS
+
+ action
+  ACTION_MOVE_CHARACTER
+  0
+  323
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  180
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_GAITENIS
+ end_action       
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  548
+  366
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  420
+  366
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

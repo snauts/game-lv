@@ -1,0 +1,8 @@
+sound
+ SOUND_SNORT
+ 0
+ 100
+ 1
+ 1
+ "sound\wine_cellar\03snort.wav"
+end_sound

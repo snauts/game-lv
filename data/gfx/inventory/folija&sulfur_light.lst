@@ -1,0 +1,30 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames + speed
+14
+5
+# has color key + its value
+1
+-1
+# has alpha + its value
+0
+0
+# image files
+"gfx\inventory\folija+sulfur\folija+sulfur0000.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0001.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0002.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0003.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0004.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0005.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0006.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0007.png"
+
+"gfx\inventory\folija+sulfur\folija+sulfur0006.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0005.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0004.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0003.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0002.png"
+"gfx\inventory\folija+sulfur\folija+sulfur0001.png"
+end_animation_block

@@ -1,0 +1,15 @@
+scene
+ SCENE_BAR_OUTSIDE
+ "gfx\scene\bar_outside\bar_outside.lst"
+ "scenes\bar_outside_walkmask"
+ "sound\ambient\04police"
+ hotspots
+  HOTSPOT_BAR_OUTSIDE_BUILDING		
+  HOTSPOT_BAR_OUTSIDE_DOORS
+  HOTSPOT_BAR_OUTSIDE_TO_SHOP
+  HOTSPOT_BAR_OUTSIDE_CAT
+  HOTSPOT_BAR_OUTSIDE_TABLES		
+  HOTSPOT_BAR_OUTSIDE_TO_PODJEZD
+  HOTSPOT_BAR_OUTSIDE_TO_TRAIN
+ end_hotspots
+end_scene    

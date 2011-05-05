@@ -1,0 +1,29 @@
+hotspot
+ HOTSPOT_PODJEZD_GRANJONKA
+ 170
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  320
+  170
+  1
+  "gfx\scene\podjezd\podjezd_granjonka.lst"
+  "gfx\scene\podjezd\podjezd_granjonka_mask.png"
+  ""
+  "Glass"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  320
+  170
+  1
+  "gfx\scene\podjezd\podjezd_granjonka_strobe.lst"
+  "gfx\scene\podjezd\podjezd_granjonka_mask.png"
+  ""
+  "Glass"
+ end_hotspot_animation
+end_hotspot

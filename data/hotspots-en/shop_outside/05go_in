@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_SHOP_OUTSIDE_GO_IN
+ 274
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  404
+  7
+  1
+  "gfx\scene\shop_outside\shop_front.lst"
+  "gfx\scene\shop_outside\shop_outside_door_mask.png"
+  ""
+  "Grocery shop door"
+ end_hotspot_animation
+
+end_hotspot

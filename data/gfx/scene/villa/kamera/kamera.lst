@@ -1,0 +1,198 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+200
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0000.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+17
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0000.png"
+"gfx\scene\villa\kamera\kamera0001.png"
+"gfx\scene\villa\kamera\kamera0002.png"
+"gfx\scene\villa\kamera\kamera0003.png"
+"gfx\scene\villa\kamera\kamera0004.png"
+"gfx\scene\villa\kamera\kamera0005.png"
+"gfx\scene\villa\kamera\kamera0006.png"
+"gfx\scene\villa\kamera\kamera0007.png"
+"gfx\scene\villa\kamera\kamera0008.png"
+"gfx\scene\villa\kamera\kamera0009.png"
+"gfx\scene\villa\kamera\kamera0010.png"
+"gfx\scene\villa\kamera\kamera0011.png"
+"gfx\scene\villa\kamera\kamera0012.png"
+"gfx\scene\villa\kamera\kamera0013.png"
+"gfx\scene\villa\kamera\kamera0014.png"
+"gfx\scene\villa\kamera\kamera0015.png"
+"gfx\scene\villa\kamera\kamera0016.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+100
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0016.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+16
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0016.png"
+"gfx\scene\villa\kamera\kamera0017.png"
+"gfx\scene\villa\kamera\kamera0018.png"
+"gfx\scene\villa\kamera\kamera0019.png"
+"gfx\scene\villa\kamera\kamera0020.png"
+"gfx\scene\villa\kamera\kamera0021.png"
+"gfx\scene\villa\kamera\kamera0022.png"
+"gfx\scene\villa\kamera\kamera0023.png"
+"gfx\scene\villa\kamera\kamera0024.png"
+"gfx\scene\villa\kamera\kamera0025.png"
+"gfx\scene\villa\kamera\kamera0026.png"
+"gfx\scene\villa\kamera\kamera0027.png"
+"gfx\scene\villa\kamera\kamera0028.png"
+"gfx\scene\villa\kamera\kamera0029.png"
+"gfx\scene\villa\kamera\kamera0030.png"
+"gfx\scene\villa\kamera\kamera0031.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+150
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0031.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+16
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0031.png"
+"gfx\scene\villa\kamera\kamera0030.png"
+"gfx\scene\villa\kamera\kamera0029.png"
+"gfx\scene\villa\kamera\kamera0028.png"
+"gfx\scene\villa\kamera\kamera0027.png"
+"gfx\scene\villa\kamera\kamera0026.png"
+"gfx\scene\villa\kamera\kamera0025.png"
+"gfx\scene\villa\kamera\kamera0024.png"
+"gfx\scene\villa\kamera\kamera0023.png"
+"gfx\scene\villa\kamera\kamera0022.png"
+"gfx\scene\villa\kamera\kamera0021.png"
+"gfx\scene\villa\kamera\kamera0020.png"
+"gfx\scene\villa\kamera\kamera0019.png"
+"gfx\scene\villa\kamera\kamera0018.png"
+"gfx\scene\villa\kamera\kamera0017.png"
+"gfx\scene\villa\kamera\kamera0016.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+50
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0016.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+17
+7
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\villa\kamera\kamera0016.png"
+"gfx\scene\villa\kamera\kamera0015.png"
+"gfx\scene\villa\kamera\kamera0014.png"
+"gfx\scene\villa\kamera\kamera0013.png"
+"gfx\scene\villa\kamera\kamera0012.png"
+"gfx\scene\villa\kamera\kamera0011.png"
+"gfx\scene\villa\kamera\kamera0010.png"
+"gfx\scene\villa\kamera\kamera0009.png"
+"gfx\scene\villa\kamera\kamera0008.png"
+"gfx\scene\villa\kamera\kamera0007.png"
+"gfx\scene\villa\kamera\kamera0006.png"
+"gfx\scene\villa\kamera\kamera0005.png"
+"gfx\scene\villa\kamera\kamera0004.png"
+"gfx\scene\villa\kamera\kamera0003.png"
+"gfx\scene\villa\kamera\kamera0002.png"
+"gfx\scene\villa\kamera\kamera0001.png"
+"gfx\scene\villa\kamera\kamera0000.png"
+end_animation_block
+

@@ -1,0 +1,49 @@
+script
+ SCRIPT_PODJEZD_LEAVE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_PODJEZD_LEAVE
+
+ action
+  ACTION_MOVE_CHARACTER
+  639
+  479
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_START_NEW_SCENE
+  SCENE_BAR_OUTSIDE
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_COORDINATES
+  479
+  287
+ end_action
+
+ action
+  ACTION_DO_FADE_RANDOM
+  50
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  478
+  338
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  270
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

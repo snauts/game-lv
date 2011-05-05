@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_BOTTLE
+ -1
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  467 
+  177
+  1
+  "gfx\scene\bar_inside\bottle.lst"
+  "gfx\scene\bar_inside\bottle mask.png"
+  ""
+  "Empty bottle"
+ end_hotspot_animation
+end_hotspot

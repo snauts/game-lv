@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PRIEKSHTELPA_LOCK
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  498
+  245
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\priekshtelpa\lock mask.png"
+  ""
+  "Lock!"
+ end_hotspot_animation
+end_hotspot

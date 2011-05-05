@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_STREET_EYES
+ 168
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  179
+  202 
+  1
+  "gfx\scene\street\street_eyes.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Eyes"
+ end_hotspot_animation
+end_hotspot

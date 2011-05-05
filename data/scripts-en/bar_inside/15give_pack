@@ -1,0 +1,78 @@
+script
+ SCRIPT_BAR_INSIDE_GIVE_PACK
+ 0
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_PACK
+ HOTSPOT_BAR_INSIDE_BARMAN
+
+ action
+  ACTION_MOVE_CHARACTER
+  400
+  445
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  135
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_PUT
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_PACK
+ end_action
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_BAR_INSIDE_PACK
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_135_MIDDLE_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  1
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "Ahhh."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION 
+  HOTSPOT_BAR_INSIDE_BARMAN
+  4
+ end_action
+
+ action
+  ACTION_SET_STATE
+  YES
+  "barman_talkable?" 
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

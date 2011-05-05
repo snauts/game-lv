@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_BAR_INSIDE_PACK
+ -1
+ 0
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  326
+  262
+  1
+  "gfx\scene\bar_inside\pack.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Cigarettes"
+ end_hotspot_animation
+end_hotspot

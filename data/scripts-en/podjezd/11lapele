@@ -1,0 +1,110 @@
+script
+ SCRIPT_PODJEZD_LAPELE
+ 1
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_ADVERC
+ HOTSPOT_PODJEZD_MAN
+
+ action
+  ACTION_MOVE_CHARACTER
+  400
+  396
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  45
+ end_action
+
+ action
+  ACTION_WAIT_HOTSPOT_ANIM_END
+  HOTSPOT_PODJEZD_MAN
+  1
+ end_action
+
+# action
+#  ACTION_CHANGE_HOTSPOT_ANIMATION
+#  HOTSPOT_PODJEZD_MAN
+#  1
+# end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_045_MIDDLE_HAND_1
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action
+  ACTION_STOP_MUSIC
+ end_action
+
+ action
+  ACTION_START_SOUND
+  ZERO_CHANNEL
+  SOUND_PAPER
+ end_action
+
+ action
+  ACTION_REMOVE_INVENTORY_ITEM
+  ITEM_ADVERC
+ end_action
+
+ action
+  ACTION_PLAY_CHARACTER_ANIMATION
+  CHARACTER_045_MIDDLE_HAND_2
+  DO_NOT_RESUME_WALKING
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  YES
+  "smoker_away?"
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_PODJEZD_MAN
+  3
+ end_action
+
+ action
+  ACTION_SAY_NPC_TEXT
+  "Finally!\n\rI'm gonna go home to take a nap. You bring in the beer, clean everything up,\n\rand do what the bartender tells you."
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_PODJEZD_MAN
+  1
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_PLAY_HOTSPOT_ANIMATION
+  HOTSPOT_PODJEZD_MAN
+  2
+ end_action
+ 
+ action
+  ACTION_HIDE_HOTSPOT
+  HOTSPOT_PODJEZD_MAN
+ end_action
+
+ action
+  ACTION_SHOW_HOTSPOT
+  HOTSPOT_PODJEZD_DOORS
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

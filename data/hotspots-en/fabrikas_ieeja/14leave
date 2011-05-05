@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_LEAVE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  380
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\fabrikas_ieeja\leave mask.png"
+  ""
+  "Leave factory"
+ end_hotspot_animation
+end_hotspot

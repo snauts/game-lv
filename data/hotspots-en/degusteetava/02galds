@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_DEGUSTEETAVA_GALDS
+ 43
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  454
+  217
+  1
+  "gfx\scene\degusteetava\galds.lst"
+  "gfx\scene\degusteetava\galds mask.png"
+  ""
+  "Medicine table"
+ end_hotspot_animation
+
+end_hotspot

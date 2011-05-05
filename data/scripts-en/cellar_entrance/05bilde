@@ -1,0 +1,13 @@
+script
+ SCRIPT_CELLAR_ENTRANCE_BILDE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_CELLAR_ENTRANCE_BILDE
+
+ action 
+  ACTION_SAY_TEXT
+  "Looks like she works on a dairy farm."
+ end_action
+
+end_script

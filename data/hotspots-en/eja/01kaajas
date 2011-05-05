@@ -1,0 +1,40 @@
+hotspot
+ HOTSPOT_EJA_KAAJAS
+ 110
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  438
+  336
+  1
+  "gfx\scene\eja\eja_kaajas.lst"
+  "gfx\scene\eja\eja_kaajas_mask.png"
+  ""
+  "Vasya"
+ end_hotspot_animation
+
+ hotspot_animation
+  1
+  439 
+  344
+  1
+  "gfx\scene\eja\eja_kaajas_final.lst"
+  "gfx\scene\eja\eja_kaajas_final_mask.png"
+  ""
+  "Vasya"
+ end_hotspot_animation
+
+ hotspot_animation
+  2
+  438
+  336
+  1
+  "gfx\scene\eja\eja_kaajas_turn.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Vasya"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,8 @@
+sound
+ SOUND_TAKE
+ 0
+ 90
+ 1
+ 1
+ "sound\script\08take.wav"
+end_sound

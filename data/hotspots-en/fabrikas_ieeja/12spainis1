@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_FABRIKAS_IEEJA_SPAINIS1
+ 145
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  554
+  346
+  1
+  "gfx\scene\fabrikas_ieeja\spainis1.lst"
+  "gfx\scene\fabrikas_ieeja\spainis1 mask.png"
+  ""
+  "Bucket"
+ end_hotspot_animation
+end_hotspot

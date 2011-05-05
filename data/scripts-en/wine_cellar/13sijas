@@ -1,0 +1,13 @@
+script
+ SCRIPT_WINE_CELLAR_SIJAS
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_SIJAS
+
+ action 
+  ACTION_SAY_TEXT
+  "I must be far from the city.\n\rSuch robust and beautiful designs cannot be found there."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_LAB_LIGHT
+ 144
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  43
+  115
+  1
+  "gfx\scene\lab\light\light.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Light"
+ end_hotspot_animation
+end_hotspot

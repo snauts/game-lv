@@ -1,0 +1,40 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+24
+20
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\shop_water_00.png"
+"gfx\scene\shop_inside\shop_water_01.png"
+"gfx\scene\shop_inside\shop_water_02.png"
+"gfx\scene\shop_inside\shop_water_03.png"
+"gfx\scene\shop_inside\shop_water_04.png"
+"gfx\scene\shop_inside\shop_water_05.png"
+"gfx\scene\shop_inside\shop_water_06.png"
+"gfx\scene\shop_inside\shop_water_07.png"
+"gfx\scene\shop_inside\shop_water_08.png"
+"gfx\scene\shop_inside\shop_water_09.png"
+"gfx\scene\shop_inside\shop_water_10.png"
+"gfx\scene\shop_inside\shop_water_11.png"
+"gfx\scene\shop_inside\shop_water_12.png"
+"gfx\scene\shop_inside\shop_water_13.png"
+"gfx\scene\shop_inside\shop_water_14.png"
+"gfx\scene\shop_inside\shop_water_15.png"
+"gfx\scene\shop_inside\shop_water_16.png"
+"gfx\scene\shop_inside\shop_water_17.png"
+"gfx\scene\shop_inside\shop_water_18.png"
+"gfx\scene\shop_inside\shop_water_19.png"
+"gfx\scene\shop_inside\shop_water_20.png"
+"gfx\scene\shop_inside\shop_water_21.png"
+"gfx\scene\shop_inside\shop_water_22.png"
+"gfx\scene\shop_inside\shop_water_23.png"
+end_animation_block                   
+

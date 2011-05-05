@@ -1,0 +1,21 @@
+script
+ SCRIPT_STREET_MUSOR
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_STREET_MUSOR
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I must be paranoid,\n\rbut I swear someone's looking at me from that trash container."
+ end_action
+ 
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

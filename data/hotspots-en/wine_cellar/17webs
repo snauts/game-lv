@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_WINE_CELLAR_WEBS
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  88
+  87
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\wine_cellar\webs mask.png"
+  ""
+  "Spider web"
+ end_hotspot_animation
+end_hotspot

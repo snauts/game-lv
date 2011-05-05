@@ -1,0 +1,8 @@
+sound
+ SOUND_SWITCH
+ 0
+ 85
+ 1
+ 1
+ "sound\atpuutas_telpa\01switch.wav"
+end_sound

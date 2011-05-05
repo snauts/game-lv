@@ -1,0 +1,19 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_BLACK
+ -1
+ 0
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  0
+  0
+  1
+  "gfx\helpers\black.lst"
+  "gfx\helpers\nothing.png"
+  ""
+  "Black"
+ end_hotspot_animation
+
+end_hotspot

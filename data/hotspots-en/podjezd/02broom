@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PODJEZD_BROOM
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  565
+  216
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\podjezd\podjezd_broom_mask.png"
+  ""
+  "Broom"
+ end_hotspot_animation
+end_hotspot

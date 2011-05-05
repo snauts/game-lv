@@ -1,0 +1,33 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+15
+10
+# has color key & its value
+1
+-1
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\shop_inside\tantuks\still.png"
+"gfx\scene\shop_inside\tantuks\talk1.png"
+"gfx\scene\shop_inside\tantuks\talk2.png"
+"gfx\scene\shop_inside\tantuks\talk3.png"
+"gfx\scene\shop_inside\tantuks\talk4.png"
+
+"gfx\scene\shop_inside\tantuks\talk3.png"
+"gfx\scene\shop_inside\tantuks\still.png"
+"gfx\scene\shop_inside\tantuks\talk1.png"
+"gfx\scene\shop_inside\tantuks\talk2.png"
+"gfx\scene\shop_inside\tantuks\talk4.png"
+
+"gfx\scene\shop_inside\tantuks\still.png"
+"gfx\scene\shop_inside\tantuks\talk2.png"
+"gfx\scene\shop_inside\tantuks\talk1.png"
+"gfx\scene\shop_inside\tantuks\talk4.png"
+"gfx\scene\shop_inside\tantuks\talk3.png"
+end_animation_block                   
+

@@ -1,0 +1,8 @@
+sound
+ SOUND_SUCK
+ 0
+ 127
+ 1
+ 1
+ "sound\degusteetava\02suck.wav"
+end_sound

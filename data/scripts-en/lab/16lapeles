@@ -1,0 +1,13 @@
+script
+ SCRIPT_LAB_LAPELES
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_LAB_LAPELES
+
+ action 
+  ACTION_SAY_TEXT
+  "Meat quality certification papers."
+ end_action
+
+end_script

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_CELLAR_ENTRANCE_SAW
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  392
+  158
+  1
+  "gfx\scene\cellar_entrance\saw.lst"
+  "gfx\scene\cellar_entrance\saw mask.png"
+  ""
+  "Hacksaw"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,63 @@
+music
+ MUSIC_STREET
+ 1
+ 48
+ "music/street.ogg"
+end_music
+
+music
+ MUSIC_SHOP
+ 1
+ 57
+ "music/shop.ogg"
+end_music
+
+
+music
+ MUSIC_MAFIA
+ 1
+ 56
+ "music/mafia.ogg"
+end_music
+
+music
+ MUSIC_BAR
+ 1
+ 42
+ "music/bar.ogg"
+end_music
+
+music
+ MUSIC_FABRIKA_OUTSIDE
+ 1
+ 52
+ "music/fabrika_out.ogg"
+end_music
+
+music
+ MUSIC_FABRIKA_INSIDE
+ 1
+ 59
+ "music/fabrika_in.ogg"
+end_music
+
+music
+ MUSIC_CELLAR
+ 1
+ 59
+ "music/cellar.ogg"
+end_music
+
+music
+ MUSIC_FOREST
+ 1
+ 60
+ "music/forest.ogg"
+end_music
+
+music
+ MUSIC_OUTRO
+ 1
+ 53
+ "music/outro.ogg"
+end_music

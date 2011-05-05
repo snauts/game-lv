@@ -1,0 +1,22 @@
+script
+ SCRIPT_EJA_PASTKASTE
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_EJA_PASTKASTE
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "If the newspapers do not disappear at the post office, it happens here."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+
+end_script

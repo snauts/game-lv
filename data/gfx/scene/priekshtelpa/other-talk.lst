@@ -1,0 +1,27 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+10
+15
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\priekshtelpa\other-talk-0.png"
+"gfx\scene\priekshtelpa\other-talk-1.png"
+"gfx\scene\priekshtelpa\other-talk-2.png"
+"gfx\scene\priekshtelpa\other.png"
+
+"gfx\scene\priekshtelpa\other-talk-2.png"
+"gfx\scene\priekshtelpa\other-talk-1.png"
+"gfx\scene\priekshtelpa\other-talk-0.png"
+"gfx\scene\priekshtelpa\other-talk-2.png"
+
+"gfx\scene\priekshtelpa\other-talk-1.png"
+"gfx\scene\priekshtelpa\other.png"
+end_animation_block

@@ -1,0 +1,19 @@
+script
+ SCRIPT_PODJEZD_SMOKE
+ 2147483647
+ SIMPLE_SCRIPT
+
+ action 
+  ACTION_EXECUTE_SCRIPT_IF
+  NO  
+  SCRIPT_PODJEZD_SMOKE_TRIGGERER
+  "smoker_away?"
+ end_action
+
+ action
+  ACTION_CHANGE_HOTSPOT_ANIMATION
+  HOTSPOT_PODJEZD_MAN
+  1
+ end_action
+
+end_script

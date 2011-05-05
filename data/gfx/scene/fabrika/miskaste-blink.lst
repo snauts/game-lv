@@ -1,0 +1,22 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+7
+10
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\miskaste00.png"
+"gfx\scene\fabrika\miskaste01.png"
+"gfx\scene\fabrika\miskaste02.png"
+"gfx\scene\fabrika\miskaste03.png"
+"gfx\scene\fabrika\miskaste02.png"
+"gfx\scene\fabrika\miskaste01.png"
+"gfx\scene\fabrika\miskaste00.png"
+end_animation_block

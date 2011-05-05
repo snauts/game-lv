@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_PODJEZD_LEAVE
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  478
+  50
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\podjezd\podjezd_to_bar_mask.png"
+  ""
+  "Exit tunnel"
+ end_hotspot_animation
+end_hotspot

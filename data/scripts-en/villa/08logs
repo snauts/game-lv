@@ -1,0 +1,126 @@
+script
+ SCRIPT_VILLA_WINDOW
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_VILLA_WINDOW
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  NO
+  2
+  "window_listended?"
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "I have heard enough."
+ end_action
+
+ action 
+  ACTION_STOP_SCRIPT_IF
+  YES
+  "true"
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  201
+  370
+ end_action
+
+ action
+  ACTION_SET_CHARACTER_DIRECTION
+  315
+ end_action
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Father) But sweetie pumpkin, your daddy just wanted what's best for you."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Daughter) If you wanted what's best for me,\n\ryou would've gotten me a pink poodle."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Daughter) And anyways, I don't want a dog, I want a pony!"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Father) A pony? Where will I get a pony, honey?"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Daughter) I don't care where you get it, I want a pony."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT	
+  "(Father) But..."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Daughter) Get me a pony!"
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Father) B..."
+ end_action
+
+ action 
+  ACTION_SAY_NPC_TEXT
+  "(Daughter) A pony!"
+ end_action
+
+ action
+  ACTION_MOVE_CHARACTER
+  168
+  444
+ end_action
+
+ action 
+  ACTION_SET_STATE
+  YES
+  "window_listended?"
+ end_action
+
+ action 
+  ACTION_SKIP_SCRIPT_ACTIONS
+  NO
+  2
+  "window_leave!"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I must get out of here fast."
+ end_action
+ 
+ action
+  ACTION_EXECUTE_SCRIPT_IF
+  YES
+  SCRIPT_VILLA_GATE
+  "true"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "I can't listen to this anymore."
+ end_action
+
+ action
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

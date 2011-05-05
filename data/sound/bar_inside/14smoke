@@ -1,0 +1,8 @@
+sound
+ -1
+ 0
+ 128
+ 1
+ 1
+ "sound\bar_inside\14smoke.wav"
+end_sound

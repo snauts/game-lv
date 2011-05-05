@@ -1,0 +1,189 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+1
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+"gfx\scene\fabrika\poster\poster1.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster7.png"
+
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+1
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+"gfx\scene\fabrika\poster\poster1.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster7.png"
+
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+1
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+"gfx\scene\fabrika\poster\poster1.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster7.png"
+
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+700
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+end_animation_block
+
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+1
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+"gfx\scene\fabrika\poster\poster1.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster7.png"
+
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+14
+1
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+"gfx\scene\fabrika\poster\poster1.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster7.png"
+
+"gfx\scene\fabrika\poster\poster6.png"
+"gfx\scene\fabrika\poster\poster5.png"
+"gfx\scene\fabrika\poster\poster4.png"
+"gfx\scene\fabrika\poster\poster3.png"
+"gfx\scene\fabrika\poster\poster2.png"
+"gfx\scene\fabrika\poster\poster1.png"
+end_animation_block
+
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+1
+300
+# has color key & its value
+1
+16711935
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\fabrika\poster\poster0.png"
+end_animation_block

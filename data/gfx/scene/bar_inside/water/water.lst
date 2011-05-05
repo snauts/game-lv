@@ -1,0 +1,32 @@
+animation_block
+# x un y ofseti
+0
+0
+# total frames & speed
+17
+7
+# has color key & its value
+0
+0
+# has alpha & its value
+0
+0
+# image files
+"gfx\scene\bar_inside\water\water00.png"
+"gfx\scene\bar_inside\water\water01.png"
+"gfx\scene\bar_inside\water\water02.png"
+"gfx\scene\bar_inside\water\water03.png"
+"gfx\scene\bar_inside\water\water04.png"
+"gfx\scene\bar_inside\water\water05.png"
+"gfx\scene\bar_inside\water\water06.png"
+"gfx\scene\bar_inside\water\water07.png"
+"gfx\scene\bar_inside\water\water08.png"
+"gfx\scene\bar_inside\water\water09.png"
+"gfx\scene\bar_inside\water\water10.png"
+"gfx\scene\bar_inside\water\water11.png"
+"gfx\scene\bar_inside\water\water12.png"
+"gfx\scene\bar_inside\water\water13.png"
+"gfx\scene\bar_inside\water\water14.png"
+"gfx\scene\bar_inside\water\water15.png"
+"gfx\scene\bar_inside\water\water16.png"
+end_animation_block

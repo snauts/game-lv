@@ -1,0 +1,9 @@
+scene
+ SCENE_IZJUMINKA
+ "gfx\scene\izjuminka\izjuminka.lst"
+ "scenes\izjuminka_walkmask"
+ "sound\ambient\07cricket"
+ hotspots
+  HOTSPOT_IZJUMINKA_BLACK
+ end_hotspots                     
+end_scene                         

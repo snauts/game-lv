@@ -1,0 +1,12 @@
+scene
+ SCENE_STREET
+ "gfx\scene\street\street.lst"
+ "scenes\street_walkmask"
+ "sound\ambient\04police"
+ hotspots                         
+  HOTSPOT_STREET_TO_START			
+  HOTSPOT_STREET_MUSOR                    
+  HOTSPOT_STREET_SHIT                     
+  HOTSPOT_STREET_EYES                    
+ end_hotspots                     
+end_scene                         

@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_ATPUUTAS_TELPA_TV
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  320
+  203
+  1
+  "gfx\scene\atpuutas_telpa\tv\tv.lst"
+  "gfx\scene\atpuutas_telpa\tv mask.png"
+  ""
+  "Television set"
+ end_hotspot_animation
+end_hotspot

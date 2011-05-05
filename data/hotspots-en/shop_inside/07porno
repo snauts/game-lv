@@ -1,0 +1,18 @@
+hotspot
+ HOTSPOT_SHOP_INSIDE_PORNO
+ 480
+ 1
+ 0
+ 0
+ 0
+ hotspot_animation
+  0
+  200 
+  138 
+  1
+  "gfx\helpers\nothing.lst"
+  "gfx\scene\shop_inside\shop_porno_mask.png"
+  ""
+  "Porn"
+ end_hotspot_animation
+end_hotspot

@@ -1,0 +1,17 @@
+script
+ SCRIPT_WINE_CELLAR_VADI
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_WINE_CELLAR_VADI
+
+ action 
+  ACTION_SAY_TEXT
+  "The Department of Disease Control and Trauma Prevention reminds us:"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Hanging from live wires is a definite sign of ignorance."
+ end_action
+end_script

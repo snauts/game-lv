@@ -1,0 +1,21 @@
+script
+ SCRIPT_SHOP_INSIDE_FLYPAPER
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_SHOP_INSIDE_FLYPAPER
+
+ action
+  ACTION_DISABLE_USER_INPUT
+ end_action
+
+ action
+  ACTION_SAY_TEXT
+  "The number of flies in here would indicate that the goods\n\rare of dubious origin and way past their expiration date."
+ end_action
+
+ action 
+  ACTION_ENABLE_USER_INPUT
+ end_action
+
+end_script

@@ -1,0 +1,174 @@
+dialog
+ DIALOG_BAR_INSIDE_BARMAN
+ 0
+
+ dialog_question
+  0
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_ON
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_OFF
+  0
+  "What...?"
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  1
+  -1
+  -1
+  0
+  ""
+  ""
+  dialog_answer
+   3
+   -1
+   -1
+   0
+   "Pour me a beer!"
+   ""
+  end_dialog_answer
+  dialog_answer
+   2
+   -1
+   -1
+   0
+   "Why is everyone hung over?"
+   ""
+  end_dialog_answer
+  dialog_answer
+   4
+   -1
+   -1
+   0
+   "Do you know where the belash factory is?"
+   ""
+  end_dialog_answer
+  dialog_answer
+   8
+   -1
+   -1
+   0
+   "Forget it."
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# kâpçc visi piedzçruðies?
+###########################################
+
+ dialog_question
+  2
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_ON
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_OFF
+  0
+  "The boss celebrated his daughter's birthday yesterday.\n\rEveryone had to drink."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# Ielej alu
+###########################################
+
+ dialog_question
+  3
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_ON
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_OFF
+  0
+  "Mop the floor!"
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# Fabrikas zars
+###########################################
+
+ dialog_question
+  4
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_ON
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_OFF
+  0
+  "Sure."
+  ""
+  dialog_answer
+   7
+   SCRIPT_BAR_INSIDE_TURN_ON_TRAIN
+   -1
+   0
+   "And?"
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  7
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_ON
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_OFF
+  0
+  "Take the tram to a stop called \"Belash factory\"."
+  ""
+  dialog_answer
+   700
+   -1
+   -1
+   0
+   "Where can I find the tram?"
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+ dialog_question
+  700
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_ON
+  SCRIPT_BAR_INSIDE_SWITCH_TALK_OFF
+  0
+  "To the right of the bar entrance."
+  ""
+  dialog_answer
+   1
+   -1
+   -1
+   0
+   ""
+   ""
+  end_dialog_answer
+ end_dialog_question
+
+###########################################
+# END
+###########################################
+
+ dialog_question
+  8
+  -1
+  -1
+  0
+  ""
+  ""
+ end_dialog_question
+
+end_dialog
+

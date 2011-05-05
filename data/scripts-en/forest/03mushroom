@@ -1,0 +1,18 @@
+script
+ SCRIPT_FOREST_MUSHROOM
+ 2147483647
+ ITEM_ON_HOTSPOT_SCRIPT
+ ITEM_CURSOR
+ HOTSPOT_FOREST_MUSHROOM
+
+ action 
+  ACTION_SAY_TEXT
+  "Wow, those are huge!"
+ end_action
+
+ action 
+  ACTION_SAY_TEXT
+  "Could they be radioactive?"
+ end_action
+
+end_script
