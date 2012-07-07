@@ -45,6 +45,13 @@ int gameLV_main(int argc, char** argv) {
 
 		        video_flags |= SDL_FULLSCREEN;
 				dout << "Fullscreen enabled..." << endl;
+
+		} else if(!strcmp("-h", argBuf) || !strcmp("--help", argBuf)) {
+			printf("Usage:\n");
+			printf("  -new		start new game\n");
+			printf("  -f		run in fullscreen\n");
+			printf("  -h		this usage info\n");
+			return 0;
 		} else if(!strcmp("-a", argBuf)) {
 			doCharacterAntialiasing = true;
 			dout << "Character antialiasing enabled..." << endl;
