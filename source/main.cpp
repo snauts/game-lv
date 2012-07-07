@@ -33,7 +33,7 @@ int gameLV_main(int argc, char** argv) {
 	int bpp = 32;
 	int defaultAction = -1;
 	//int defaultAction = MENU_NEW_GAME;
-	unsigned video_flags =  SDL_OPENGL;
+	unsigned video_flags =  SDL_OPENGL | SDL_DOUBLEBUF | SDL_HWSURFACE;
 	atexit(SDL_Quit);
 	dout << "Processing command line..." << endl;
 	char argBuf[256];
