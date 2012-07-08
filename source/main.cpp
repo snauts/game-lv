@@ -41,12 +41,16 @@ int gameLV_main(int argc, char** argv) {
 		dout << "Argument [" << a << "], value: '" << argv[a] << "'" << endl;
 		strcpy(argBuf, argv[a]);
 
-		if(!strcmp("-f", argBuf)) {
+		if(!strcmp("-f", argBuf)
+		   || !strcmp("-fullscreen", argBuf)
+		   || !strcmp("--fullscreen", argBuf)) {
 
 		        video_flags |= SDL_FULLSCREEN;
 				dout << "Fullscreen enabled..." << endl;
 
-		} else if(!strcmp("-h", argBuf) || !strcmp("--help", argBuf)) {
+		} else if(!strcmp("-h", argBuf)
+			  || !strcmp("-help", argBuf)
+			  || !strcmp("--help", argBuf)) {
 			printf("Usage:\n");
 			printf("  -new		start new game\n");
 			printf("  -f		run in fullscreen\n");

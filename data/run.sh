@@ -1,9 +1,7 @@
 #!/bin/bash
 
-if [ ! -e ../source/game-lv ]; then
-    make -C ../source/
-fi
+make -C ../source/
 
 if [ -e ../source/game-lv ]; then
-    ../source/game-lv -f
+    ../source/game-lv $*
 fi
