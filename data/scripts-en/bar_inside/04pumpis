@@ -16,7 +16,7 @@ script
 
  action
   ACTION_SAY_TEXT
-  "When I find Fudge, I'm gonna relax and knock back a few."
+  "When I find Potato, I'm gonna relax and knock back a few."
  end_action
 
  action 

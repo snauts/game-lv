@@ -14,7 +14,7 @@ script
 
  action
   ACTION_SAY_TEXT
-  "I'm not leaving without Fudge."
+  "I'm not leaving without Potato."
  end_action
 
  action 

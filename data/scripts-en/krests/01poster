@@ -30,7 +30,7 @@ script
 
  action
   ACTION_SAY_TEXT
-  "I must hurry to save Fudge!"
+  "I must hurry to save Potato!"
  end_action
  
  action 

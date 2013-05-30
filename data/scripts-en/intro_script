@@ -73,7 +73,7 @@ script
  
  action
   ACTION_SAY_TEXT
-  "Fudge, Fudge!"
+  "Potato, Potato!"
  end_action
 
  action
@@ -159,7 +159,7 @@ script
  
  action
   ACTION_SAY_TEXT
-  "Fudge?"
+  "Potato?"
  end_action
  
  action

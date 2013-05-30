@@ -16,7 +16,7 @@ script
 
  action
   ACTION_SAY_TEXT
-  "Until I find Fudge - not."
+  "Until I find Potato - not."
  end_action
 
  action
