@@ -2,7 +2,7 @@ FILES=main.o readfile.o sysfonc.o video.o walkmask.o execute_script.o game.o loa
 
 game-lv: $(FILES)
 	g++ $(FILES) \
-		-lvorbisfile -lSDL -lSDL_mixer -lSDL_image -lsmpeg -lGLU \
+		-lvorbisfile -lSDL -lSDL_mixer -lSDL_image -lsmpeg -lGL -lGLU \
 		-o game-lv
 
 all: game-lv
